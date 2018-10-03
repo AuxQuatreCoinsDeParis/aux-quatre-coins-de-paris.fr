@@ -5,9 +5,21 @@
     {{ with $bundle}}
     <div class="tips-wrapper flex-row">
       {{ range $bundle.Data.Pages }}
-      <div class="tips-box">
-        <h2>{{ .Title }}</h2>
-        <p>{{ .Content }}</p>
+      <div class="tips-box flex-col">
+        {{- $source2 := .Param "imageBig" -}}
+        {{- $alt := .Param "title" -}}
+        {{- with .Param "image" -}}
+        <picture class="full-width">
+          {{- with $source2 -}}
+          <source src="{{ $source2 }}" media="(min-width: 1024px)">
+          {{- end -}}
+          <img src="{{ . }}" alt="{{ $alt }}" class="full-width">
+        </picture>
+        {{- end -}}
+        <div class="tips-content">
+          <h2>{{ .Title }}</h2>
+          <p>{{ .Content }}</p>
+        </div>
       </div>
       {{ end }}
     </div>

@@ -62,7 +62,7 @@ textarea {
 .logo-box-img {
   width: 8.5vw;
 }
-img.full-width {
+.full-width {
   height: auto;
   width: 100%;
 }
@@ -180,4 +180,24 @@ footer h3 {
     margin: 0 auto;
     max-width: 1200px;
   }
+}
+
+/*** Home ***/
+.tips-wrapper {
+  justify-content: space-between;
+}
+.tips-box {
+  flex-basis: 0;
+  flex-grow: 1;
+  padding: 0 2em;
+}
+.tips-box .full-width {
+  display: flex;
+}
+.tips-content {
+  background: #def6fe;
+  flex-grow: 1;
+  margin: -125px 20px 0;
+  padding: 20px;
+  position: relative;
 }
