@@ -1,0 +1,14 @@
+baseURL = "https://aux-quatre-coins-de-paris.fr/"
+defaultContentLanguage = "en"
+title = "Aux quatre coins de Paris"
+theme = "auxquatrecoins"
+
+[languages]
+  [languages.en]
+    catchPhrase = "Make the most of Paris!"
+    [languages.en.params]
+      subtitle = "Private travel planner"
+  [languages.fr]
+    catchPhrase = "Make the most of Paris fr!"
+    [languages.fr.params]
+      subtitle = "Private travel planner fr"

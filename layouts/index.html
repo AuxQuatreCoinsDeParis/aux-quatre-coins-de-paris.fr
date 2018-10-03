@@ -1,0 +1,14 @@
+{{ define "main" -}}
+  <article class="content-width">
+    <h1 class="fSketch text-center">{{ .Content }}</h1>
+    {{- $bundle := .Site.GetPage "page" "home" -}}
+    <div class="flex-row">
+    {{ range $bundle.Data.Pages }}
+      <div class="tips-box">
+        <h2>{{ .Title }}</h2>
+        <p>{{ .Content }}</p>
+      </div>
+    {{ end }}
+    </div>
+  </article>
+{{- end }}

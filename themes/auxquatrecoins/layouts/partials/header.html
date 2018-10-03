@@ -1,0 +1,43 @@
+<header class="main-header">
+  <div class="main-titles flex-row">
+    <a href="{{ .Site.BaseURL }}">
+      <figure class="logo-box-img">
+        <img src="/images/a4cp-logo-compact-white.svg" class="size-full" alt="" />
+      </figure>
+    </a>
+    <div class="title-wrapper">
+      <h1 class="fSketch title">
+        <a href="{{ .Site.BaseURL }}" class="link-light">{{ .Site.Title }}</a>
+      </h1>
+      <p class="fQuatro subtitle">{{ i18n "subtitle" }}</p>
+    </div>
+  </div>
+  <nav class="main-nav">
+    <ul class="content-width flex-row menu-top">
+      <li class="menu-item">
+        <a href="">{{ i18n "planning"}}</a>
+      </li>
+      <li class="menu-item">
+        <a href="">{{ i18n "private_tour"}}</a>
+      </li>
+      <li class="menu-item">
+        <a href="">{{ i18n "pricing"}}</a>
+      </li>
+      <li class="menu-item">
+        <a href="">{{ i18n "contact"}}</a>
+      </li>
+      <li class="submenu-wrapper menu-item">
+      {{ if .IsTranslated }}
+      <span>{{ i18n "language" }} <span class="fas fa-angle-down fa-xs"></span></span>
+      <ul class="submenu links-light">
+        {{ range .Translations }}
+        <li>
+          <a href="{{ .Permalink }}">{{ .Lang }}</a>
+        </li>
+        {{ end }}
+      </ul>
+      {{ end }}
+      </li>
+    </ul>
+  </nav>
+</header>

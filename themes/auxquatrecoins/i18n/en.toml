@@ -1,0 +1,23 @@
+[home]
+  other = "Home"
+
+[subtitle]
+  other = "Private Travel Planner"
+
+[donotexist]
+  other = "This page doesn't seem to exist."
+
+[language]
+  other = "English"
+  
+[planning]
+  other = "Planning"
+
+[private_tour]
+  other = "Private Tour"
+
+[pricing]
+  other = "Pricing"
+
+[contact]
+  other = "Contact"

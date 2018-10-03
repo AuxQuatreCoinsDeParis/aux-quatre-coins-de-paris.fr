@@ -1,0 +1,23 @@
+[home]
+  other = "Accueil"
+
+[subtitle]
+  other = "Private Travel Planner"
+
+[donotexist]
+  other = "Cette page ne semble pas exister."
+  
+[language]
+  other = "Français"
+
+[planning]
+  other = "Planifier"
+
+[private_tour]
+  other = "Se promener"
+
+[pricing]
+  other = "Offrir"
+
+[contact]
+  other = "Contact"
