@@ -1,13 +1,13 @@
 ---
-title: "WELCOME & ASSISTANCE"
+title: "Accueil & Assistance"
 date: 2018-10-02T16:19:46+02:00
 draft: true
 type: "page"
 image: "/images/home/audrey-on-the-phone_01-768x768.jpg"
 imageBig: "/images/home/audrey-on-the-phone_01-1024x1024.jpg"
-title: "Audrey au téléphone"
+imageTitle: "Audrey au téléphone"
 ---
 
-Audrey, founder of Aux quatre coins de Paris, welcomes you the day of your arrival. She will meet you on your place of accomodation and will help you to quickly take your mark in the city. At that time, she will also give you your welcome kit including a printed version of your travel plan, a special guide to make the most of Paris, a public transport map, a prepaid French SIM card and all the tickets and vouchers for the activities you booked with us.
+Audrey, la créatrice d’Aux quatre coins de Paris, vous accueille le jour de votre arrivée. Elle vous rencontrera sur le lieu de votre hébergement et vous aidera à rapidement prendre vos marques dans la ville. A cette occasion, elle vous remettra également votre coffret de bienvenue comprenant votre planning, un guide pour profiter au mieux de Paris, une carte des transports en commun, une carte SIM prépayée, ainsi que les billets des activités que vous aurez éventuellement réservées.
 
-The French SIM card will make communications easier in Paris: you will be able to join us on the phone. We will answer all of your questions!
+La carte SIM facilitera nos échanges à Paris : vous pourrez nous joindre au téléphone. Nous répondrons à toutes vos questions !

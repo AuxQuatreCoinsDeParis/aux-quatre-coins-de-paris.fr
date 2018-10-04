@@ -1,13 +1,14 @@
 {{ define "main" -}}
   <article class="content-width">
-    <h1 class="fSketch text-center">{{ .Content }}</h1>
+    {{ .Content }}
+
     {{- $bundle := .Site.GetPage "page" "home" -}}
     {{ with $bundle}}
     <div class="tips-wrapper flex-row">
       {{ range $bundle.Data.Pages }}
       <div class="tips-box flex-col">
         {{- $source2 := .Param "imageBig" -}}
-        {{- $alt := .Param "title" -}}
+        {{- $alt := .Param "imageTitle" -}}
         {{- with .Param "image" -}}
         <picture class="full-width">
           {{- with $source2 -}}
@@ -16,13 +17,18 @@
           <img src="{{ . }}" alt="{{ $alt }}" class="full-width">
         </picture>
         {{- end -}}
-        <div class="tips-content">
-          <h2>{{ .Title }}</h2>
+        <div class="fRoboto tips-content">
+          <h2 class="fPhilo h2 text-center">{{ .Title }}</h2>
           <p>{{ .Content }}</p>
+          {{ if .Param "button" }}
+          <a href="{{.Param "buttonSlug" }}"
+            class="btn btn-light btn-full text-center">{{ i18n "more" }}</a>
+          {{ end }}
         </div>
       </div>
       {{ end }}
     </div>
     {{ end }}
+
   </article>
 {{- end }}

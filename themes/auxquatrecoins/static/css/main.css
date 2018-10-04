@@ -18,6 +18,9 @@ textarea {
   font-size: 1rem
 }
 
+#content {
+  margin: 3em 0;
+}
 .content-width {
   margin: 0 2em
 }
@@ -51,12 +54,60 @@ textarea {
   font-family: "Quattrocento Sans", Sans-serif;
   font-weight: 400;
 }
+.fPhilo {
+  font-family: "Philosopher", Sans-serif;
+  font-weight: 600;
+}
+.fRoboto {
+  font-family: "Roboto", sans-serif;
+}
+
+.h1,
+.h2 {
+  color: #1569ae;
+  line-height: 1.3em;
+}
+.h1 {
+  font-size: 2.33rem;
+  margin: 0.5em 0 1em;
+}
+.h2 {
+  font-size: 1.8rem;
+  margin: 0.2em 0 0.5em;
+  text-transform: uppercase;
+}
 .links-light a,
 .link-light,
 .links-light a:hover,
-.link-light:hover {
+.link-light:hover,
+.links-light a:focus,
+.link-light:focus {
   color: #fff;
   text-decoration: none;
+}
+.btn {
+  display: inline-block;
+  font-weight: 400;
+  padding: 0.8em 1em;
+  transition: all 0.2s ease-in-out;
+}
+.btn:focus,
+.btn:hover {
+  text-decoration: none;
+}
+.btn-light {
+  background: #fdd247;
+  color: #20396f;
+}
+.btn-light:focus,
+.btn-light:hover {
+  background: #fcdb6f;
+}
+.btn-round {
+  border-radius: 4px;
+}
+.btn-full {
+  display: block;
 }
 
 .logo-box-img {
@@ -189,6 +240,8 @@ footer h3 {
 .tips-box {
   flex-basis: 0;
   flex-grow: 1;
+  font-weight: 300;
+  line-height: 1.6em;
   padding: 0 2em;
 }
 .tips-box .full-width {
@@ -200,4 +253,13 @@ footer h3 {
   margin: -125px 20px 0;
   padding: 20px;
   position: relative;
+}
+.tips-content strong {
+  font-weight: 500;
+}
+.tips-content .btn-full {
+  font-size: 1.125rem;
+  font-weight: 500;
+  margin: 2em -20px -20px;
+  text-transform: uppercase;
 }

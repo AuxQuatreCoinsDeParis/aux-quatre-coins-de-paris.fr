@@ -6,8 +6,12 @@ type: "page"
 image: "/images/home/localers-tips-paris-street-768x768.jpg"
 imageBig: "/images/home/localers-tips-paris-street-1024x1024.jpg"
 title: "Localer's tips paris street"
+button: true
+buttonSlug: 'fr/ce-que-nous-faisons/'
 ---
 
-Aux quatre coins de Paris creates for you a **bespoke travel** plan according to your wishes and expectations for your stay. We suggest you itineraries, activities and places to eat or to do shopping. If you wish, we can book restaurants and activities for you. Skip the lines without making a single phone call!
+Aux quatre coins de Paris crée pour vous un **planning sur mesure** selon vos souhaits et attentes pour votre séjour à Paris. Nous vous suggérons itinéraires, activités et lieux où vous restaurer ou faire du shopping. Si vous le souhaitez, nous pouvons **réserver** restaurants et activités pour vous.
 
-The activities booked besides are charged in addition to our services.
+**Gagnez du temps sur les files d’attente sans passer un seul coup de fil !**
+
+Les activités réservées en plus font l’objet d’une seconde facturation.
