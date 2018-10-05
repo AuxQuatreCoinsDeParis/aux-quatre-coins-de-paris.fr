@@ -1,0 +1,6 @@
+{{- if .Parent -}}
+  <li class="flex-col">
+    <span class="icon fas fa-{{ .Get "icon" }}"></span>
+    {{ .Inner }}
+  </li>
+{{- end -}}

@@ -103,6 +103,14 @@ textarea {
 .btn-light:hover {
   background: #fcdb6f;
 }
+.btn-sky {
+  background: #5bc0de;
+  color: #162546;
+}
+.btn-sky:focus,
+.btn-sky:hover {
+  background: #62c2df;
+}
 .btn-round {
   border-radius: 4px;
 }
@@ -165,19 +173,26 @@ textarea {
 .menu-top a,
 .menu-top li > span {
   color: #fff;
+  cursor: pointer;
   display: block;
   padding: 0.5em 1em;
+  transition: all 0.2s ease-in-out;
 }
 .menu-top a:hover,
 .menu-top a:focus {
   background: rgba(110,193,228,.7);
   text-decoration: none;
 }
+.flag {
+  margin-right: 0.3em;
+  margin-bottom: 2px;
+}
 .submenu-wrapper {
   position: relative;
 }
 .submenu {
   display: none;
+  font-size: 0.9em;
   list-style: none;
   padding: 0;
   position: absolute;
@@ -187,6 +202,17 @@ textarea {
   background: #545454;
   background: rgba(0,0,0,0.8);
   display: block;
+  animation: 0.3s menu-open;
+}
+@keyframes menu-open {
+  0% {
+    opacity: 0;
+    height: 0%;
+  }
+  100% {
+    opacity: 1;
+    height: 90%;
+  }
 }
 
 /*** Footer ***/
@@ -199,19 +225,23 @@ footer h3 {
   font-size: 1.5625rem;
   margin: 0;
 }
+.footer-profile-wrapper,
+.footer-links {
+  flex-grow: 1;
+}
 .footer-profile-wrapper {
   font-size: 1.125rem;
-  margin-right: 8%;
+  margin-right: 4%;
 }
 .footer-profile-wrapper .logo-box-img {
   box-sizing: border-box;
   padding-right: 1.8vw;
 }
 .footer-social {
-  margin: 1em 0;
+  margin: 0.5em 0 2em;
 }
 .footer-social .social-icon + .social-icon {
-  margin-left: 1em;
+  margin-left: 1.5em;
 }
 
 @media screen and (min-width: 768px) {
@@ -250,9 +280,12 @@ footer h3 {
 .tips-content {
   background: #def6fe;
   flex-grow: 1;
-  margin: -125px 20px 0;
+  margin: 1em 20px 0;
   padding: 20px;
   position: relative;
+}
+picture + .tips-content {
+  margin-top: -125px;
 }
 .tips-content strong {
   font-weight: 500;
@@ -262,4 +295,22 @@ footer h3 {
   font-weight: 500;
   margin: 2em -20px -20px;
   text-transform: uppercase;
+}
+
+.list-icon {
+  align-content: center;
+  color: #1569ae;
+  font-size: 1.2rem;
+  font-weight: 600;
+  margin: 1em 0 2em;
+  width: 100%;
+}
+.list-icon li {
+  padding: 0 5%;
+  text-align: center;
+}
+.list-icon .icon {
+  color: #fdd247;
+  font-size: 3rem;
+  margin-bottom: 1rem;
 }

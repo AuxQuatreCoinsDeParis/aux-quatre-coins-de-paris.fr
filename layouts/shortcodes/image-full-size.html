@@ -1,0 +1,10 @@
+{{- $source2 := .Get "image-big" -}}
+{{- $alt := .Get "title" -}}
+{{- with .Get "image" -}}
+<picture class="full-width">
+  {{- with $source2 -}}
+  <source src="{{ $source2 }}" media="(min-width: 1024px)">
+  {{- end -}}
+  <img src="{{ . }}" alt="{{ $alt }}" class="full-width">
+</picture>
+{{- end -}}

@@ -6,11 +6,12 @@
     {{ with $bundle}}
     <div class="tips-wrapper flex-row">
       {{ range $bundle.Data.Pages }}
+      {{ if eq (.Param "type") "page" }}
       <div class="tips-box flex-col">
         {{- $source2 := .Param "imageBig" -}}
         {{- $alt := .Param "imageTitle" -}}
         {{- with .Param "image" -}}
-        <picture class="full-width">
+        <picture>
           {{- with $source2 -}}
           <source src="{{ $source2 }}" media="(min-width: 1024px)">
           {{- end -}}
@@ -27,7 +28,12 @@
         </div>
       </div>
       {{ end }}
+      {{ end }}
     </div>
+    {{ end }}
+
+    {{ with .Site.GetPage "/home/walking-tour" }}
+      {{ .Content }}
     {{ end }}
 
   </article>

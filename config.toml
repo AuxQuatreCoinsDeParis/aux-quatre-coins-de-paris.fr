@@ -6,9 +6,7 @@ theme = "auxquatrecoins"
 [languages]
   [languages.en]
     catchPhrase = "Make the most of Paris!"
-    [languages.en.params]
-      subtitle = "Private travel planner"
+    languageName = "English"
   [languages.fr]
     catchPhrase = "Make the most of Paris fr!"
-    [languages.fr.params]
-      subtitle = "Private travel planner fr"
+    languageName = "Français"
