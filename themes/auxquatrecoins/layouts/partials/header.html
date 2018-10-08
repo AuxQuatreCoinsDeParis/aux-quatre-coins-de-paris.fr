@@ -1,5 +1,5 @@
 <header class="main-header">
-  <div class="main-titles flex-row">
+  <div class="main-titles flex-row-s">
     <a href="{{ .Site.BaseURL }}">
       <figure class="logo-box-img">
         <img src="/images/a4cp-logo-compact-white.svg" class="size-full" alt="" />
@@ -13,10 +13,12 @@
     </div>
   </div>
   <nav class="main-nav">
-    <ul class="content-width flex-row menu-top">
+    <ul class="content-width flex-row-s menu-top">
+    {{- with .Site.GetPage "/what-we-do" -}}
       <li class="menu-item">
-        <a href="">{{ i18n "planning"}}</a>
+        <a href="{{ .Permalink }}">{{ i18n "planning"}}</a>
       </li>
+    {{ end }}
       <li class="menu-item">
         <a href="">{{ i18n "private_tour"}}</a>
       </li>

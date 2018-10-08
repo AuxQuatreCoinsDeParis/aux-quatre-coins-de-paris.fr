@@ -1,12 +1,12 @@
 {{ define "main" -}}
-  <article class="content-width">
+  <section class="content-width">
     {{ .Content }}
 
     {{- $bundle := .Site.GetPage "page" "home" -}}
-    {{ with $bundle}}
-    <div class="tips-wrapper flex-row">
-      {{ range $bundle.Data.Pages }}
-      {{ if eq (.Param "type") "page" }}
+    {{- with $bundle -}}
+    <div class="tips-wrapper flex-row-s">
+      {{- range $bundle.Data.Pages -}}
+      {{- if eq (.Param "type") "page" -}}
       <div class="tips-box flex-col">
         {{- $source2 := .Param "imageBig" -}}
         {{- $alt := .Param "imageTitle" -}}
@@ -18,23 +18,61 @@
           <img src="{{ . }}" alt="{{ $alt }}" class="full-width">
         </picture>
         {{- end -}}
-        <div class="fRoboto tips-content">
+        <div class="fRoboto tips-content flex-col">
           <h2 class="fPhilo h2 text-center">{{ .Title }}</h2>
           <p>{{ .Content }}</p>
-          {{ if .Param "button" }}
+          {{- if .Param "button" -}}
           <a href="{{.Param "buttonSlug" }}"
             class="btn btn-light btn-full text-center">{{ i18n "more" }}</a>
-          {{ end }}
+          {{- end -}}
         </div>
       </div>
-      {{ end }}
-      {{ end }}
+      {{- end -}}
+      {{- end -}}
     </div>
-    {{ end }}
+    {{- end -}}
 
-    {{ with .Site.GetPage "/home/walking-tour" }}
+    {{- with .Site.GetPage "/home/walking-tour" -}}
+    <div class="mosaic-content-wrapper flex-row-m">
+      <div class="mosaic-content">
+        {{ .Content }}
+      </div>
+      <div class="mosaic-wrapper">
+        {{- with .Param "image1" -}}
+        <span class="mosaic-item mosaic-item-1"><img src="/images/{{ . }}" alt="" class="full-width"></span>
+        {{- end -}}
+        {{- with .Param "image2" -}}
+        <span class="mosaic-item mosaic-item-2"><img src="/images/{{ . }}" alt="" class="full-width"></span>
+        {{- end -}}
+        {{- with .Param "image3" -}}
+        <span class="mosaic-item mosaic-item-3"><img src="/images/{{ . }}" alt="" class="full-width"></span>
+        {{- end -}}
+        {{- with .Param "image4" -}}
+        <span class="mosaic-item mosaic-item-4"><img src="/images/{{ . }}" alt="" class="full-width"></span>
+        {{- end -}}
+      </div>
+    </div>
+    {{- end -}}
+
+  {{- with .Site.GetPage "/home/how-it-work" -}}
+  </section>
+
+  <section class="bg-sky py-1">
+    <div class="content-width">
       {{ .Content }}
-    {{ end }}
+    </div>
+  </section>
 
-  </article>
+  <section class="content-width">
+  {{- end -}}
+    <h2 class="fSketch h1 text-center">{{ i18n "enjoy" }}</h2>
+    <p class="text-center">
+      <a href="" class="btn btn-light btn-round btn-picto mx-1">
+        <span class="fas fa-comments"></span> {{ i18n "letstalk" }}
+      </a>
+      <a href="" class="btn btn-sky btn-round btn-picto mx-1">
+        <span class="fas fa-list"></span> {{ i18n "prices" }}
+      </a>
+    </p>
+  </section>
 {{- end }}

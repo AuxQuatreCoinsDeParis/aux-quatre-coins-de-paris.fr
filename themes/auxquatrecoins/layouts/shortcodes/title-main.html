@@ -1,0 +1,6 @@
+{{ if .Get "level" }}
+  {{ $tag := .Get "level" }}
+  <h{{ $tag }} class="fSketch h1{{ with .Get "align" }} text-center{{ end }}">{{ .Inner }}</h{{ $tag }}>
+{{ else }}
+  <h1 class="fSketch h1{{ with .Get "align" }} text-center{{ end }}">{{ .Inner }}</h1>
+{{ end }}

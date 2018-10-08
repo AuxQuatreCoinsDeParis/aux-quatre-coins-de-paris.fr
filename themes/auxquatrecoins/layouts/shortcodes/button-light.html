@@ -1,0 +1,3 @@
+<a href="{{ .Get "URL" }}" class="btn btn-light btn-round text-center">
+  {{- with .Inner }}{{ .Inner }}{{ else }}{{ i18n "more" }}{{ end -}}
+</a>
