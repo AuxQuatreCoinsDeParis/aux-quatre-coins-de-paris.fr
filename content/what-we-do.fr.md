@@ -3,6 +3,9 @@ title: "Ce que nous faisons"
 date: 2018-10-08T11:51:48+02:00
 draft: true
 slug: "ce-que-nous-faisons"
+menu: 
+    header:
+        name: "Planifier"
 ---
 
 {{< title-main level="1">}}Ce que nous faisons{{< /title-main >}}
@@ -21,4 +24,6 @@ Chaque voyageur est unique. Vous ne ressemblez à personne d’autre, pas vrai ?
   {{< image-button title="Paris entre ami(e)s"
       image="/what-we-do/Paris-with-friends-1024x683.jpeg"
       link="#" >}}
+  {{< button-light URL="/fr/se-promener/" icon="comments" >}} Discutons-en ! {{< /button-light >}}
+  {{< button-sky URL="/fr/se-promener/" icon="list" >}} Tarifs {{< /button-sky >}}
 {{< /tiles-list >}}

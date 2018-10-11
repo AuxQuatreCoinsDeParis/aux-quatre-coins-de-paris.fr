@@ -14,14 +14,11 @@
   </div>
   <nav class="main-nav">
     <ul class="content-width flex-row-s menu-top">
-    {{- with .Site.GetPage "/what-we-do" -}}
+    {{ range .Site.Menus.header }}
       <li class="menu-item">
-        <a href="{{ .Permalink }}">{{ i18n "planning"}}</a>
+        <a href="{{ .URL }}">{{ .Name }}</a>
       </li>
     {{ end }}
-      <li class="menu-item">
-        <a href="">{{ i18n "private_tour"}}</a>
-      </li>
       <li class="menu-item">
         <a href="">{{ i18n "pricing"}}</a>
       </li>

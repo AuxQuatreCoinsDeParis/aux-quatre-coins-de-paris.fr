@@ -1,3 +1,4 @@
-<a href="{{ .Get "URL" }}" class="btn btn-sky btn-round text-center">
-  {{- .Inner -}}
+<a href="{{ .Get "URL" }}" class="btn btn-sky btn-round text-center{{ if .Get `icon`}} btn-picto{{ end }}">
+  {{- with .Get "icon" }}<span class="fas fa-{{ . }}"></span> {{ end -}}
+  {{- with .Inner }}{{ . }}{{ else }}{{ i18n "more" }}{{ end -}}
 </a>
