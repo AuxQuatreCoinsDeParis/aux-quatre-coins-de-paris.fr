@@ -72,15 +72,20 @@ textarea {
 }
 
 .h1,
-.h2 {
+.h2,
+.h3 {
   color: #1569ae;
   line-height: 1.3em;
 }
 .h1 {
-  font-size: 2.33rem;
+  font-size: 2.6rem;
   margin: 0.5em 0 1em;
 }
 .h2 {
+  font-size: 2rem;
+  margin: 0.2em 0 0.5em;
+}
+.h3 {
   font-size: 1.8rem;
   margin: 0.2em 0 0.5em;
   text-transform: uppercase;
@@ -281,7 +286,6 @@ footer h3 {
   flex-grow: 1;
 }
 .footer-profile-wrapper {
-  font-size: 1.125rem;
   margin-right: 4%;
 }
 .footer-profile-wrapper .logo-box-img {
@@ -293,6 +297,9 @@ footer h3 {
 }
 .footer-social .social-icon + .social-icon {
   margin-left: 1.5em;
+}
+.footer-links .menu-item {
+  font-size: 1rem;
 }
 
 /* @media screen and (min-width: 768px) {
@@ -422,10 +429,10 @@ picture + .tips-content {
   padding-bottom: 1em
 }
 
-.image-tile-list {
+.tile-list {
   margin: 1.5em 0;
 }
-.image-tile-list .image-tile {
+.tile-list .image-tile {
   margin: 0.5em 0;
   text-align: center;
 }
@@ -468,8 +475,24 @@ picture + .tips-content {
 .image-tile .btn-border {
   background: rgba(0,0,0,0.15);
 }
-.image-tile-list > .btn {
+.tile-list > .btn {
   margin: 0.5em 0;
+}
+
+.article-classic * {
+  order: 2;
+}
+.article-classic img {
+  height: auto;
+  margin-bottom: 1em;
+  order: 1;
+  width: 100%;
+}
+.article-classic p:last-of-type {
+  display: flex;
+  flex-grow: 1;
+  align-items: flex-end;
+  justify-content: center;
 }
 @media screen and (max-width: 400px) {
   .image-tile img {
@@ -479,23 +502,24 @@ picture + .tips-content {
   }
 }
 @media screen and (min-width: 992px) {
-  .image-tile-list {
+  .tile-list {
     display: flex;
     flex-direction: row;
     flex-wrap: wrap;
     justify-content: space-between;
   }
-  .image-tile-list .image-tile {
+  .tile-list .article-classic,
+  .tile-list .image-tile {
     width: 49%;
   }
-  .image-tile-list > .btn {
+  .tile-list > .btn {
     margin: 0.5em 1%;
     min-width: 22%;
   }
-  .image-tile-list > .btn:nth-of-type(odd) {
+  .tile-list > .btn:nth-of-type(odd) {
     margin-left: auto;
   }
-  .image-tile-list > .btn:nth-of-type(even) {
+  .tile-list > .btn:nth-of-type(even) {
     margin-right: auto;
   }
 }
