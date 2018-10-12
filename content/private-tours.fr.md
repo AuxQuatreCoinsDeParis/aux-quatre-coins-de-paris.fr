@@ -3,7 +3,7 @@ title: "Private Tours"
 date: 2018-10-10T18:04:37+02:00
 draft: true
 slug: "se-promener"
-menu: 
+menu:
   header:
     name: "Se promener"
 ---
@@ -15,7 +15,7 @@ En plus de ses services de travel planner, Aux quatre coins de Paris vous propos
   {{% article title="Mangeons comme les Français !"
      image="/private-tours/cheesemonger-auguste-blanqui-market.jpg"
      image-title="fromagerie sur le marché" %}}
-A travers la visite d'un marché alimentaire, venez découvrir nos produits locaux ou régionaux et de saison. Découvrez ce qui se trouve dans les assiettes des français ! Cette visite s'achève par un pique-nique composé des produits frais trouvés sur le marché le jour même.
+À travers la visite d'un marché alimentaire, venez découvrir nos produits locaux ou régionaux et de saison. Découvrez ce qui se trouve dans les assiettes des français ! Cette visite s'achève par un pique-nique composé des produits frais trouvés sur le marché le jour même.
 
 {{< button-sky URL="/fr/se-promener/en-france-mangeons-comme-les-francais/" />}}
   {{% /article %}}
