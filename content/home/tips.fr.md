@@ -5,7 +5,7 @@ draft: true
 type: "page"
 image: "/images/home/localers-tips-paris-street-768x768.jpg"
 imageBig: "/images/home/localers-tips-paris-street-1024x1024.jpg"
-title: "Localer's tips paris street"
+title: "Conseils et réservations"
 button: true
 buttonSlug: 'fr/ce-que-nous-faisons/'
 ---
@@ -14,4 +14,4 @@ Aux quatre coins de Paris crée pour vous un **planning sur mesure** selon vos s
 
 **Gagnez du temps sur les files d’attente sans passer un seul coup de fil !**
 
-Les activités réservées en plus font l’objet d’une seconde facturation.
+*Les activités réservées en plus font l’objet d’une seconde facturation.*
