@@ -8,7 +8,7 @@ menu:
         name: "Planifier"
 ---
 
-{{< title-main level="1">}}Ce que nous faisons{{< /title-main >}}
+# Ce que nous faisons
 Chaque voyageur est unique. Vous ne ressemblez à personne d’autre, pas vrai ? C’est pourquoi Aux quatre coins de Paris part de vous, de votre profil et de vos envies pour créer de toutes pièces votre séjour idéal à Paris. Que vous soyez par exemple un couple d’amoureux, une famille avec des enfants, de joyeux seniors ou une bande de copines, nous avons des suggestions pour vous !
 
 {{< tiles-list >}}
@@ -24,6 +24,4 @@ Chaque voyageur est unique. Vous ne ressemblez à personne d’autre, pas vrai ?
   {{< image-button title="Paris entre ami(e)s"
       image="/what-we-do/Paris-with-friends-1024x683.jpeg"
       link="#" >}}
-  {{< button-light URL="/fr/se-promener/" icon="comments" >}} Discutons-en ! {{< /button-light >}}
-  {{< button-sky URL="/fr/se-promener/" icon="list" >}} Tarifs {{< /button-sky >}}
 {{< /tiles-list >}}

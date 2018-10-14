@@ -7,8 +7,7 @@ menu:
   header:
     name: "Se promener"
 ---
-
-{{< title-main level="1">}}Se promener{{< /title-main >}}
+# Se promener
 En plus de ses services de travel planner, Aux quatre coins de Paris vous propose des promenades privées afin d’en savoir plus sur l’art de vivre à la française, et d’en profiter bien sûr !
 
 {{< tiles-list >}}
@@ -43,8 +42,7 @@ Envie d'une promenade particulière ? Dites-nous et nous ferons de notre mieux p
 {{< /tiles-list >}}
 
 
-{{< title-main level="2">}}Autre suggestion{{< /title-main >}}
-
+## Autre suggestion
 {{< tiles-list >}}
   {{% article title="Les visites de Manuela"
      image="/private-tours/manuela-feuchot-gazquez-professional-guide.jpg"

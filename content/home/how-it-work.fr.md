@@ -4,7 +4,7 @@ date: 2018-10-05T16:36:12+02:00
 draft: true
 ---
 
-{{< title-main level="2" align="center" >}}Comment ça fonctionne ?{{< /title-main >}}
+## Comment ça fonctionne ?
 
 1. Contactez Aux quatre coins de Paris pour vérifier les disponibilités aux dates auxquelles vous souhaitez venir à Paris.
 2. Répondez au formulaire qui vous sera envoyé, les informations données serviront de base à l’élaboration de votre planning.

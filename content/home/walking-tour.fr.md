@@ -8,7 +8,7 @@ image3: "home/metro-over-birhakeim-bridge.jpg"
 image4: "home/sun-reading-luxembourg-gardens-paris.jpg"
 ---
 
-{{< title-main align="center" >}}Promenades privées{{< /title-main >}}
+## Promenades privées
 Pour compléter votre expérience parisienne, Aux quatre coins de Paris propose également des promenades privées afin d’en apprendre un peu plus sur l’art de vivre à la française !
 
 {{< button-light URL="/fr/se-promener/" />}}

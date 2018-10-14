@@ -3,6 +3,7 @@ html {
   font-size: 100%;
 }
 body {
+  font-family: "Roboto", sans-serif;
   margin: 0;
   padding: 0;
 }
@@ -12,7 +13,7 @@ button,
 input,
 select,
 textarea {
-  font-family: Segoe UI, Roboto, Oxygen-Sans, Ubuntu, Cantarell, Helvetica Neue, sans-serif;
+  font-family: "Roboto", sans-serif;
   font-weight: inherit;
   font-size: 1.125rem;
   font-size: 1rem
@@ -21,7 +22,7 @@ textarea {
   padding: 2em 0;
 }
 .mx-1 {
-  margin: 0 1em;
+  margin: 0 .5em;
 }
 
 #content {
@@ -55,40 +56,31 @@ textarea {
   background-color: #def6fe;
 }
 
-.fSketch {
+.fSketch,
+h1, h2, h3, h4, h5 {
   font-family: "Cabin Sketch", Sans-serif;
-  font-weight: 600;
-}
-.fQuatro {
-  font-family: "Quattrocento Sans", Sans-serif;
-  font-weight: 400;
-}
-.fPhilo {
-  font-family: "Philosopher", Sans-serif;
   font-weight: 600;
 }
 .fRoboto {
   font-family: "Roboto", sans-serif;
 }
 
-.h1,
-.h2,
-.h3 {
+.h1, .h2, .h3,
+h1, h2, h3, h4, h5 {
   color: #1569ae;
   line-height: 1.3em;
 }
-.h1 {
+.h1, h1 {
   font-size: 2.6rem;
   margin: 0.5em 0 1em;
 }
-.h2 {
+.h2, h2 {
   font-size: 2rem;
   margin: 0.2em 0 0.5em;
 }
-.h3 {
+.h3, h3 {
   font-size: 1.8rem;
   margin: 0.2em 0 0.5em;
-  text-transform: uppercase;
 }
 .links-light a,
 .link-light,
@@ -180,6 +172,7 @@ textarea {
 .main-header .title {
   font-size: 2rem;
   margin-bottom: 0;
+  margin-top: 0;
 }
 .main-header .title-wrapper {
   display: flex;
@@ -189,7 +182,7 @@ textarea {
 .main-header .subtitle {
   font-size: 1.2rem;
   font-weight: 600;
-  margin-top: -0.5em;
+  margin-top: -0.4em;
 }
 .main-titles {
   margin: 0 20px;
@@ -278,6 +271,7 @@ footer {
   padding: 1em 0;
 }
 footer h3 {
+  color: #fff;
   font-size: 1.5625rem;
   margin: 0;
 }
@@ -342,6 +336,11 @@ footer h3 {
   margin: 1em 20px 0;
   padding: 20px;
   position: relative;
+  box-shadow: 2px 2px 5px rgba(0, 0,0,0.3);
+  border-radius: 3px;
+}
+.tips-content .h3 {
+  font-weight: 500;
 }
 picture + .tips-content {
   margin-top: -125px;
@@ -352,7 +351,7 @@ picture + .tips-content {
 .tips-content .btn-full {
   font-size: 1.125rem;
   font-weight: 500;
-  margin: 2em -20px -20px;
+  margin: 1em -20px -20px;
   text-transform: uppercase;
 }
 @media screen and (min-width: 992px) {
@@ -361,7 +360,6 @@ picture + .tips-content {
     padding: 0 2em;
   }
 }
-
 
 .list-icon {
   align-content: center;
@@ -381,6 +379,14 @@ picture + .tips-content {
   margin-bottom: 1rem;
 }
 
+.mosaic-content h1,
+.mosaic-content h2,
+.mosaic-content h3 {
+  margin-bottom: 2rem;
+}
+.mosaic-content .btn {
+  margin-top: 2rem;
+}
 .mosaic-content-wrapper {
   justify-content: space-between;
   margin: 2em 0;
@@ -392,8 +398,8 @@ picture + .tips-content {
     "a b" auto
     "a c" 1fr
     "d c" auto;
-  grid-column-gap: 2em;
-  grid-row-gap: 2em;
+  grid-column-gap: 1em;
+  grid-row-gap: 1em;
   margin-top: 2em;
 }
 .mosaic-item {
@@ -419,21 +425,31 @@ picture + .tips-content {
   .mosaic-content {
     width: 30%;
   }
+  .mosaic-content-wrapper {
+    margin: 4em 0;
+  }
   .mosaic-wrapper {
     margin-top: 0;
     width: 65%
   }
+  .bg-sky {
+    margin-bottom: 2em;
+  }
 }
 
+.bg-sky ol {
+  margin-bottom: 0;
+}
 .bg-sky ol li {
-  padding-bottom: 1em
+  padding-bottom: 1em;
 }
 
+/*** Pages ***/
 .tile-list {
-  margin: 1.5em 0;
+  margin: 2em 0;
 }
 .tile-list .image-tile {
-  margin: 0.5em 0;
+  margin: 0.6em 0;
   text-align: center;
 }
 .image-tile {
@@ -453,13 +469,13 @@ picture + .tips-content {
 }
 .image-tile img {
   display: flex;
-  filter: brightness(1);
+  filter: brightness(0.5);
   position: absolute;
   transition: all 0.5s ease-in-out;
   width: 100%;
 }
 .image-tile:hover img {
-  filter: brightness(0.5)
+  filter: brightness(0.9)
 }
 .image-tile .h1,
 .image-tile .h2,
@@ -475,10 +491,16 @@ picture + .tips-content {
 .image-tile .btn-border {
   background: rgba(0,0,0,0.15);
 }
+.image-tile:hover .btn-border {
+  background: rgba(0,0,0,0.5);
+}
 .tile-list > .btn {
   margin: 0.5em 0;
 }
 
+.tile-list .article-classic {
+  margin: 0.5em 0 1em;
+}
 .article-classic * {
   order: 2;
 }
