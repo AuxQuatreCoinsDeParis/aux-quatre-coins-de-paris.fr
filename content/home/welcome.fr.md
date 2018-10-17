@@ -1,5 +1,5 @@
 ---
-title: "Accueil & Assistance"
+title: "Accueil et assistance"
 date: 2018-10-02T16:19:46+02:00
 draft: true
 type: "page"
