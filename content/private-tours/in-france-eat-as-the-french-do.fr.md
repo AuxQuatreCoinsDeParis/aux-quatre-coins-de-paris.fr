@@ -5,22 +5,22 @@ draft: true
 slug: "../se-promener/en-france-mangeons-comme-les-francais"
 ---
 
-# In France, eat as the French do!
+# En France, mangeons comme les Français !
 
-Through the visit of a food market, find out more about our local or regional products and specialties. Discover what lies in French plates!
+A travers la visite d’un marché alimentaire, venez découvrir nos produits locaux ou régionaux et de saison. Découvrez ce qui se trouve dans les assiettes des Français !
+{{< youtube id="LF71s0Jfvg8" autoplay="false" class="article-video" >}}
+{{< figure src="/images/private-tours/main-alley-auguste-blanqui-market.jpg" alt="Marché Auguste Blanqui" class="article-image-right" >}}
 
-{{< youtube id="LF71s0Jfvg8" autoplay="false" >}}
+Au fil de la visite du marché, vous en apprendrez plus sur les saisons des fruits et légumes, nos fromages, ainsi que sur nos spécialités boulangères et charcutières. Ce sera également le moment de céder à la gourmandise et d’effectuer quelques achats !
 
-During the visit of the market, you’ll learn more about fruits and vegetables seasons, our cheeses, our bakery and butchery specialities. This will also be the moment to give in to your love of good food and to buy some products!
+Si la météo le permet, cette visite s’achève par un pique-nique composé des produits trouvés plus tôt sur le marché. Ce sera l’occasion de partager un moment convivial ensemble !
 
-If the weather allows us to do so, this visit ends with a picnic made of the products we found earlier on the market. This will be the occasion to share a convivial moment together!
+Cette visite se déroule **exclusivement les samedis ou les dimanches matins**.
 
-This tour takes place exclusively on Saturday or Sunday mornings.
+* Durée de la visite : environ 4h
+* 6 personnes maximum
+* Tarif : 180€
 
-* Duration of the tour : approximately 4h
-* 6 persons maximum
-* Price : 180€
+*Ce tarif n’inclut pas les frais de transport, ni les dépenses engendrées le jour même sur le marché.*
 
-This price doesn’t include transport costs, food or drinks, nor the expenses made the same day on the market.
-
-The asset of Aux quatre coins de Paris : Aux quatre coins de Paris takes care of everything! If a picnic is possible, a blanket, plates, napkins, plastic cups, knives and a corkscrew will be provided for you to get the most of this moment.
+**Le plus d’Aux quatre coins de Paris :** Aux quatre coins de Paris s’occupe de tout ! Une couverture, des assiettes, des serviettes, des gobelets ainsi que couteaux et tire-bouchon seront mis à votre disposition pour que vous profitiez au mieux de ce moment.

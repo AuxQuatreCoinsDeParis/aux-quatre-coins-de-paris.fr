@@ -3,9 +3,15 @@ html {
   font-size: 100%;
 }
 body {
+  color: #545454;
   font-family: "Roboto", sans-serif;
   margin: 0;
   padding: 0;
+}
+a,
+a:focus,
+a:hover {
+  color: #545454;
 }
 
 body,
@@ -15,14 +21,16 @@ select,
 textarea {
   font-family: "Roboto", sans-serif;
   font-weight: inherit;
-  font-size: 1.125rem;
   font-size: 1rem
 }
-.py-1 {
-  padding: 2em 0;
+.p-3 {
+  padding: 2em;
 }
 .mx-1 {
   margin: 0 .5em;
+}
+.hidden {
+  display: none;
 }
 
 #content {
@@ -92,6 +100,7 @@ h1, h2, h3, h4, h5 {
   text-decoration: none;
 }
 .btn {
+  border: none;
   display: inline-block;
   font-weight: 600;
   padding: 0.8em 2em;
@@ -201,7 +210,7 @@ h1, h2, h3, h4, h5 {
 }
 .menu-item {
   font-size: 1.125em;
-  font-weight: 600;
+  font-weight: 400;
 }
 .menu-top a,
 .menu-top li > span {
@@ -445,6 +454,15 @@ picture + .tips-content {
 }
 
 /*** Pages ***/
+.single {
+  font-size: 1.125rem;
+  line-height: 1.625em;
+  overflow: hidden;
+}
+.single p,
+.single ul {
+  margin-bottom: 1.8em;
+}
 .tile-list {
   margin: 2em 0;
 }
@@ -516,6 +534,61 @@ picture + .tips-content {
   align-items: flex-end;
   justify-content: center;
 }
+.article-image-right,
+.article-video {
+  margin: 0 0 1.5em;
+}
+.article-image-right img {
+  height: auto;
+  width: 100%;
+}
+
+.contact-infos {
+  background: #edf3f9;
+  border-radius: 4px;
+  flex-shrink: 0;
+  min-width: 30%;
+}
+.contact-infos h1 {
+  margin-top: 0;
+}
+.contact-infos ul {
+  list-style: none;
+  padding: 0;
+  white-space: nowrap;
+}
+.contact-infos li {
+  padding-bottom: 2em;
+}
+.contact-infos .fas,
+.contact-infos .fab {
+  color: #f90784;
+  margin-right: 0.5em;
+  width: 1em;
+}
+.contact-form {
+  flex-wrap: wrap;
+  justify-content: space-between;
+  padding-bottom: 0;
+}
+.contact-form p {
+  margin-bottom: 1.3em;
+  width: 100%;
+}
+.contact-form textarea {
+  height: 7.5em;
+}
+.contact-field {
+  border: 1px solid ;
+  border-color: transparent transparent #818a99;
+  padding: .8em 1em;
+  width: 100%;
+  transition: all 0.5s ease-in-out;
+}
+.contact-field:focus {
+  border: 1px solid #ccc;
+  border-radius: 4px;
+}
 @media screen and (max-width: 400px) {
   .image-tile img {
     height: 100%;
@@ -543,5 +616,29 @@ picture + .tips-content {
   }
   .tile-list > .btn:nth-of-type(even) {
     margin-right: auto;
+  }
+  .article-image-right,
+  .article-video {
+    clear: right;
+    float: right;
+    margin-left: 3%;
+    width: 47%;
+  }
+  .article-video {
+    padding-top: 28.12%;
+    position: relative;
+  }
+  .article-video iframe {
+    height: 100%;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 100%;
+  }
+  .contact-infos {
+    margin-bottom: 0;
+  }
+  .contact-form .col-2 {
+    width: 48%;
   }
 }

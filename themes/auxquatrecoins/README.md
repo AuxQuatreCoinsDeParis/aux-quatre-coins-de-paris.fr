@@ -57,6 +57,12 @@ There are two ways of using it : alone, it will occupy the width of the page, in
 * replace **{image-URL}** with the URL of the image shown behind
 * replace **{URL}** with the URL of the targeed page
 
+## Icons
+You can add an icon anywhere in youre texte with this shortcode. (@se fontawesome doc)
+```
+{{< icon name="envelope" >}}
+```
+
 # todo:
 
 * change title with pages
