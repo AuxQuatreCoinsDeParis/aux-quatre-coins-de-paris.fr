@@ -40,15 +40,3 @@ Envie d'une promenade particulière ? Dites-nous et nous ferons de notre mieux p
 {{< button-light URL="/fr/se-promener/aux-quatre-coins-du-marais/" >}}Nous contacter{{< /button-light >}}
   {{% /article %}}
 {{< /tiles-list >}}
-
-
-## Autre suggestion
-{{< tiles-list >}}
-  {{% article title="Les visites de Manuela"
-     image="/private-tours/manuela-feuchot-gazquez-professional-guide.jpg"
-     image-title="Manuela Feuchot, guide certifiée" %}}
-Envie d'Histoire avec un grand H ? Remontez le temps dans les rues de Paris avec Manuela, guide-conférencière certifiée, la meilleure de tout Paris !
-
-{{< button-sky URL="/fr/se-promener/les-visites-de-manuella/" />}}
-  {{% /article %}}
-{{< /tiles-list >}}
