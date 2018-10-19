@@ -4,11 +4,15 @@
       <figure class="logo-box-img">
         <img src="/images/a4cp-logo-compact-white.svg" class="size-full" alt="" />
       </figure>
-      <div class="footer-profile">
-        <h3 class="fSketch">{{ .Site.Title }}</h3>
+      <div class="footer-profile" itemprop="location" itemscope itemtype="http://schema.org/Place">
+        <h3 class="fSketch" itemprop="name">{{ .Site.Title }}</h3>
         <div class="links-light">
           <p><strong>{{ i18n "subtitle" }}</strong></p>
-          <p>4 rue Corvisart<br /> 75013 Paris<br /> France</p>
+          <p>
+            <span itemprop="streetAddress">4 rue Corvisart</span><br />
+            <span itemprop="postalCode">75013</span> <span itemprop="addressLocality">Paris</span><br />
+            <span itemprop="addressCountry">France</span>
+          </p>
           <p><a href="mailto:contact@quatre-coins.paris" style="color: white;">contact@quatre-coins.paris</a></p>
           <p><a href="tel:0033787333118" style="color: white;">+33 7 87 33 31 18</a></p>
         </div>
@@ -34,11 +38,11 @@
       <div class="footer-nav">
         <nav class="links-light">
           <ul class="list-unstyled">
-            <li class="menu-item"><a
-                href="https://aux-quatre-coins-de-paris.fr/about-us/" class="elementor-item">About us</a></li>
-            <li class="menu-item"><a
-                href="https://aux-quatre-coins-de-paris.fr/contact/" class="elementor-item">Contact
-                us</a></li>
+            {{ range .Site.Menus.footer }}
+            <li class="menu-item" role="menuitem">
+              <a href="{{ .URL }}">{{ .Name }}</a>
+            </li>
+            {{ end }}
             <li class="menu-item"><a
                 href="https://aux-quatre-coins-de-paris.fr/general-terms-and-conditions/" class="elementor-item">General
                 terms and conditions</a></li>

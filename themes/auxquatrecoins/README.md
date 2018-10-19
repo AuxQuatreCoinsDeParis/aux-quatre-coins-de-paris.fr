@@ -52,10 +52,17 @@ There are two ways of using it : alone, it will occupy the width of the page, in
 {{< /tiles-list >}}
 ```
 **{{< tiles-list >}}**: optional, surround the buttons to obtain two columns (may contain image-button, buttons, articles)
+* add attribute **spaceAround="true"** to tiles-list to add space around inner elements
 **{{< image-button title="{title}" image="{image-URL}" link="{URL}" >}}**: button with image behind
 * replace **{title}** with the text to show above button
 * replace **{image-URL}** with the URL of the image shown behind
 * replace **{URL}** with the URL of the targeed page
+
+## Icons
+You can add an icon anywhere in youre texte with this shortcode. (@se fontawesome doc)
+```
+{{< icon name="envelope" >}}
+```
 
 # todo:
 

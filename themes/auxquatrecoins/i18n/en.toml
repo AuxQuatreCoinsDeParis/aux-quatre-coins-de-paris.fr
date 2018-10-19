@@ -33,3 +33,24 @@
 
 [prices]
   other = "Tarifs"
+
+[first_name]
+  other = "First Name"
+
+[last_name]
+  other = "Last Name"
+
+[email]
+  other = "E-mail"
+
+[telephone]
+  other = "Telephone"
+
+[optionnal]
+  other = "optionnal"
+  
+[subject]
+  other = "Subjet"
+
+[message]
+  other = "Message"

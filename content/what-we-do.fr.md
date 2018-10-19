@@ -4,8 +4,9 @@ date: 2018-10-08T11:51:48+02:00
 draft: true
 slug: "ce-que-nous-faisons"
 menu: 
-    header:
-        name: "Planifier"
+  header:
+    name: "Planifier"
+    weight: 1
 ---
 
 # Ce que nous faisons

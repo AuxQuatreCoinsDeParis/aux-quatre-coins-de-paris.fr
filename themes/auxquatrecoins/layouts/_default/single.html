@@ -1,8 +1,5 @@
 {{ define "main" }}
-{{- with .Site.GetPage "/private-tours/in-france-eat-as-the-french-do" -}}
-  {{ .Permalink }}
-{{ end }}
-<article class="content-width">
+<article class="content-width single">
   {{ .Content }}
   <section class="tile-list">
     <a href="/fr/se-promener/" class="btn btn-light btn-round text-center btn-picto">

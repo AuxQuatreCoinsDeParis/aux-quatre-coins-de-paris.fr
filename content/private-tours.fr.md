@@ -6,6 +6,7 @@ slug: "se-promener"
 menu:
   header:
     name: "Se promener"
+    weight: 2
 ---
 # Se promener
 En plus de ses services de travel planner, Aux quatre coins de Paris vous propose des promenades privées afin d’en savoir plus sur l’art de vivre à la française, et d’en profiter bien sûr !
@@ -37,6 +38,6 @@ Le Marais est un quartier historique de Paris, le plus fréquenté de la capital
      image-title="Boite à lettres française" %}}
 Envie d'une promenade particulière ? Dites-nous et nous ferons de notre mieux pour la réaliser !
 
-{{< button-light URL="/fr/se-promener/aux-quatre-coins-du-marais/" >}}Nous contacter{{< /button-light >}}
+{{< button-light URL="/fr/nous-contacter/" >}}Nous contacter{{< /button-light >}}
   {{% /article %}}
 {{< /tiles-list >}}

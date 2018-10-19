@@ -3,9 +3,15 @@ html {
   font-size: 100%;
 }
 body {
+  color: #545454;
   font-family: "Roboto", sans-serif;
   margin: 0;
   padding: 0;
+}
+a,
+a:focus,
+a:hover {
+  color: #545454;
 }
 
 body,
@@ -15,14 +21,16 @@ select,
 textarea {
   font-family: "Roboto", sans-serif;
   font-weight: inherit;
-  font-size: 1.125rem;
   font-size: 1rem
 }
-.py-1 {
-  padding: 2em 0;
+.p-3 {
+  padding: 2em;
 }
 .mx-1 {
   margin: 0 .5em;
+}
+.hidden {
+  display: none;
 }
 
 #content {
@@ -92,6 +100,7 @@ h1, h2, h3, h4, h5 {
   text-decoration: none;
 }
 .btn {
+  border: none;
   display: inline-block;
   font-weight: 600;
   padding: 0.8em 2em;
@@ -201,7 +210,7 @@ h1, h2, h3, h4, h5 {
 }
 .menu-item {
   font-size: 1.125em;
-  font-weight: 600;
+  font-weight: 400;
 }
 .menu-top a,
 .menu-top li > span {
@@ -445,8 +454,26 @@ picture + .tips-content {
 }
 
 /*** Pages ***/
+.single {
+  font-size: 1.125rem;
+  line-height: 1.625em;
+}
+.single:after {
+  clear: both;
+  content: "";
+  display: block;
+  width: 100%;
+}
+.single p,
+.single ul {
+  margin-bottom: 1.8rem;
+}
 .tile-list {
   margin: 2em 0;
+}
+.tile-list .half-width img {
+  height: auto;
+  width: 100%;
 }
 .tile-list .image-tile {
   margin: 0.6em 0;
@@ -516,6 +543,61 @@ picture + .tips-content {
   align-items: flex-end;
   justify-content: center;
 }
+.article-image-right,
+.article-video {
+  margin: 0 0 1.5em;
+}
+.article-image-right img {
+  height: auto;
+  width: 100%;
+}
+
+.contact-infos {
+  background: #edf3f9;
+  border-radius: 3px;
+  flex-shrink: 0;
+  min-width: 30%;
+}
+.contact-infos h1 {
+  margin-top: 0;
+}
+.contact-infos ul {
+  list-style: none;
+  padding: 0;
+  white-space: nowrap;
+}
+.contact-infos li {
+  padding-bottom: 2em;
+}
+.contact-infos .fas,
+.contact-infos .fab {
+  color: #f90784;
+  margin-right: 0.5em;
+  width: 1em;
+}
+.contact-form {
+  flex-wrap: wrap;
+  justify-content: space-between;
+  padding-bottom: 0;
+}
+.contact-form p {
+  margin-bottom: 1.3em;
+  width: 100%;
+}
+.contact-form textarea {
+  height: 7.5em;
+}
+.contact-field {
+  border: 1px solid ;
+  border-color: transparent transparent #818a99;
+  padding: .8em 1em;
+  width: 100%;
+  transition: all 0.5s ease-in-out;
+}
+.contact-field:focus {
+  border: 1px solid #ccc;
+  border-radius: 3px;
+}
 @media screen and (max-width: 400px) {
   .image-tile img {
     height: 100%;
@@ -530,6 +612,10 @@ picture + .tips-content {
     flex-wrap: wrap;
     justify-content: space-between;
   }
+  .tile-list.space-around {
+    justify-content: space-around;
+  }
+  .tile-list .half-width,
   .tile-list .article-classic,
   .tile-list .image-tile {
     width: 49%;
@@ -543,5 +629,93 @@ picture + .tips-content {
   }
   .tile-list > .btn:nth-of-type(even) {
     margin-right: auto;
+  }
+  .article-image-right,
+  .article-video {
+    clear: right;
+    float: right;
+    margin-left: 3%;
+    width: 47%;
+  }
+  .article-video {
+    padding-top: 28.12%;
+    position: relative;
+  }
+  .article-video iframe {
+    height: 100%;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 100%;
+  }
+  .contact-infos {
+    margin-bottom: 0;
+  }
+  .contact-form .col-2 {
+    width: 48%;
+  }
+}
+
+/* Pricing */
+.product {
+  /* background-color: #f7f7f7; */
+  background-color: #def6fe;
+  /* background-color: rgba(252, 218, 110, 0.15); */
+  border-radius: 3px;
+  box-sizing: border-box;
+  box-shadow: 2px 2px 5px rgba(0, 0,0,0.3);
+}
+.product-title,
+.product-price {
+  text-align: center;
+  padding: .8em .5em;
+}
+.product-title {
+  /* background-color: #afc4d8; */
+  /* background-color: #1569ae; */
+  background-color: #156688;
+  border-radius: 3px 3px 0 0;
+  color: #fff;
+  font-size: 1.6rem;
+  margin: 0;
+}
+.single .product-price,
+.product-price {
+  color: #156688;
+  font-size: 3.5rem;
+  margin-bottom: 0;
+}
+.product-price .currency {
+  font-size: 0.5em;
+  margin-right: 0.2rem;
+  vertical-align: super;
+}
+.product-content {
+  padding: 0.5em 1em;
+}
+.product-content ul,
+.product-content ol {
+  font-size: 1rem;
+  list-style: none;
+  padding: 0;
+}
+.product-content li:not(:last-of-type):after {
+  background-color: rgba(21, 102, 136, 0.15);
+  content: "";
+  display: block;
+  height: 2px;
+  margin: 0.6em auto;
+  width: 100%;
+}
+.product-content .fab,
+.product-content .fas {
+  color: rgba(21, 102, 136, 0.8);
+  margin: 0 1em;
+  text-align: center;
+  width: 2em;
+}
+@media screen and (min-width: 992px) {
+  .product {
+    width: 31%;
   }
 }
