@@ -457,14 +457,23 @@ picture + .tips-content {
 .single {
   font-size: 1.125rem;
   line-height: 1.625em;
-  overflow: hidden;
+}
+.single:after {
+  clear: both;
+  content: "";
+  display: block;
+  width: 100%;
 }
 .single p,
 .single ul {
-  margin-bottom: 1.8em;
+  margin-bottom: 1.8rem;
 }
 .tile-list {
   margin: 2em 0;
+}
+.tile-list .half-width img {
+  height: auto;
+  width: 100%;
 }
 .tile-list .image-tile {
   margin: 0.6em 0;
@@ -545,7 +554,7 @@ picture + .tips-content {
 
 .contact-infos {
   background: #edf3f9;
-  border-radius: 4px;
+  border-radius: 3px;
   flex-shrink: 0;
   min-width: 30%;
 }
@@ -587,7 +596,7 @@ picture + .tips-content {
 }
 .contact-field:focus {
   border: 1px solid #ccc;
-  border-radius: 4px;
+  border-radius: 3px;
 }
 @media screen and (max-width: 400px) {
   .image-tile img {
@@ -603,6 +612,10 @@ picture + .tips-content {
     flex-wrap: wrap;
     justify-content: space-between;
   }
+  .tile-list.space-around {
+    justify-content: space-around;
+  }
+  .tile-list .half-width,
   .tile-list .article-classic,
   .tile-list .image-tile {
     width: 49%;
@@ -640,5 +653,69 @@ picture + .tips-content {
   }
   .contact-form .col-2 {
     width: 48%;
+  }
+}
+
+/* Pricing */
+.product {
+  /* background-color: #f7f7f7; */
+  background-color: #def6fe;
+  /* background-color: rgba(252, 218, 110, 0.15); */
+  border-radius: 3px;
+  box-sizing: border-box;
+  box-shadow: 2px 2px 5px rgba(0, 0,0,0.3);
+}
+.product-title,
+.product-price {
+  text-align: center;
+  padding: .8em .5em;
+}
+.product-title {
+  /* background-color: #afc4d8; */
+  /* background-color: #1569ae; */
+  background-color: #156688;
+  border-radius: 3px 3px 0 0;
+  color: #fff;
+  font-size: 1.6rem;
+  margin: 0;
+}
+.single .product-price,
+.product-price {
+  color: #156688;
+  font-size: 3.5rem;
+  margin-bottom: 0;
+}
+.product-price .currency {
+  font-size: 0.5em;
+  margin-right: 0.2rem;
+  vertical-align: super;
+}
+.product-content {
+  padding: 0.5em 1em;
+}
+.product-content ul,
+.product-content ol {
+  font-size: 1rem;
+  list-style: none;
+  padding: 0;
+}
+.product-content li:not(:last-of-type):after {
+  background-color: rgba(21, 102, 136, 0.15);
+  content: "";
+  display: block;
+  height: 2px;
+  margin: 0.6em auto;
+  width: 100%;
+}
+.product-content .fab,
+.product-content .fas {
+  color: rgba(21, 102, 136, 0.8);
+  margin: 0 1em;
+  text-align: center;
+  width: 2em;
+}
+@media screen and (min-width: 992px) {
+  .product {
+    width: 31%;
   }
 }

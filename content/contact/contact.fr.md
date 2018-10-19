@@ -7,6 +7,9 @@ menu:
   header:
     name: "Contact"
     weight: 4
+  footer:
+    name: "Contactez-nous"
+    weight: 2
 ---
 
 # Nous contacter

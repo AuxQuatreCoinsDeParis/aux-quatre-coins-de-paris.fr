@@ -12,46 +12,45 @@ menu:
 
 ## Packages
 
-|       Planification       |
----
-|       € 300       |
-| Groupe jusqu'à 6 personnes |
-| Séjour jusqu'à 8 jours* |
-| Accueil et assistance |
+{{< tiles-list >}}
+  {{% product title="Planification" price="300" currency="€" %}}
+* {{< icon name="users" >}} Groupe jusqu'à 6 personnes
+* {{< icon name="calendar-alt" >}} Séjour jusqu'à 8 jours*
+* {{< icon name="handshake" >}} Accueil et assistance
+  {{% /product %}}
 
-| Planification + 1 promenade |
----
-|       € 450       |
-    Groupe jusqu'à 6 personnes
-    Séjour jusqu'à 8 jours*
-    Accueil et assistance
-    1 promenade 
+  {{% product title="Planification + 1 promenade" price="450" currency="€" %}}
+* {{< icon name="users" >}} Groupe jusqu'à 6 personnes
+* {{< icon name="calendar-alt" >}} Séjour jusqu'à 8 jours*
+* {{< icon name="handshake" >}} Accueil et assistance
+* {{< icon name="map-signs" >}} 1 promenade 
+  {{% /product %}}
 
-Planification + 2 promenades
-€ 550
-
-    Groupe jusqu'à 6 personnes
-    Séjour jusqu'à 8 jours*
-    Accueil et assistance
-    2 promenades 
+  {{% product title="Planification + 2 promenades" price="550" currency="€" %}}
+* {{< icon name="users" >}} Groupe jusqu'à 6 personnes
+* {{< icon name="calendar-alt" >}} Séjour jusqu'à 8 jours*
+* {{< icon name="handshake" >}} Accueil et assistance
+* {{< icon name="map-signs" >}} 2 promenades 
+  {{% /product %}}
+{{< /tiles-list >}}
 
 ## Promenades
 
-1 promenade
-€ 180
+{{< tiles-list spaceAround="true" >}}
+  {{% product title="1 promenade" price="180" currency="€" %}}
+* {{< icon name="users" >}} Groupe jusqu'à 6 personnes
+* {{< icon name="clock" >}} Visite jusqu'à 4h 
+  {{% /product %}}
 
-    Groupe jusqu'à 6 personnes
-    Visite jusqu'à 4h 
-
-2 promenades
-€ 315
-
-    Groupe jusqu'à 6 personnes
-    Visite jusqu'à 4h 
+  {{% product title="2 promenades" price="315" currency="€" %}}
+* {{< icon name="users" >}} Groupe jusqu'à 6 personnes
+* {{< icon name="clock" >}} Visite jusqu'à 4h
+  {{% /product %}}
+{{< /tiles-list >}}
 
 Les tarifs indiqués concernent uniquement les prestations d’Aux quatre coins de Paris. Les prestations commandées sur place (VTC, visites guidées de Manuela, billets…) sont facturées en plus.
 
-* Pour les courts séjours (c’est-à-dire jusqu’à 5 jours sur place), Aux quatre coins de Paris offre une remise de 15% sur ses prestations. Les prix indiqués sont TTC.
+\* *Pour les courts séjours (c’est-à-dire jusqu’à 5 jours sur place), Aux quatre coins de Paris offre une remise de 15% sur ses prestations. Les prix indiqués sont TTC.*
 
 Pour un séjour d’une durée supérieure à 8 jours sur place, comptez un supplément de 30€ par jour planifié supplémentaire. Les prestations sont conçues pour de petits groupes de 6 personnes maximum. Il est toutefois possible d’élargir le groupe moyennant un supplément de 30€ par personne.
 
