@@ -9,8 +9,8 @@
   {{- $cssReboot := resources.Get "/css/bootstrap-reboot.min.css" -}}
   {{- $cssMain := resources.Get "/css/main.css" | minify -}}
   {{/* $style := slice $cssReboot $cssMain | concat "css/bundle.css" */}}
-  <link rel="stylesheet" href="{{ $cssReboot.Permalink }}">
-  <link rel="stylesheet" href="{{ $cssMain.Permalink }}">
+  <link rel="stylesheet" href="{{ $cssReboot.RelPermalink }}">
+  <link rel="stylesheet" href="{{ $cssMain.RelPermalink }}">
 
   <title>Aux quatre coins de Paris &#8211; Make the most of Paris!</title>
   <link rel="canonical" href="https://aux-quatre-coins-de-paris.fr/" />
