@@ -21,15 +21,18 @@
     <div class="footer-links">
       <div class="footer-social">
         <div class="links-light">
-          <a class="social-icon" href="https://www.facebook.com/aux4coinsdeParis/" target="_blank">
+          <a class="social-icon" href="https://www.facebook.com/aux4coinsdeParis/"
+             title="Facebook" target="_blank">
             <span class="screen-only">Facebook</span>
             <i class="fab fa-facebook fa-lg"></i>
           </a>
-          <a class="social-icon" href="https://www.instagram.com/auxquatrecoinsdeparis/" target="_blank">
+          <a class="social-icon" href="https://www.instagram.com/auxquatrecoinsdeparis/"
+            title="Instagram" target="_blank">
             <span class="screen-only">Instagram</span>
             <i class="fab fa-instagram fa-lg"></i>
           </a>
-          <a class="social-icon" href="https://www.pinterest.fr/auxquatrecoinsdeparis/" target="_blank">
+          <a class="social-icon" href="https://www.pinterest.fr/auxquatrecoinsdeparis/"
+            title="Pinterest" target="_blank">
             <span class="screen-only">Pinterest</span>
             <i class="fab fa-pinterest fa-lg"></i>
           </a>
@@ -37,18 +40,12 @@
       </div>
       <div class="footer-nav">
         <nav class="links-light">
-          <ul class="list-unstyled">
+          <ul class="list-unstyled" role="menubar" aria-label="Navigation">
             {{ range .Site.Menus.footer }}
             <li class="menu-item" role="menuitem">
               <a href="{{ .URL }}">{{ .Name }}</a>
             </li>
             {{ end }}
-            <li class="menu-item"><a
-                href="https://aux-quatre-coins-de-paris.fr/general-terms-and-conditions/" class="elementor-item">General
-                terms and conditions</a></li>
-            <li class="menu-item"><a
-                href="https://aux-quatre-coins-de-paris.fr/legal-terms/" class="elementor-item">Legal
-                terms</a></li>
           </ul>
         </nav>
       </div>

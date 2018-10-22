@@ -1,5 +1,5 @@
 {{ define "main" }}
-<article class="content-width single">
+<article class="content-width single{{ with .Layout }} {{ . }}{{ end }}">
   {{ .Content }}
   <section class="tile-list">
     <a href="/fr/se-promener/" class="btn btn-light btn-round text-center btn-picto">

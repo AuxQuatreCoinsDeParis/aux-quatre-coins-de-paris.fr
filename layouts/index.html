@@ -1,5 +1,5 @@
 {{ define "main" -}}
-  <section class="content-width">
+  <section class="content-width home">
     {{ .Content }}
 
     {{- $bundle := .Site.GetPage "page" "home" -}}
@@ -13,7 +13,7 @@
         {{- with .Param "image" -}}
         <picture>
           {{- with $source2 -}}
-          <source src="{{ $source2 }}" media="(min-width: 1024px)">
+          <source srcset="{{ $source2 }}" media="(min-width: 1024px)">
           {{- end -}}
           <img src="{{ . }}" alt="{{ $alt }}" class="full-width">
         </picture>
@@ -57,13 +57,13 @@
   {{- with .Site.GetPage "/home/how-it-works" -}}
   </section>
 
-  <section class="bg-sky py-1">
+  <section class="home bg-sky py-1">
     <div class="content-width">
       {{ .Content }}
     </div>
   </section>
 
-  <section class="content-width">
+  <section class="content-width home">
   {{- end -}}
     <h2 class="fSketch h1 text-center">{{ i18n "enjoy" }}</h2>
     <p class="text-center">

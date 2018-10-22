@@ -1,7 +1,8 @@
 ---
-title: "General Terms and Conditions"
+title: "Conditions générales de service"
 date: 2018-10-18T18:09:41+02:00
 draft: true
+layout: "cgu"
 menu:
   footer:
     name: "Conditions générales de service"
@@ -62,15 +63,18 @@ Toutes les réservations sont effectuées dans la limite des stocks disponibles 
 
 ## IV / Prix et modalités de paiement
 
-4.1. Prix Les prix sont indiqués sur le Site en euros et incluent la TVA applicable au jour de la formation du Contrat (prix TTC).
+### 4.1. Prix
+Les prix sont indiqués sur le Site en euros et incluent la TVA applicable au jour de la formation du Contrat (prix TTC).
 
 Au prix des Prestations d’Aux quatre coins de Paris s’ajoute le prix des différentes activités que le Client souhaite effectuer au cours de son séjour et pour lesquelles Aux quatre coins de Paris aura acheté des billets ou payé un droit d’accès à ces activités. Ces dépenses engagées pour le compte du Client sont refacturées en tant que débours.
 
-4.2. Paiement Le prix des Prestations est payable en totalité par le Client au moment de l’envoi de la facture correspondant à sa commande. Ce paiement ne constitue pas des arrhes.
+### 4.2. Paiement
+Le prix des Prestations est payable en totalité par le Client au moment de l’envoi de la facture correspondant à sa commande. Ce paiement ne constitue pas des arrhes.
 
 Le paiement est effectué exclusivement en ligne via Paypal. Ce paiement est irrévocable, il ne pourra être annulé, sauf cas fortuit (cf article VII / Annulation).
 
-4.3. Défaut de paiement Dans certains cas, notamment en cas de défaut de paiement, d’informations erronées ou autre problème sur le compte du Client, le Prestataire se réserve le droit de suspendre l’exécution de la Prestation commandée jusqu’à résolution du problème.
+### 4.3. Défaut de paiement
+Dans certains cas, notamment en cas de défaut de paiement, d’informations erronées ou autre problème sur le compte du Client, le Prestataire se réserve le droit de suspendre l’exécution de la Prestation commandée jusqu’à résolution du problème.
 
 Lors de l’envoi de la facture, le Client a douze (12) jours pour la régler en totalité sous peine d’invalider les réservations des activités correspondantes. Aucune prestation ne pourra être validée tant que le paiement ne sera pas effectué.
 
@@ -120,8 +124,8 @@ Afin de réaliser ses Prestations, le Prestataire recueille et conserve temporai
 
 ### 8.2. Cookies
 
-Le Site internet Aux quatre coins de Paris utilise des cookies à des fins statistiques, plus précisément pour mesurer l’audience du Site (Google Analytics). En utilisant le Site Aux quatre coins de Paris, vous consentez à l’utilisation de ces cookies.
-Toutefois, il est possible de désactiver ces cookies Google Analytics. A cet effet, les visiteurs du Site peuvent installer le module complémentaire de navigateur pour la désactivation de Google Analytics. Ce module est accessible à partir de la page : https://tools.google.com/dlpage/gaoptout
+Le Site internet Aux quatre coins de Paris utilise des cookies à des fins statistiques, plus précisément pour mesurer l’audience du Site (Google Analytics). En utilisant le Site Aux quatre coins de Paris, vous consentez à l’utilisation de ces cookies.\
+Toutefois, il est possible de désactiver ces cookies Google Analytics. A cet effet, les visiteurs du Site peuvent installer le module complémentaire de navigateur pour la désactivation de Google Analytics. Ce module est accessible à partir de la page : [https://tools.google.com/dlpage/gaoptout](https://tools.google.com/dlpage/gaoptout)
 
 ## IX / Propriété intellectuelle
 
@@ -135,24 +139,24 @@ Tout lien hypertexte renvoyant au Site ne constitue en aucun cas une affiliation
 
 __Nullité__ : Dans l’hypothèse où l’une des clauses du présent Contrat serait considérée comme nulle ou inopposable par un changement de législation, de réglementation ou par une décision de justice, les autres stipulations du Contrat perdureraient.
 
-Non renonciation : Le fait de ne pas se prévaloir d’une disposition quelconque des présentes CGS, à quelque moment que ce soit, ne vaut pas renonciation à agir de la part du Prestataire.
+__Non renonciation__ : Le fait de ne pas se prévaloir d’une disposition quelconque des présentes CGS, à quelque moment que ce soit, ne vaut pas renonciation à agir de la part du Prestataire.
 
-Force majeure : La responsabilité du Prestataire ne pourra être engagée dans le cas où l’inexécution de ses obligations serait imputable, soit au fait imprévisible et insurmontable d’un tiers au Contrat, soit à un cas de force majeure telle que définie par la jurisprudence française. La Partie confrontée à un cas de force majeure devra en informer l’autre par tout moyen.
+__Force majeure__ : La responsabilité du Prestataire ne pourra être engagée dans le cas où l’inexécution de ses obligations serait imputable, soit au fait imprévisible et insurmontable d’un tiers au Contrat, soit à un cas de force majeure telle que définie par la jurisprudence française. La Partie confrontée à un cas de force majeure devra en informer l’autre par tout moyen.
 
-Indépendance : Les Parties sont juridiquement indépendantes et le Contrat ne saurait s’analyser comme un partenariat ou créant une société commune entre elles.
+__Indépendance__ : Les Parties sont juridiquement indépendantes et le Contrat ne saurait s’analyser comme un partenariat ou créant une société commune entre elles.
 
-Assurances : Lorsque le Client agit à titre professionnel, les Parties déclarent expressément avoir souscrit auprès d’une compagnie d’assurances notoirement solvable, une police d’assurance garantissant ses risques de responsabilité civile professionnelle, à hauteur de capitaux suffisants.
+__Assurances__ : Lorsque le Client agit à titre professionnel, les Parties déclarent expressément avoir souscrit auprès d’une compagnie d’assurances notoirement solvable, une police d’assurance garantissant ses risques de responsabilité civile professionnelle, à hauteur de capitaux suffisants.
 
-Cession : Aucune Partie ne peut céder ses droits ni déléguer ses obligations en tout ou partie au titre du présent Contrat sans l’accord écrit préalable de l’autre Partie.
+__Cession__ : Aucune Partie ne peut céder ses droits ni déléguer ses obligations en tout ou partie au titre du présent Contrat sans l’accord écrit préalable de l’autre Partie.
 
-Litige : En cas de litige, une solution amiable sera recherchée avant toute action judiciaire. A défaut, toute action judiciaire sera portée devant les tribunaux compétents.
+__Litige__ : En cas de litige, une solution amiable sera recherchée avant toute action judiciaire. A défaut, toute action judiciaire sera portée devant les tribunaux compétents.
 
-Force probante : Les Parties reconnaissent et acceptent expressément que les données conservées par le Prestataire dans ses systèmes informatiques au titre des commandes, du paiement, des échanges de courriers électroniques, et tout autre élément d’exécution des présentes feront foi entre les Parties, sauf preuve contraire. Les Parties conviennent que les e-mails et autres messages quel que soit le support, échangés entre elles, prouvent valablement la teneur de leurs échanges et, le cas échéant, de leurs engagements.
+__Force probante__ : Les Parties reconnaissent et acceptent expressément que les données conservées par le Prestataire dans ses systèmes informatiques au titre des commandes, du paiement, des échanges de courriers électroniques, et tout autre élément d’exécution des présentes feront foi entre les Parties, sauf preuve contraire. Les Parties conviennent que les e-mails et autres messages quel que soit le support, échangés entre elles, prouvent valablement la teneur de leurs échanges et, le cas échéant, de leurs engagements.
 
-Traductions : Les présentes CGS existent en plusieurs langues. En cas de difficulté d’interprétation des présentes, la version en français des CGS prévaut.
+__Traductions__ : Les présentes CGS existent en plusieurs langues. En cas de difficulté d’interprétation des présentes, la version en français des CGS prévaut.
 
-Loi applicable : Le présent Contrat est soumis au droit français.
+__Loi applicable__ : Le présent Contrat est soumis au droit français.
 
-Attribution de compétence : Toute contestation trouvant son origine dans le présent Contrat sera du ressort des tribunaux compétents du ressort de la Cour d’appel de Paris.
+__Attribution de compétence__ : Toute contestation trouvant son origine dans le présent Contrat sera du ressort des tribunaux compétents du ressort de la Cour d’appel de Paris.
 
 Conditions mises en ligne le 4 mai 2018

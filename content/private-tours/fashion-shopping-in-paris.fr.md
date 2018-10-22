@@ -1,5 +1,5 @@
 ---
-title: "Fashion Shopping in Paris"
+title: "Shopping mode à Paris"
 date: 2018-10-15T16:37:47+02:00
 draft: true
 slug: "../se-promener/shopping-mode-a-paris"

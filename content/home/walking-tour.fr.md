@@ -2,10 +2,10 @@
 title: "Promenades privées"
 date: 2018-10-04T17:49:24+02:00
 draft: true
-image1: "home/truck-farmer-auguste-blanqui-market-small.jpg"
-image2: "home/trendy-clothes-shopping-paris-small.jpg"
-image3: "home/metro-over-birhakeim-bridge.jpg"
-image4: "home/sun-reading-luxembourg-gardens-paris.jpg"
+image1: "home/truck-farmer-auguste-blanqui-market-small-400.jpg"
+image2: "home/trendy-clothes-shopping-paris-small-400.jpg"
+image3: "home/metro-over-birhakeim-bridge-400.jpg"
+image4: "home/sun-reading-luxembourg-gardens-paris-400.jpg"
 ---
 
 ## Promenades privées

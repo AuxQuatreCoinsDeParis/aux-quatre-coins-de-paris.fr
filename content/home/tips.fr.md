@@ -3,8 +3,8 @@ title: "Localer's tips & reservations"
 date: 2018-10-02T16:19:52+02:00
 draft: true
 type: "page"
-image: "/images/home/localers-tips-paris-street-768x768.jpg"
-imageBig: "/images/home/localers-tips-paris-street-1024x1024.jpg"
+image: "/images/home/localers-tips-paris-street-536x536.jpg"
+imageBig: "/images/home/localers-tips-paris-street-768x768.jpg"
 title: "Conseils et réservations"
 button: true
 buttonSlug: 'fr/ce-que-nous-faisons/'

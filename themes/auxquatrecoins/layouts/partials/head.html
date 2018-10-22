@@ -4,37 +4,44 @@
   <link rel="profile" href="https://gmpg.org/xfn/11">
   <link rel="dns-prefetch" href="//cdn.aux-quatre-coins-de-paris.fr" />
 
-  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Cabin+Sketch%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic%7CRoboto%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic" />
+  <link rel="stylesheet" media="none" onload="if (media!='all') media='all';"
+     href="https://fonts.googleapis.com/css?family=Cabin+Sketch%3A%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%7CRoboto%3A300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic" />
   <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.3.1/css/all.css" integrity="sha384-mzrmE5qonljUremFsqc01SB46JvROS7bZs3IO2EmfFsd15uHvIt+Y8vEf7N7fWAU" crossorigin="anonymous">
   {{- $cssReboot := resources.Get "/css/bootstrap-reboot.min.css" -}}
-  {{- $cssMain := resources.Get "/css/main.css" | minify -}}
-  {{/* $style := slice $cssReboot $cssMain | concat "css/bundle.css" */}}
-  <link rel="stylesheet" href="{{ $cssReboot.RelPermalink }}">
-  <link rel="stylesheet" href="{{ $cssMain.RelPermalink }}">
+  {{- $cssMain := resources.Get "/css/main.css" -}}
+  {{ $style := slice $cssReboot $cssMain | resources.Concat "css/bundle.css" | minify }}
+  <link rel="stylesheet" href="{{ $style.RelPermalink }}">
 
-  <title>Aux quatre coins de Paris &#8211; Make the most of Paris!</title>
+  <title>{{ if .IsHome -}}
+    Aux quatre coins de Paris &#8211; Make the most of Paris!
+    {{- else -}}
+    {{ .Title }} &#8211; {{ .Site.Title }}
+  {{- end }}</title>
+  <meta name="description" content="{{ i18n `meta-description` }}">
   <link rel="canonical" href="https://aux-quatre-coins-de-paris.fr/" />
   <link rel="shortlink" href="https://aux-quatre-coins-de-paris.fr/" />
 
-  <link rel="apple-touch-icon" sizes="57x57" href="/favicons/apple-touch-icon-57x57.png" />
+  <!-- <link rel="apple-touch-icon" sizes="57x57" href="/favicons/apple-touch-icon-57x57.png" />
   <link rel="apple-touch-icon" sizes="60x60" href="/favicons/apple-touch-icon-60x60.png" />
   <link rel="apple-touch-icon" sizes="72x72" href="/favicons/apple-touch-icon-72x72.png" />
   <link rel="apple-touch-icon" sizes="76x76" href="/favicons/apple-touch-icon-76x76.png" />
-  <link rel="apple-touch-icon" sizes="114x114" href="/favicons/apple-touch-icon-114x114.png" />
+  <link rel="apple-touch-icon" sizes="114x114" href="/favicons/apple-touch-icon-114x114.png" /> -->
   <link rel="apple-touch-icon" sizes="120x120" href="/favicons/apple-touch-icon-120x120.png" />
-  <link rel="apple-touch-icon" sizes="144x144" href="/favicons/apple-touch-icon-144x144.png" />
+  <!-- <link rel="apple-touch-icon" sizes="144x144" href="/favicons/apple-touch-icon-144x144.png" /> -->
   <link rel="apple-touch-icon" sizes="152x152" href="/favicons/apple-touch-icon-152x152.png" />
+  <link rel="apple-touch-icon" sizes="152x152" href="/favicons/apple-touch-icon-167x167.png" />
   <link rel="apple-touch-icon" sizes="180x180" href="/favicons/apple-touch-icon-180x180.png" />
-  <link rel="icon" type="image/png" href="/favicons/favicon-32x32.png" sizes="32x32" />
-  <link rel="icon" type="image/png" href="/favicons/favicon-194x194.png" sizes="194x194" />
-  <link rel="icon" type="image/png" href="/favicons/favicon-96x96.png" sizes="96x96" />
-  <link rel="icon" type="image/png" href="/favicons/android-chrome-192x192.png" sizes="192x192" />
+  <!-- <link rel="icon" type="image/png" href="/favicons/favicon-194x194.png" sizes="194x194" />
+  <link rel="icon" type="image/png" href="/favicons/android-chrome-192x192.png" sizes="192x192" /> -->
   <link rel="icon" type="image/png" href="/favicons/favicon-16x16.png" sizes="16x16" />
+  <link rel="icon" type="image/png" href="/favicons/favicon-32x32.png" sizes="32x32" />
+  <link rel="icon" type="image/png" href="/favicons/favicon-96x96.png" sizes="96x96" />
 
   <link rel="manifest" href="/favicons/manifest.json" />
   <link rel="mask-icon" href="/favicons/safari-pinned-tab.svg" color="#ed8736" />
   <meta name="msapplication-TileColor" content="#ed8736" />
   <meta name="msapplication-TileImage" content="/favicons/mstile-144x144.png" />
   <meta name="theme-color" content="#27478c" />
+
   <meta name="p:domain_verify" content="bf1d518215aae3836252403607bc1c8a" />
 </head>

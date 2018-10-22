@@ -8,10 +8,13 @@ body {
   margin: 0;
   padding: 0;
 }
-a,
+a {
+  color: #4169e1;
+  transition: color 0.2s ease-in-out;
+}
 a:focus,
 a:hover {
-  color: #545454;
+  color: #191970;
 }
 
 body,
@@ -37,7 +40,8 @@ textarea {
   margin: 3em 0;
 }
 .content-width {
-  margin: 0 2em
+  margin-left: 2em;
+  margin-right: 2em;
 }
 .flex-row {
   display: flex;
@@ -171,9 +175,9 @@ h1, h2, h3, h4, h5 {
 
 /*** Header ***/
 .main-header {
-  background: url("/images/city-island-and-notre-dame-cathedral.jpg") no-repeat center;
+  background: url("/images/city-island-and-notre-dame-cathedral-576.jpg") no-repeat center;
   background: linear-gradient(rgba(0,0,0,0.15), rgba(0,0,0,0.15)),
-    url("/images/city-island-and-notre-dame-cathedral.jpg") no-repeat center;
+    url("/images/city-island-and-notre-dame-cathedral-576.jpg") no-repeat center;
   background-size: cover;
   color: #fff;
   box-shadow: 0 1px 5px rgba(0,0,0,0.5)
@@ -238,6 +242,7 @@ h1, h2, h3, h4, h5 {
   list-style: none;
   padding: 0;
   position: absolute;
+  transform-origin: 0 0;
   width: 100%
 }
 .submenu-wrapper:hover .submenu {
@@ -248,15 +253,18 @@ h1, h2, h3, h4, h5 {
 }
 @keyframes menu-open {
   0% {
-    opacity: 0;
-    height: 0%;
+    transform: scale(1, 0);
   }
   100% {
-    opacity: 1;
-    height: 90%;
+    transform: scale(1, 1);
   }
 }
 @media screen and (min-width: 576px) {
+  .main-header {
+    background: url("/images/city-island-and-notre-dame-cathedral-768.jpg") no-repeat center;
+    background: linear-gradient(rgba(0,0,0,0.15), rgba(0,0,0,0.15)),
+      url("/images/city-island-and-notre-dame-cathedral-768.jpg") no-repeat center;
+  }
   .main-header .title {
     font-size: 3rem;
   }
@@ -270,7 +278,27 @@ h1, h2, h3, h4, h5 {
   .main-titles {
     margin-bottom: 150px
   }
-
+}
+@media screen and (min-width: 992px) {
+  .main-header {
+    background: url("/images/city-island-and-notre-dame-cathedral-1024.jpg") no-repeat center;
+    background: linear-gradient(rgba(0,0,0,0.15), rgba(0,0,0,0.15)),
+      url("/images/city-island-and-notre-dame-cathedral-1024.jpg") no-repeat center;
+  }
+}
+@media screen and (min-width: 1024px) {
+  .main-header {
+    background: url("/images/city-island-and-notre-dame-cathedral-1280.jpg") no-repeat center;
+    background: linear-gradient(rgba(0,0,0,0.15), rgba(0,0,0,0.15)),
+      url("/images/city-island-and-notre-dame-cathedral-1280.jpg") no-repeat center;
+  }
+}
+@media screen and (min-width: 1280px) {
+  .main-header {
+    background: url("/images/city-island-and-notre-dame-cathedral.jpg") no-repeat center;
+    background: linear-gradient(rgba(0,0,0,0.15), rgba(0,0,0,0.15)),
+      url("/images/city-island-and-notre-dame-cathedral.jpg") no-repeat center;
+  }
 }
 
 /*** Footer ***/
@@ -313,13 +341,13 @@ footer h3 {
 } */
 @media screen and (min-width: 1024px) {
   .content-width {
-    margin: 0 auto;
+    margin-left: auto;
+    margin-right: auto;
     max-width: 1000px;
   }
 }
 @media screen and (min-width: 1280px) {
   .content-width {
-    margin: 0 auto;
     max-width: 1200px;
   }
 }
@@ -446,6 +474,10 @@ picture + .tips-content {
   }
 }
 
+.home.bg-sky {
+  padding-bottom: 2em;
+  padding-top: 2em;
+}
 .bg-sky ol {
   margin-bottom: 0;
 }
@@ -718,4 +750,33 @@ picture + .tips-content {
   .product {
     width: 31%;
   }
+}
+
+/* CGU */
+.cgu {
+  font-size: 1rem;
+  padding-left: 2rem;
+}
+.cgu h1 {
+  margin-left: -2rem;
+}
+.cgu h2 {
+  margin-left: -1rem;
+}
+.cgu h3 {
+  margin-left: -0.5rem;
+}
+.cgu ol {
+  list-style-type: none;
+  counter-reset: parentheses;
+}
+.cgu ol li:before {
+  counter-increment: parentheses;
+  content: counters(parentheses, ".") ")";
+  font-weight: 400;
+  margin-left: -1.5rem;
+  position: absolute;
+}
+.cgu li {
+  padding-bottom: .5rem;
 }

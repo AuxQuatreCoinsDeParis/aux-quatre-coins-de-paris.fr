@@ -66,4 +66,8 @@ You can add an icon anywhere in youre texte with this shortcode. (@se fontawesom
 
 # todo:
 
-* change title with pages
+* change meta description with pages
+* dynamize maifest with lang ?
+* add service worker
+* create required icons
+* optimize remaining images
