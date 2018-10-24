@@ -5,7 +5,7 @@ draft: true
 layout: "cgu"
 menu:
   footer:
-    name: "Conditions générales de service"
+    name: "General terms and conditions"
     weight: 3
 ---
 
