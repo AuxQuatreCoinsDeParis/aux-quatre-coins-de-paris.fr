@@ -20,6 +20,6 @@ This tour takes place **exclusively on Saturday or Sunday mornings.**
 * 6 persons maximum
 * Price : 180€
 
-This price doesn’t include transport costs, food or drinks, nor the expenses made the same day on the market.
+*This price doesn’t include transport costs, food or drinks, nor the expenses made the same day on the market.*
 
 **The asset of Aux quatre coins de Paris :** Aux quatre coins de Paris takes care of everything! If a picnic is possible, a blanket, plates, napkins, plastic cups, knives and a corkscrew will be provided for you to get the most of this moment.
