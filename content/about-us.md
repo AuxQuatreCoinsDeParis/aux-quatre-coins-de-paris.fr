@@ -4,7 +4,7 @@ date: 2018-10-18T17:30:25+02:00
 draft: true
 menu:
   footer:
-    name: "Qui sommes-nous ?"
+    name: "About us"
     weight: 1
 ---
 
