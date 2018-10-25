@@ -14,12 +14,12 @@ During the visit of the market, you’ll learn more about fruits and vegetables 
 
 If the weather allows us to do so, this visit ends with a picnic made of the products we found earlier on the market. This will be the occasion to share a convivial moment together!
 
-This tour takes place exclusively on Saturday or Sunday mornings.
+This tour takes place **exclusively on Saturday or Sunday mornings.**
 
 * Duration of the tour : approximately 4h
 * 6 persons maximum
 * Price : 180€
 
-This price doesn’t include transport costs, food or drinks, nor the expenses made the same day on the market.
+*This price doesn’t include transport costs, food or drinks, nor the expenses made the same day on the market.*
 
-The asset of Aux quatre coins de Paris : Aux quatre coins de Paris takes care of everything! If a picnic is possible, a blanket, plates, napkins, plastic cups, knives and a corkscrew will be provided for you to get the most of this moment.
+**The asset of Aux quatre coins de Paris :** Aux quatre coins de Paris takes care of everything! If a picnic is possible, a blanket, plates, napkins, plastic cups, knives and a corkscrew will be provided for you to get the most of this moment.
