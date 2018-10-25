@@ -2,6 +2,10 @@ baseURL = "https://aux-quatre-coins-de-paris.fr"
 defaultContentLanguage = "en"
 title = "Aux quatre coins de Paris"
 theme = "auxquatrecoins"
+googleAnalytics = "UA-86971850-1"
+
+[params]
+  themeColor = "#ed8736"
 
 [languages]
   [languages.en]

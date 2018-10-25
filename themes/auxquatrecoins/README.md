@@ -67,7 +67,7 @@ You can add an icon anywhere in youre texte with this shortcode. (@se fontawesom
 # todo:
 
 * change meta description with pages
-* dynamize maifest with lang ?
-* add service worker
+* correct lang in manifest
 * create required icons
 * optimize remaining images
+* check IE

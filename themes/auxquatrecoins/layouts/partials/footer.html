@@ -1,6 +1,6 @@
 <footer itemtype="https://schema.org/WPFooter" itemscope="itemscope" role="contentinfo">
-  <section class="footer-wrapper content-width flex-row">
-    <div class="footer-profile-wrapper flex-row">
+  <section class="footer-wrapper content-width flex-row-s">
+    <div class="footer-profile-wrapper flex-row-s">
       <figure class="logo-box-img">
         <img src="/images/a4cp-logo-compact-white.svg" class="size-full" alt="" />
       </figure>
@@ -13,8 +13,8 @@
             <span itemprop="postalCode">75013</span> <span itemprop="addressLocality">Paris</span><br />
             <span itemprop="addressCountry">France</span>
           </p>
-          <p><a href="mailto:contact@quatre-coins.paris" style="color: white;">contact@quatre-coins.paris</a></p>
-          <p><a href="tel:0033787333118" style="color: white;">+33 7 87 33 31 18</a></p>
+          <p><a href="mailto:contact@quatre-coins.paris">contact@quatre-coins.paris</a></p>
+          <p><a href="tel:0033787333118">+33 7 87 33 31 18</a></p>
         </div>
       </div>
     </div>
@@ -53,13 +53,9 @@
   </section>
 </footer>
 </div>
-<script>(function (i, s, o, g, r, a, m) {
-    i['GoogleAnalyticsObject'] = r; i[r] = i[r] || function () {
-      (i[r].q = i[r].q || []).push(arguments)
-    }, i[r].l = 1 * new Date(); a = s.createElement(o),
-      m = s.getElementsByTagName(o)[0]; a.async = 1; a.src = g; m.parentNode.insertBefore(a, m)
-  })(window, document, 'script', 'https://www.google-analytics.com/analytics.js', 'ga');
-  ga('create', 'UA-86971850-1', 'auto');
-  ga('send', 'pageview');</script>
+{{ template "_internal/google_analytics_async.html" . }}
+{{- $sw := resources.Get "/js/main.js" | minify -}}
+<script src="{{ $sw.RelPermalink }}"></script>
+
 <!--script src="https://cdn.aux-quatre-coins-de-paris.fr/wp-content/cache/min/1/d9a2bd2b92d5738d0969e053af2fc532.js"
   data-minify="1"></script-->

@@ -1,0 +1,21 @@
+{
+  "name": "Aux Quatre Coins De Paris",
+  "short_name": "AQCdP",
+  "theme_color": "{{ .Site.Params.themeColor }}",
+  "background_color": "{{ .Site.Params.themeColor }}",
+  "icons": [
+    {
+      "src": "/favicons/icons-192x192.png",
+      "sizes": "192x192",
+      "type": "image\/png"
+    },
+    {
+      "src": "/favicons/icons-512x512.png",
+      "sizes": "512x512",
+      "type": "image\/png"
+    }
+  ],
+  "start_url": "/{{ if and .IsTranslated (eq .Lang `fr`) }}fr/{{ end }}?utm_source=AppQCdP",
+  "display": "standalone",
+  "scope": "/{{ if and .IsTranslated (eq .Lang `fr`) }}fr/{{ end }}"
+}
