@@ -5,7 +5,7 @@ theme = "auxquatrecoins"
 googleAnalytics = "UA-86971850-1"
 
 [params]
-  themeColor = "#ed8736"
+  themeColor = "#27478c"
 
 [languages]
   [languages.en]

@@ -2,14 +2,18 @@
 <article class="content-width single{{ with .Layout }} {{ . }}{{ end }}">
   {{ .Content }}
   <section class="tile-list">
-    <a href="/fr/se-promener/" class="btn btn-light btn-round text-center btn-picto">
+    {{- with .Site.GetPage "/contact/contact" -}}
+    <a href="{{ .RelPermalink }}" class="btn btn-light btn-round text-center btn-picto">
       <span class="fas fa-comments"></span>
-      Discutons-en !
+      {{- i18n "letstalk" }}
     </a>
-    <a href="/fr/se-promener/" class="btn btn-sky btn-round text-center btn-picto">
+    {{- end -}}
+    {{- with .Site.GetPage "/pricing" -}}
+    <a href="{{ .RelPermalink }}" class="btn btn-sky btn-round text-center btn-picto">
       <span class="fas fa-list"></span>
-      Tarifs
+      {{- i18n "prices" }}
     </a>
+    {{- end -}}
   </section>
 </article>
 {{ end }}

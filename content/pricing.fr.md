@@ -1,7 +1,8 @@
 ---
 title: "Tarifs"
 date: 2018-10-17T18:11:20+02:00
-draft: true
+draft: false
+slug: "tarifs"
 menu:
   header:
     name: "Tarifs"

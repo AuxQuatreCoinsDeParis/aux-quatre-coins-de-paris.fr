@@ -6,6 +6,8 @@ this.addEventListener('install', function (event) {
       return cache.addAll([
         '/',
         '/fr/',
+        '/fallback/',
+        '/fr/fallback/',
         '/?utm_source=AppQCdP',
         '/fr/?utm_source=AppQCdP',
         '/css/bundle.min.css',
@@ -19,28 +21,32 @@ this.addEventListener('install', function (event) {
 
 this.addEventListener('fetch', function (event) {
   event.respondWith(
-    caches.match(event.request).then(function (response) {
-      if (response) {
-        return response
-      }
-
-      const fetchRequest = event.request.clone()
-
-      return fetch(fetchRequest).then(
-        function (response) {
-          if (!response || response.status !== 200 || response.type !== 'basic') {
-            return response
-          }
-
-          const responseCache = response.clone()
-
-          caches.open(APP_CACHE_NAME).then(function (cache) {
-            cache.put(event.request, responseCache)
-          })
-
+    caches.match(event.request)
+      .then(function (response) {
+        if (response) {
           return response
         }
-      )
-    })
+
+        const fetchRequest = event.request.clone()
+
+        return fetch(fetchRequest)
+          .then(function (response) {
+              if (!response || response.status !== 200 || response.type !== 'basic') {
+                return response
+              }
+
+              const responseCache = response.clone()
+
+              caches.open(APP_CACHE_NAME).then(function (cache) {
+                cache.put(event.request, responseCache)
+              })
+
+              return response
+          })
+      })
+      .catch(function () {
+        console.error(event.request)
+        return caches.match('/fr/fallback/')
+      })
   )
 })

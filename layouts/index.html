@@ -67,12 +67,16 @@
   {{- end -}}
     <h2 class="fSketch h1 text-center">{{ i18n "enjoy" }}</h2>
     <p class="text-center">
-      <a href="" class="btn btn-light btn-round btn-picto mx-1">
+      {{- with .Site.GetPage "/contact/contact" -}}
+      <a href="{{ .RelPermalink }}" class="btn btn-light btn-round btn-picto mx-1">
         <span class="fas fa-comments"></span> {{ i18n "letstalk" }}
       </a>
-      <a href="" class="btn btn-sky btn-round btn-picto mx-1">
+      {{- end -}}
+      {{- with .Site.GetPage "/pricing" -}}
+      <a href="{{ .RelPermalink }}" class="btn btn-sky btn-round btn-picto mx-1">
         <span class="fas fa-list"></span> {{ i18n "prices" }}
       </a>
+      {{- end -}}
     </p>
   </section>
 {{- end }}
