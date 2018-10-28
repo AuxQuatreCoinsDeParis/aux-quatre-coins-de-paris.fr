@@ -13,29 +13,36 @@
             <span itemprop="postalCode">75013</span> <span itemprop="addressLocality">Paris</span><br />
             <span itemprop="addressCountry">France</span>
           </p>
-          <p><a href="mailto:contact@quatre-coins.paris">contact@quatre-coins.paris</a></p>
-          <p><a href="tel:0033787333118">+33 7 87 33 31 18</a></p>
+          {{- with .Site.Params.email -}}
+          <p><a href="mailto:{{ . }}">{{ . }}</a></p>
+          {{- end -}}
+          {{- with .Site.Params.phone -}}
+          <p><a href="tel:{{ replace (replace . ` ` ``) `+` `00`}}">{{ . }}</a></p>
+          {{- end -}}
         </div>
       </div>
     </div>
     <div class="footer-links">
       <div class="footer-social">
         <div class="links-light">
-          <a class="social-icon" href="https://www.facebook.com/aux4coinsdeParis/"
-             title="Facebook" target="_blank">
+          {{- with .Site.Params.facebook -}}
+          <a class="social-icon" href="{{ . }}" title="Facebook" target="_blank">
             <span class="screen-only">Facebook</span>
             <i class="fab fa-facebook fa-lg"></i>
           </a>
-          <a class="social-icon" href="https://www.instagram.com/auxquatrecoinsdeparis/"
-            title="Instagram" target="_blank">
+          {{- end -}}
+          {{- with .Site.Params.instagram -}}
+          <a class="social-icon" href="{{ . }}" title="Instagram" target="_blank">
             <span class="screen-only">Instagram</span>
             <i class="fab fa-instagram fa-lg"></i>
           </a>
-          <a class="social-icon" href="https://www.pinterest.fr/auxquatrecoinsdeparis/"
-            title="Pinterest" target="_blank">
+          {{- end -}}
+          {{- with .Site.Params.pinterest -}}
+          <a class="social-icon" href="{{ . }}" title="Pinterest" target="_blank">
             <span class="screen-only">Pinterest</span>
             <i class="fab fa-pinterest fa-lg"></i>
           </a>
+          {{- end -}}
         </div>
       </div>
       <div class="footer-nav">

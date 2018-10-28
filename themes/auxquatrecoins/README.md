@@ -59,7 +59,7 @@ There are two ways of using it : alone, it will occupy the width of the page, in
 * replace **{URL}** with the URL of the targeed page
 
 ## Icons
-You can add an icon anywhere in youre texte with this shortcode. (@se fontawesome doc)
+You can add an icon anywhere in youre texte with this shortcode. (@see fontawesome doc)
 ```
 {{< icon name="envelope" >}}
 ```
@@ -71,3 +71,4 @@ You can add an icon anywhere in youre texte with this shortcode. (@se fontawesom
 * create required icons
 * optimize remaining images
 * check IE
+* use .GitInfo.Hash as cache key for service worker

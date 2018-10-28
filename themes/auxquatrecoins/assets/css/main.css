@@ -308,17 +308,14 @@ h1, h2, h3, h4, h5 {
     right: 0;
     top: 0;
   }
-  .menu-opener:focus {
-    pointer-events: none;
-  }
-  .menu-opener:focus:before {
+  .active .menu-opener:before {
     transform: rotate(45deg);
     box-shadow: none;
   }
-  .menu-opener:focus:after {
+  .active .menu-opener:after {
     transform: rotate(-45deg);
   }
-  .menu-opener:focus:before,
+  .active .menu-opener:before,
   .menu-top {
     transition: all 0.2s ease-in-out;
   }
@@ -326,8 +323,7 @@ h1, h2, h3, h4, h5 {
     transform: scale(0, 0);
     transform-origin: 100% 0;
   }
-  .menu-opener:focus + .menu-top,
-  .menu-top:focus {
+  .active .menu-top {
     transform: scale(1, 1);
   }
 }
@@ -780,11 +776,13 @@ picture + .tips-content {
 /* Pricing */
 .product {
   /* background-color: #f7f7f7; */
-  background-color: #def6fe;
+  /* background-color: #def6fe; */
+  background-color: #f1f1f9;
   /* background-color: rgba(252, 218, 110, 0.15); */
   border-radius: 3px;
   box-sizing: border-box;
   box-shadow: 2px 2px 5px rgba(0, 0,0,0.3);
+  margin-bottom: 1em;
 }
 .product-title,
 .product-price {
@@ -793,8 +791,8 @@ picture + .tips-content {
 }
 .product-title {
   /* background-color: #afc4d8; */
-  /* background-color: #1569ae; */
-  background-color: #156688;
+  /* background-color: #156688; */
+  background-color: #1569ae;
   border-radius: 3px 3px 0 0;
   color: #fff;
   font-size: 1.6rem;
@@ -802,7 +800,8 @@ picture + .tips-content {
 }
 .single .product-price,
 .product-price {
-  color: #156688;
+  color: #1569ae;
+  /* color: #156688; */
   font-size: 3.5rem;
   margin-bottom: 0;
 }
@@ -821,7 +820,8 @@ picture + .tips-content {
   padding: 0;
 }
 .product-content li:not(:last-of-type):after {
-  background-color: rgba(21, 102, 136, 0.15);
+  /* background-color: rgba(21, 102, 136, 0.15); */
+  background-color: rgba(21, 105, 174, 0.15);
   content: "";
   display: block;
   height: 2px;
@@ -830,13 +830,14 @@ picture + .tips-content {
 }
 .product-content .fab,
 .product-content .fas {
-  color: rgba(21, 102, 136, 0.8);
+  color: rgba(21, 105, 174, 0.8);
   margin: 0 1em;
   text-align: center;
   width: 2em;
 }
 @media screen and (min-width: 992px) {
   .product {
+    margin-bottom: 0;
     width: 31%;
   }
 }

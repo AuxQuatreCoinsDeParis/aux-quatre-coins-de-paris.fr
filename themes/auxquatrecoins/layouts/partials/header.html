@@ -13,7 +13,7 @@
     </div>
   </div>
   <nav class="main-nav" role="menubar" aria-label="Site Menu">
-    <button class="menu-opener" aria-hidden="true"></button>
+    <button class="menu-opener" aria-hidden="true" id="mobile-menu-opener"></button>
     <ul class="content-width flex-row-s menu-top" role="navigation" aria-label="Navigation">
     {{ range .Site.Menus.header }}
       <li class="menu-item" role="menuitem">
@@ -22,7 +22,7 @@
     {{ end }}
       <li class="submenu-wrapper menu-item">
       {{ if .IsTranslated }}
-        <span>
+        <span id="language-menu-opener">
           <img src="/images/flags/{{ .Lang }}.png" width="18" height="12" alt="{{ .Lang }}" class="flag">
           {{ i18n "language" }} <span class="fas fa-angle-down fa-xs"></span>
         </span>

@@ -6,6 +6,11 @@ googleAnalytics = "UA-86971850-1"
 
 [params]
   themeColor = "#27478c"
+  instagram = "https://www.instagram.com/auxquatrecoinsdeparis/"
+  facebook = "https://www.facebook.com/aux4coinsdeParis/"
+  pinterest = "https://www.pinterest.fr/auxquatrecoinsdeparis/"
+  email = "contact@quatre-coins.paris"
+  phone = "+33 7 87 33 31 18"
 
 [languages]
   [languages.en]
