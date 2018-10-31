@@ -2,10 +2,7 @@
 title: "Paris à son rythme"
 date: 2018-10-31T14:20:39+02:00
 draft: true
-slug: "paris-a-son-rythme"
-menu:
-    header:
-        name: "Planifier"
+slug: "../ce-que-nous-faisons/paris-a-son-rythme"
 ---
 
 # Paris à son rythme
