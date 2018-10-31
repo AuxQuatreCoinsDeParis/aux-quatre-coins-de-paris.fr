@@ -13,14 +13,14 @@ Every traveller is unique. You look like no one else, don’t you? That is why *
 {{< tiles-list >}}
   {{< image-button title="Paris in love"
       image="/what-we-do/Paris-in-love-1024x683.jpeg"
-      link="/what-we-do/paris-in-love/" >}}
+      link="paris-in-love/" >}}
   {{< image-button title="Paris with children"
       image="/what-we-do/Family-Paris-1024x683.jpeg"
-      link="/what-we-do/paris-with-children/" >}}
+      link="paris-with-children/" >}}
   {{< image-button title="Paris at your own pace"
       image="/what-we-do/Paris-for-seniors-1024x683.jpeg"
-      link="#" >}}
+      link="paris-at-your-own-pace/" >}}
   {{< image-button title="Paris with friends"
       image="/what-we-do/Paris-with-friends-1024x683.jpeg"
-      link="#" >}}
+      link="paris-with-friends/" >}}
 {{< /tiles-list >}}
