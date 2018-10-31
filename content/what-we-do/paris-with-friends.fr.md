@@ -2,10 +2,7 @@
 title: "Paris entre ami(e)s"
 date: 2018-10-31T14:20:39+02:00
 draft: true
-slug: "paris-entre-amies"
-menu:
-    header:
-        name: "Planifier"
+slug: "../ce-que-nous-faisons/paris-entre-amies"
 ---
 
 # Paris entre ami(e)s
