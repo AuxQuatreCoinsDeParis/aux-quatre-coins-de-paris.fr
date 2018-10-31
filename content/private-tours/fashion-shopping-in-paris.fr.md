@@ -9,8 +9,8 @@ slug: "../se-promener/shopping-mode-a-paris"
 
 Venez découvrir avec nous les marques françaises de vêtements, maroquinerie et chaussures. Découvrons ensemble ce qui fait le style si particulier des parisiennes !
 
-{{< figure src="/images/private-tours/trendy-parisian-outfits-912x1024@2x.jpg" alt="Marché Auguste Blanqui" class="article-image-right" >}}
-{{< figure src="/images/private-tours/trendy-parisian-clothes-1014x1024@2x.jpg" alt="Marché Auguste Blanqui" class="article-image-right" >}}
+{{< figure src="/images/private-tours/trendy-parisian-outfits-900x1011.jpg" alt="Tenues parisiennes à la mode" class="article-image-right" >}}
+{{< figure src="/images/private-tours/trendy-parisian-clothes-900x909.jpg" alt="Vêtements parisiens tendance" class="article-image-right" >}}
 
 Nous établissons ensemble un itinéraire selon vos envies (tenues, chaussures, sacs, accessoires, lingerie) et votre budget pour cette session shopping.
 

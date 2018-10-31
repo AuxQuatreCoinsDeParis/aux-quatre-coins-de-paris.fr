@@ -72,3 +72,4 @@ You can add an icon anywhere in youre texte with this shortcode. (@see fontaweso
 * optimize remaining images
 * check IE
 * use .GitInfo.Hash as cache key for service worker
+* defer offscreen images

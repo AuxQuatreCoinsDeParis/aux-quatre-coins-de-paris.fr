@@ -13,9 +13,9 @@
         {{- with .Param "image" -}}
         <picture>
           {{- with $source2 -}}
-          <source srcset="{{ $source2 }}" media="(min-width: 1024px)">
+          <source data-src="{{ $source2 }}" srcset="" media="(min-width: 1024px)">
           {{- end -}}
-          <img src="{{ . }}" alt="{{ $alt }}" class="full-width">
+          <img data-src="{{ . }}" src="" alt="{{ $alt }}" class="full-width">
         </picture>
         {{- end -}}
         <div class="fRoboto tips-content flex-col">
@@ -39,16 +39,16 @@
       </div>
       <div class="mosaic-wrapper">
         {{- with .Param "image1" -}}
-        <span class="mosaic-item mosaic-item-1"><img src="/images/{{ . }}" alt="" class="full-width"></span>
+        <span class="mosaic-item mosaic-item-1"><img data-src="/images/{{ . }}" src="" alt="" class="full-width"></span>
         {{- end -}}
         {{- with .Param "image2" -}}
-        <span class="mosaic-item mosaic-item-2"><img src="/images/{{ . }}" alt="" class="full-width"></span>
+        <span class="mosaic-item mosaic-item-2"><img data-src="/images/{{ . }}" src="" alt="" class="full-width"></span>
         {{- end -}}
         {{- with .Param "image3" -}}
-        <span class="mosaic-item mosaic-item-3"><img src="/images/{{ . }}" alt="" class="full-width"></span>
+        <span class="mosaic-item mosaic-item-3"><img data-src="/images/{{ . }}" src="" alt="" class="full-width"></span>
         {{- end -}}
         {{- with .Param "image4" -}}
-        <span class="mosaic-item mosaic-item-4"><img src="/images/{{ . }}" alt="" class="full-width"></span>
+        <span class="mosaic-item mosaic-item-4"><img data-src="/images/{{ . }}" src="" alt="" class="full-width"></span>
         {{- end -}}
       </div>
     </div>

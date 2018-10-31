@@ -9,7 +9,7 @@ slug: "../se-promener/en-france-mangeons-comme-les-francais"
 
 A travers la visite d’un marché alimentaire, venez découvrir nos produits locaux ou régionaux et de saison. Découvrez ce qui se trouve dans les assiettes des Français !
 {{< youtube id="LF71s0Jfvg8" autoplay="false" class="article-video" >}}
-{{< figure src="/images/private-tours/main-alley-auguste-blanqui-market.jpg" alt="Marché Auguste Blanqui" class="article-image-right" >}}
+{{< figure src="/images/private-tours/main-alley-auguste-blanqui-market-900x600.jpg" alt="Marché Auguste Blanqui" class="article-image-right" >}}
 
 Au fil de la visite du marché, vous en apprendrez plus sur les saisons des fruits et légumes, nos fromages, ainsi que sur nos spécialités boulangères et charcutières. Ce sera également le moment de céder à la gourmandise et d’effectuer quelques achats !
 
