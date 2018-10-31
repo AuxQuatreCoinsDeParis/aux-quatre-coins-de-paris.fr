@@ -3,7 +3,7 @@ title: "Ce que nous faisons"
 date: 2018-10-08T11:51:48+02:00
 draft: true
 slug: "ce-que-nous-faisons"
-menu: 
+menu:
   header:
     name: "Planifier"
     weight: 1
@@ -15,10 +15,10 @@ Chaque voyageur est unique. Vous ne ressemblez à personne d’autre, pas vrai ?
 {{< tiles-list >}}
   {{< image-button title="Paris en amoureux"
       image="/what-we-do/Paris-in-love-1024x683.jpeg"
-      link="#" >}}
+      link="/ce-que-nous-faisons/paris-en-amoureux/" >}}
   {{< image-button title="Paris en famille"
       image="/what-we-do/Family-Paris-1024x683.jpeg"
-      link="#" >}}
+      link="/ce-que-nous-faisons/paris-en-famille/" >}}
   {{< image-button title="Paris à son rythme"
       image="/what-we-do/Paris-for-seniors-1024x683.jpeg"
       link="#" >}}
