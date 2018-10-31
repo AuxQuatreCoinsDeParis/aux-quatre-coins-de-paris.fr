@@ -2,10 +2,7 @@
 title: "Paris en famille"
 date: 2018-10-31T14:20:39+02:00
 draft: true
-slug: "paris-en-famille"
-menu:
-    header:
-        name: "Planifier"
+slug: "../ce-que-nous-faisons/paris-en-famille"
 ---
 
 # Paris en famille
