@@ -1,7 +1,7 @@
 ---
 title: "Se promener"
 date: 2018-10-10T18:04:37+02:00
-draft: true
+draft: false
 slug: "se-promener"
 menu:
   header:

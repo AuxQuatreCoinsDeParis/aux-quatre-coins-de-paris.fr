@@ -1,7 +1,7 @@
 ---
 title: "Ce que nous faisons"
 date: 2018-10-08T11:51:48+02:00
-draft: true
+draft: false
 slug: "ce-que-nous-faisons"
 menu:
   header:
