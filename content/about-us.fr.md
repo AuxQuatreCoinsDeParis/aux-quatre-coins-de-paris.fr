@@ -1,7 +1,7 @@
 ---
 title: "Qui sommes-nous ?"
 date: 2018-10-18T17:30:37+02:00
-draft: true
+draft: false
 menu:
   footer:
     name: "Qui sommes-nous ?"

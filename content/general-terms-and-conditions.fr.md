@@ -1,7 +1,7 @@
 ---
 title: "Conditions générales de service"
 date: 2018-10-18T18:09:41+02:00
-draft: true
+draft: false
 layout: "cgu"
 menu:
   footer:
