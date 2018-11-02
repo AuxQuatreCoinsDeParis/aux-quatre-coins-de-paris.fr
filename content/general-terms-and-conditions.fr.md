@@ -63,17 +63,17 @@ Toutes les réservations sont effectuées dans la limite des stocks disponibles 
 
 ## IV / Prix et modalités de paiement
 
-### 4.1. Prix
+**4.1. Prix**
 Les prix sont indiqués sur le Site en euros et incluent la TVA applicable au jour de la formation du Contrat (prix TTC).
 
 Au prix des Prestations d’Aux quatre coins de Paris s’ajoute le prix des différentes activités que le Client souhaite effectuer au cours de son séjour et pour lesquelles Aux quatre coins de Paris aura acheté des billets ou payé un droit d’accès à ces activités. Ces dépenses engagées pour le compte du Client sont refacturées en tant que débours.
 
-### 4.2. Paiement
+**4.2. Paiement**
 Le prix des Prestations est payable en totalité par le Client au moment de l’envoi de la facture correspondant à sa commande. Ce paiement ne constitue pas des arrhes.
 
 Le paiement est effectué exclusivement en ligne via Paypal. Ce paiement est irrévocable, il ne pourra être annulé, sauf cas fortuit (cf article VII / Annulation).
 
-### 4.3. Défaut de paiement
+**4.3. Défaut de paiement**
 Dans certains cas, notamment en cas de défaut de paiement, d’informations erronées ou autre problème sur le compte du Client, le Prestataire se réserve le droit de suspendre l’exécution de la Prestation commandée jusqu’à résolution du problème.
 
 Lors de l’envoi de la facture, le Client a douze (12) jours pour la régler en totalité sous peine d’invalider les réservations des activités correspondantes. Aucune prestation ne pourra être validée tant que le paiement ne sera pas effectué.
@@ -86,7 +86,7 @@ D’après l’article L221-21-8 12° du Code de la consommation, il n’existe 
 
 ## VI / Garantie – Conformité
 
-### 6.1. Concernant les prestations des prestataires tiers
+**6.1. Concernant les prestations des prestataires tiers**
 
 Les prestataires recommandés par Aux quatre coins de Paris le sont pour leur professionnalisme et la qualité de leurs services. Si l’une de ses conditions venait à manquer, le Client est invité à en faire part à Aux quatre coins de Paris dans les plus brefs délais à l’adresse suivante : audrey@quatre-coins.paris ou par téléphone lors de son séjour à Paris.
 
@@ -94,7 +94,7 @@ En cas d’annulation ou d’indisponibilité d’un produit ou service d’un p
 
 Si un des prestataires tiers venait à ne pas honorer la réservation faite pour un quelconque motif, il sera procédé au remboursement du prix de la prestation en question au Client. Aux quatre coins de Paris se réserve alors le droit de se retourner contre le prestataire défaillant.
 
-### 6.2. Concernant les Prestations d’Aux quatre coins de Paris
+**6.2. Concernant les Prestations d’Aux quatre coins de Paris**
 
 En cas d’annulation par le Prestataire de l’une de ses promenades, Aux quatre coins de Paris procédera au remboursement complet de la Prestation. Le Prestataire ne serait alors pas responsable des dépenses additionnelles si par la suite le Client souscrivait à une autre prestation plus coûteuse du même type.
 
@@ -102,7 +102,7 @@ Par ailleurs, la responsabilité du Prestataire ne saurait être engagée si l�
 
 ## VII / Annulation
 
-### 7.1. Concernant les prestations des prestataires tiers
+**7.1. Concernant les prestations des prestataires tiers**
 
 Toute annulation d’une prestation d’un prestataire tiers de la part du Client doit faire l’objet d’une mention écrite à l’attention d’Aux quatre coins de Paris à l’adresse : audrey@quatre-coins.paris. L’annulation ne sera effective qu’au moment où le Prestataire en aura pris connaissance.
 
@@ -112,18 +112,16 @@ Le cas échéant, le remboursement s’effectuera, soit en espèces directement 
 
 Les activités commandées sont réservées à des horaires fixes. Un retard de plus de 20 minutes à une prestation privée sera considéré comme un désistement et Aux quatre coins de Paris, tout comme le(s) prestataire(s) concerné(s), ne seront plus tenus de fournir le service, ni de le rembourser. En ce qui concerne les prestations de groupe, seul le prestataire concerné sera en mesure de dire s’il accepte des retardataires. Dans tous les cas, tout retard entraînera un raccourcissement du temps de l’activité en vue de respecter le créneau horaire réservé.
 
-### 7.2. Concernant les Prestations d’Aux quatre coins de Paris
+**7.2. Concernant les Prestations d’Aux quatre coins de Paris**
 
 Une fois réglées, les Prestations d’Aux quatre coins de Paris ne sont plus annulables. Toutefois, si une Prestation devait être annulée pour cause de force majeure ou cas fortuit de la part du Client, le Prestataire propose de reporter l’exécution de ses Prestations à une date ultérieure sans frais supplémentaires.
 
 ## VIII / Protection des données personnelles
 
-### 8.1. Données nominatives
-
+**8.1. Données nominatives**
 Afin de réaliser ses Prestations, le Prestataire recueille et conserve temporairement des informations concernant le Client à l’occasion de certaines procédures et notamment, mais de façon non limitative, lors d’échanges de messages électroniques. Le Prestataire s’engage à respecter la confidentialité de ces données personnelles qui ne feront l’objet d’aucun traitement informatique.
 
-### 8.2. Cookies
-
+**8.2. Cookies**
 Le Site internet Aux quatre coins de Paris utilise des cookies à des fins statistiques, plus précisément pour mesurer l’audience du Site (Google Analytics). En utilisant le Site Aux quatre coins de Paris, vous consentez à l’utilisation de ces cookies.\
 Toutefois, il est possible de désactiver ces cookies Google Analytics. A cet effet, les visiteurs du Site peuvent installer le module complémentaire de navigateur pour la désactivation de Google Analytics. Ce module est accessible à partir de la page : [https://tools.google.com/dlpage/gaoptout](https://tools.google.com/dlpage/gaoptout)
 
