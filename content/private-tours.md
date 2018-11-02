@@ -1,11 +1,13 @@
 ---
 title: "Private Tours"
 date: 2018-10-10T18:04:42+02:00
-draft: true
+draft: false
 menu:
   header:
     name: "Private tours"
+    weight: 2
 ---
+
 # Private walking tours
 Besides our travel planning services, Aux quatre coins de Paris offers private walking tours to know more about the French art de vivre, and to enjoy it of course!
 
