@@ -3,9 +3,9 @@ title: "What We Do"
 date: 2018-10-08T11:51:39+02:00
 draft: false
 menu:
-    header:
-        name: "Planning"
-        weight: 1
+  header:
+    name: "Planning"
+    weight: 1
 ---
 
 # What we do
