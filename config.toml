@@ -18,6 +18,6 @@ googleAnalytics = "UA-86971850-1"
     languageName = "English"
     languageCode = "en-US"
   [languages.fr]
-    catchPhrase = "Make the most of Paris fr!"
+    catchPhrase = "Make the most of Paris!"
     languageName = "Français"
     languageCode = "fr-FR"
