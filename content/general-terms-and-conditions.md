@@ -1,7 +1,7 @@
 ---
 title: "General Terms and Conditions"
 date: 2018-10-18T18:09:35+02:00
-draft: true
+draft: false
 layout: "cgu"
 menu:
   footer:
@@ -11,7 +11,7 @@ menu:
 
 # General terms and conditions
 
-**Introduction**
+## Introduction
 
 The present general terms and conditions apply without limitation or qualification to all services offered by the company Aux quatre coins de Paris, registered at the Trade Registry of Paris under the number 823.739.503, with its office seated at 4 rue de Corvisart, 75013 Paris (the Provider). The services are described on the website www.aux-quatre-coins-de-paris.fr (the Website).
 

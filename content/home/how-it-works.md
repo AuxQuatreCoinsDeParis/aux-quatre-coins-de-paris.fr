@@ -1,7 +1,7 @@
 ---
 title: "How It Works"
 date: 2018-10-05T16:36:21+02:00
-draft: true
+draft: false
 ---
 
 ## How does it work?

@@ -1,7 +1,7 @@
 ---
 title: "Promenades privées"
 date: 2018-10-04T17:49:24+02:00
-draft: true
+draft: false
 image1: "home/truck-farmer-auguste-blanqui-market-small-400.jpg"
 image2: "home/trendy-clothes-shopping-paris-small-400.jpg"
 image3: "home/metro-over-birhakeim-bridge-400.jpg"

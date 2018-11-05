@@ -1,7 +1,7 @@
 ---
 title: "Walking Tour"
 date: 2018-10-04T17:49:17+02:00
-draft: true
+draft: false
 image1: "home/truck-farmer-auguste-blanqui-market-small.jpg"
 image2: "home/trendy-clothes-shopping-paris-small.jpg"
 image3: "home/metro-over-birhakeim-bridge.jpg"
