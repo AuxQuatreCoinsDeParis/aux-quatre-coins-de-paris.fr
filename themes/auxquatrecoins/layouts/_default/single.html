@@ -1,6 +1,7 @@
 {{ define "main" }}
 <article class="content-width single{{ with .Layout }} {{ . }}{{ end }}">
   {{ .Content }}
+  {{- if .Param "bottomButtons" -}}
   <section class="tile-list">
     {{- with .Site.GetPage "/contact/contact" -}}
     <a href="{{ .RelPermalink }}" class="btn btn-light btn-round text-center btn-picto">
@@ -15,5 +16,6 @@
     </a>
     {{- end -}}
   </section>
+  {{- end -}}
 </article>
 {{ end }}

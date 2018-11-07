@@ -2,6 +2,7 @@
 title: "Paris en amoureux"
 date: 2018-10-31T14:20:39+02:00
 draft: false
+bottomButtons: true
 slug: "../ce-que-nous-faisons/paris-en-amoureux"
 ---
 

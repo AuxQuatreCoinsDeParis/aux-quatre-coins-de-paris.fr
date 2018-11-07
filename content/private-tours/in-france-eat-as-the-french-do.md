@@ -2,6 +2,7 @@
 title: "In France Eat as the French Do"
 date: 2018-10-11T18:20:15+02:00
 draft: false
+bottomButtons: true
 ---
 
 # In France, eat as the French do!

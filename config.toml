@@ -3,6 +3,7 @@ defaultContentLanguage = "en"
 title = "Aux quatre coins de Paris"
 theme = "auxquatrecoins"
 googleAnalytics = "UA-86971850-1"
+enableGitInfo = true
 
 [params]
   themeColor = "#27478c"

@@ -61,7 +61,8 @@
 </footer>
 </div>
 {{ template "_internal/google_analytics_async.html" . }}
-{{- $sw := resources.Get "/js/main.js" | minify -}}
+{{- $swtemp := resources.Get "js/main.js" | resources.ExecuteAsTemplate "js/main.js" . -}}
+{{- $sw := $swtemp | resources.Minify -}}
 <script src="{{ $sw.RelPermalink }}"></script>
 
 <!--script src="https://cdn.aux-quatre-coins-de-paris.fr/wp-content/cache/min/1/d9a2bd2b92d5738d0969e053af2fc532.js"

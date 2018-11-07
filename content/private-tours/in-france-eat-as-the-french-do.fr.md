@@ -2,6 +2,7 @@
 title: "En France, mangeons comme les Français !"
 date: 2018-10-11T18:20:15+02:00
 draft: false
+bottomButtons: true
 slug: "../se-promener/en-france-mangeons-comme-les-francais"
 ---
 

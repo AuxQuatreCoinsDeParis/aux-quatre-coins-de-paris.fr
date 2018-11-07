@@ -2,6 +2,7 @@
 title: "Paris in love"
 date: 2018-10-31T14:20:39+02:00
 draft: false
+bottomButtons: true
 ---
 
 # Paris in love

@@ -37,7 +37,7 @@
       <textarea name="message" id="message"
         class="contact-field" placeholder="{{ i18n `message` }}"></textarea>
     </p>
-    <div data-netlify-recaptcha="true"></div>
+    <div data-netlify-recaptcha="true" data-callback="alert('validated')"></div>
     <button type="submit" class="btn btn-light btn-round">send</button>
   </form>
 </section>

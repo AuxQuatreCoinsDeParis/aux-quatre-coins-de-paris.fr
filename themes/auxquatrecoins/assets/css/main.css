@@ -176,7 +176,7 @@ h1, h2, h3, h4, h5 {
   }
 }
 @media screen and (min-width: 992px) {
-  .h1, h1 {
+  .h1, h1, .mosaic-content h2 {
     font-size: 2.6rem;
   }
   .h2, h2 {
@@ -480,6 +480,11 @@ picture + .tips-content {
   margin: 1em -20px -20px;
   text-transform: uppercase;
 }
+@media screen and (min-width: 575px) {
+  .tips-content .btn-full {
+    margin-top: auto;
+  }
+}
 @media screen and (min-width: 992px) {
   .tips-box {
     margin-bottom: 0;
@@ -566,6 +571,9 @@ picture + .tips-content {
   }
 }
 
+.home {
+  font-size: 1.125rem;
+}
 .home,
 .home .tips-wrapper,
 .home .mosaic-content-wrapper {
@@ -599,6 +607,7 @@ picture + .tips-content {
   margin-bottom: 1.8rem;
 }
 .tile-list {
+  clear: both;
   margin: 2em 0;
 }
 .tile-list .half-width img {
@@ -766,14 +775,14 @@ picture + .tips-content {
     clear: left;
     float: left;
     margin-right: 3%;
-    width: 47%;
+    width: 48.5%;
   }
   .article-image-right,
   .article-video {
     clear: right;
     float: right;
     margin-left: 3%;
-    width: 47%;
+    width: 48.5%;
   }
   .article-video {
     padding-top: 28.12%;

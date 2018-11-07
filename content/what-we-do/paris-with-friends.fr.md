@@ -3,6 +3,7 @@ title: "Paris entre ami(e)s"
 date: 2018-10-31T14:20:39+02:00
 draft: false
 slug: "../ce-que-nous-faisons/paris-entre-amies"
+bottomButtons: true
 ---
 
 # Paris entre ami(e)s

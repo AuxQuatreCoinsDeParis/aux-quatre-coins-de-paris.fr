@@ -66,15 +66,17 @@
   <section class="content-width home">
   {{- end -}}
     <h2 class="fSketch h1 text-center">{{ i18n "enjoy" }}</h2>
-    <p class="text-center">
+    <p class="tile-list">
       {{- with .Site.GetPage "/contact/contact" -}}
-      <a href="{{ .RelPermalink }}" class="btn btn-light btn-round btn-picto mx-1">
-        <span class="fas fa-comments"></span> {{ i18n "letstalk" }}
+      <a href="{{ .RelPermalink }}" class="btn btn-light btn-round text-center btn-picto">
+        <span class="fas fa-comments"></span>
+        {{- i18n "letstalk" }}
       </a>
       {{- end -}}
       {{- with .Site.GetPage "/pricing" -}}
-      <a href="{{ .RelPermalink }}" class="btn btn-sky btn-round btn-picto mx-1">
-        <span class="fas fa-list"></span> {{ i18n "prices" }}
+      <a href="{{ .RelPermalink }}" class="btn btn-sky btn-round text-center btn-picto">
+        <span class="fas fa-list"></span>
+        {{- i18n "prices" }}
       </a>
       {{- end -}}
     </p>

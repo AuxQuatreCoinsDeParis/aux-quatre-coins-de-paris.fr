@@ -1,8 +1,9 @@
+{{ $service := resources.Get "js/service.js" | resources.ExecuteAsTemplate "sw.js" . -}}
 (function () {
-  if ('serviceWorker' in navigator) {
+  if ('serviceWorker' in navigator && location.host.indexOf('localhost') < 0) {
     navigator.serviceWorker
-      .register('/service2.js')
-      .then(function () { console.log('Service worker registered !') })
+      .register('{{ $service.RelPermalink }}')
+      .then(function () { console.info('Service worker registered !') })
   }
 
   const menuOpener = document.getElementById('mobile-menu-opener')
@@ -18,18 +19,20 @@
   })
 
   function loadImage(imgToLoad) {
+    const src = imgToLoad.getAttribute('data-src')
+    if (false == src) {
+      return
+    }
     if (imgToLoad.nodeName === 'IMG') {
-      imgToLoad.src = imgToLoad.getAttribute('data-src')
+      imgToLoad.src = src
     } else {
-      imgToLoad.srcset = imgToLoad.getAttribute('data-src')
+      imgToLoad.srcset = src
     }
     imgToLoad.removeAttribute('data-src')
   }
   const imagesToLoad = document.querySelectorAll("img[data-src], source[data-src]")
   if ("IntersectionObserver" in window) {
     const io = new IntersectionObserver(function (entries) {
-      console.info(entries)
-
       if (entries[0].intersectionRatio <= 0) return
 
       entries.forEach(function (entry) {

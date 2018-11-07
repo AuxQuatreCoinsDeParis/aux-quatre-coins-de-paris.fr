@@ -38,6 +38,7 @@ this.addEventListener('fetch', function (event) {
               const responseCache = response.clone()
 
               caches.open(APP_CACHE_NAME).then(function (cache) {
+                if (responseCache.url.indexOf('analytics') > -1) return
                 cache.put(event.request, responseCache)
               })
 
@@ -45,8 +46,22 @@ this.addEventListener('fetch', function (event) {
           })
       })
       .catch(function () {
-        console.error(event.request)
+        // console.error(event.request)
         return caches.match('/fr/fallback/')
       })
+  )
+})
+
+this.addEventListener('activate', function (event) {
+  event.waitUntil(
+    caches.keys().then(function (cacheNames) {
+      cacheNames.filter(function (cacheName) {
+        if (cacheName != APP_CACHE_NAME) {
+          return true
+        }
+      }).map(function (cacheName) {
+        return caches.delete(cacheName)
+      })
+    })
   )
 })
