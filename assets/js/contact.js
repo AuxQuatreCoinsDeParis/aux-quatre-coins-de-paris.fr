@@ -16,6 +16,6 @@
     return recaptchaField.validity.valid
   }
   function activateSubmitButton() {
-    document.getElementById('contactSubmit').setAttribute('disabled', false)
+    document.getElementById('contactSubmit').removeAttribute('disabled')
   }
 })()
