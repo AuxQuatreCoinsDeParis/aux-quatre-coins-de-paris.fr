@@ -26,13 +26,13 @@
   other = "Read more"
   
 [enjoy]
-  other = "Vous n'avez plus qu'à profiter !"
+  other = "You just need to enjoy now!"
 
 [letstalk]
-  other = "Discutons-en !"
+  other = "Let's talk!"
 
 [prices]
-  other = "Tarifs"
+  other = "Pricing"
 
 [first_name]
   other = "First Name"
@@ -54,6 +54,9 @@
 
 [message]
   other = "Message"
+
+[send]
+  other = "Send"
 
 [meta-description]
   other = "All the tips you need from a native parisian to make the most of your stay in Paris!"

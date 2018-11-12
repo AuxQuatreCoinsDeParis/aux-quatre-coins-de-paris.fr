@@ -122,6 +122,10 @@ h1, h2, h3, h4, h5 {
 .btn-light:hover {
   background: #fcdb6f;
 }
+.btn-light:disabled {
+  background: rgb(175, 148, 59, 0.5);
+  color: #575e6e;
+}
 .btn-sky {
   background: #5bc0de;
   color: #162546;

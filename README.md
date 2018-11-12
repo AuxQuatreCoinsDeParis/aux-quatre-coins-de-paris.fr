@@ -88,8 +88,5 @@ Set to true, show the buttons on the bottom of end pages
 
 * change meta description with pages
 * correct lang in manifest
-* create required icons
-* optimize remaining images
 * check IE
-* use .GitInfo.Hash as cache key for service worker
 * defer offscreen images

@@ -3,7 +3,7 @@
   <div class="contact-infos p-3">
     {{ .Content }}
   </div>
-  <form name="contact" method="POST" class="contact-form flex-row-s p-3" data-netlify="true">
+  <form id="contactForm" name="contact" method="POST" class="contact-form flex-row-s p-3" data-netlify="true">
     <p class="hidden">
       <label>Don't fill this if you're human: <input name="bot-field"></label>
     </p>
@@ -37,8 +37,10 @@
       <textarea name="message" id="message"
         class="contact-field" placeholder="{{ i18n `message` }}"></textarea>
     </p>
-    <div data-netlify-recaptcha="true" data-callback="alert('validated')"></div>
-    <button type="submit" class="btn btn-light btn-round">send</button>
+    <div data-netlify-recaptcha="true"></div>
+    <button id="contactSubmit" type="submit" class="btn btn-light btn-round" disabled="disabled">{{ i18n "send" }}</button>
   </form>
 </section>
+{{ $js := resources.Get "js/contact.js" | resources.Minify -}}
+<script src="{{ $js.RelPermalink }}" async></script>
 {{ end }}

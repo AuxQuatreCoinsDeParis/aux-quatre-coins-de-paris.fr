@@ -20,17 +20,22 @@ this.addEventListener('install', function (event) {
 })
 
 this.addEventListener('fetch', function (event) {
-  event.respondWith(
-    caches.match(event.request)
-      .then(function (response) {
-        if (response) {
-          return response
-        }
+  const request = event.request
+  if (request.method !== 'GET') {
+    event.respondWith(fetch(request))
+  }
+  else {
+    event.respondWith(
+      caches.match(request)
+        .then(function (response) {
+          if (response) {
+            return response
+          }
 
-        const fetchRequest = event.request.clone()
+          const fetchRequest = event.request.clone()
 
-        return fetch(fetchRequest)
-          .then(function (response) {
+          return fetch(fetchRequest)
+            .then(function (response) {
               if (!response || response.status !== 200 || response.type !== 'basic') {
                 return response
               }
@@ -43,13 +48,14 @@ this.addEventListener('fetch', function (event) {
               })
 
               return response
-          })
-      })
-      .catch(function () {
-        // console.error(event.request)
-        return caches.match('/fr/fallback/')
-      })
-  )
+            })
+        })
+        .catch(function () {
+          // console.error(event.request)
+          return caches.match('/fr/fallback/')
+        })
+    )
+  }
 })
 
 this.addEventListener('activate', function (event) {
