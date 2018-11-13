@@ -2,6 +2,7 @@
   const oCaptchaChecker = {
     hasRecaptcha: false,
     recaptchaField: null,
+    checkTimer: null,
     checkGRecaptcha: function () {
       if (this.hasRecaptcha === false) {
         this.initGRecaptcha()
@@ -23,6 +24,9 @@
     },
     activateSubmitButton: function () {
       document.getElementById('contactSubmit').removeAttribute('disabled')
+      if (this.checkTimer !== null) {
+        window.clearTimeout(this.checkTimer)
+      }
     },
     isRecaptchaValid: function () {
       return this.recaptchaField.value.length > 0
@@ -30,6 +34,16 @@
     checkAndActiveButton: function () {
       if (this.checkGRecaptcha()) {
         this.activateSubmitButton()
+      }
+    },
+    checkInterval: function () {
+      if (false === this.hasRecaptcha) {
+        return
+      }
+      if (this.isRecaptchaValid) {
+        this.activateSubmitButton()
+      } else {
+        this.checkTimer = window.setTimeout(this.checkInterval, 200)
       }
     }
   }
