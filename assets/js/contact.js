@@ -10,11 +10,9 @@
     },
     initGRecaptcha: function () {
       this.recaptchaField = document.getElementById('g-recaptcha-response')
-      if (null === this.recaptchaField) {
-        this.recaptchaField = { validity: { valid: false } }
-      } else if (this.isRecaptchaValid() === false) {
+      if (null !== this.recaptchaField && this.isRecaptchaValid() === false) {
         this.hasRecaptcha = true
-        this.recaptchaField.addEventListener('change', (event) => {
+        this.recaptchaField.addEventListener('change', () => {
           if (this.isRecaptchaValid()) {
             this.activateSubmitButton()
           }
@@ -25,7 +23,7 @@
       document.getElementById('contactSubmit').removeAttribute('disabled')
     },
     isRecaptchaValid: function () {
-      return this.recaptchaField.validity.valid
+      return this.recaptchaField.value.length > 0
     },
     checkAndActiveButton: function () {
       if (this.checkGRecaptcha()) {
