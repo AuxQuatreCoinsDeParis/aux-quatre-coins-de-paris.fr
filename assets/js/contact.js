@@ -15,11 +15,7 @@
         this.recaptchaField = { value: '' }
       } else if (this.isRecaptchaValid() === false) {
         this.hasRecaptcha = true
-        this.recaptchaField.addEventListener('change', () => {
-          if (this.isRecaptchaValid()) {
-            this.activateSubmitButton()
-          }
-        })
+        this.checkInterval()
       }
     },
     activateSubmitButton: function () {
