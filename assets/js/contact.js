@@ -10,7 +10,9 @@
     },
     initGRecaptcha: function () {
       this.recaptchaField = document.getElementById('g-recaptcha-response')
-      if (null !== this.recaptchaField && this.isRecaptchaValid() === false) {
+      if (null === this.recaptchaField) {
+        this.recaptchaField = { value: '' }
+      } else if (this.isRecaptchaValid() === false) {
         this.hasRecaptcha = true
         this.recaptchaField.addEventListener('change', () => {
           if (this.isRecaptchaValid()) {
@@ -39,6 +41,6 @@
     }
   })
   oForm.addEventListener('change', function (event) {
-      oCaptchaChecker.checkAndActiveButton()
+    oCaptchaChecker.checkAndActiveButton()
   })
 })()
