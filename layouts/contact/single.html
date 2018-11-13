@@ -9,17 +9,17 @@
     </p>
     <p class="col-2">
       <label class="screen-only" for="first_name">{{ i18n "first_name" }}</label>
-      <input type="text" name="first_name" id="first_name"
+      <input type="text" name="first_name" id="first_name" required="required"
         class="contact-field" placeholder="{{ i18n `first_name` }}">
     </p>
     <p class="col-2">
       <label class="screen-only" for="last_name">{{ i18n "last_name" }}</label>
-      <input type="text" name="last_name" id="last_name"
+      <input type="text" name="last_name" id="last_name" required="required"
         class="contact-field" placeholder="{{ i18n `last_name` }}">
     </p>
     <p class="col-2">
       <label class="screen-only" for="email">{{ i18n "email" }}</label>
-      <input type="email" name="email" id="email"
+      <input type="email" name="email" id="email" required="required"
         class="contact-field" placeholder="{{ i18n `email` }}">
     </p>
     <p class="col-2">
@@ -29,12 +29,12 @@
     </p>
     <p>
       <label class="screen-only" for="subject">{{ i18n "subject" }}</label>
-      <input type="text" name="subject" id="subject"
+      <input type="text" name="subject" id="subject" required="required"
         class="contact-field" placeholder="{{ i18n `subject` }}">
     </p>
     <p>
       <label class="screen-only" for="message">{{ i18n "message" }}</label>
-      <textarea name="message" id="message"
+      <textarea name="message" id="message" required="required"
         class="contact-field" placeholder="{{ i18n `message` }}"></textarea>
     </p>
     <div data-netlify-recaptcha="true"></div>
