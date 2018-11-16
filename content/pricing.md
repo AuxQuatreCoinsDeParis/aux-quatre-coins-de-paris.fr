@@ -56,9 +56,11 @@ For stays of more than 8 days in Paris, each additional day costs 30 €. Servic
 
 For any questions, please contact us at [contact@quatre-coins.paris](mailto:contact@quatre-coins.paris). We will reply as soon as possible!
 
+{{< blue-background >}}
 ## How does it work?
 
 1. Please contact Aux quatre coins de Paris to check availability at the dates you wish to visit Paris.
 2. Fill the form you will receive. Your answers are used to prepare your planning.
 3. Once you validate the suggested planning and possible extra activities, you will receive an invoice. You will have to pay it via Paypal to confirm all reservations.
 4. Enjoy!
+{{< /blue-background >}}
