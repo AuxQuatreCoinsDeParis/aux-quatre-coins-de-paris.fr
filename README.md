@@ -87,6 +87,5 @@ Set to true, show the buttons on the bottom of end pages
 ## todo:
 
 * change meta description with pages
-* correct lang in manifest
 * check IE
 * defer offscreen images
