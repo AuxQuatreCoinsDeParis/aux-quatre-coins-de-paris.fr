@@ -64,4 +64,4 @@ Pour toutes questions, n’hésitez pas à nous contacter : contact@quatre-coins
 2. Répondez au formulaire qui vous sera envoyé, les informations données serviront de base à l’élaboration de votre planning.
 3. Après validation de votre part du planning et des éventuelles activités sur place, une facture vous sera envoyée. Vous devrez la régler via Paypal pour confirmer toutes les réservations.
 4. Vous n’avez plus qu’à profiter !
-{{% blue-background %}}
+{{% /blue-background %}}
