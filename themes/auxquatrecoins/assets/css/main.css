@@ -35,6 +35,12 @@ textarea {
 .hidden {
   display: none;
 }
+.reset-float {
+  clear: both;
+  display: block;
+  height: 1px;
+  width: 100%;
+}
 
 #content {
   margin: 3em 0;
@@ -777,23 +783,17 @@ picture + .tips-content {
 }
 @media screen and (min-width: 992px) {
   .article-image-left {
+    clear: both;
     float: left;
     margin-right: 3%;
     width: 48.5%;
   }
   .article-image-right,
   .article-video {
+    clear: both;
     float: right;
     margin-left: 3%;
     width: 48.5%;
-  }
-  .article-image-left::before,
-  .article-image-right::before,
-  .article-video::before {
-    clear: both;
-    content: "";
-    height: 1px;
-    width: 100%;
   }
   .article-video {
     padding-top: 28.12%;

@@ -12,6 +12,7 @@ For a first visit of Paris, you cannot miss the « top 5 » that is the **Louvre
 
 What are the assets of Aux quatre coins de Paris?
 
+{{< reset-float >}}
 {{< figure src="/images/paris-in-love/painters-in-montmartre-550x389.jpg"
 alt="painters in montmartre" class="article-image-right" >}}
 
@@ -19,6 +20,7 @@ alt="painters in montmartre" class="article-image-right" >}}
 
 We suggest you for example to take a delicious breakfast in a small café that cultivates the art of good living (and eating well) from good old days before you start your visit of the Montmartre hill. For this visit, you will find with your travel plan an itinerary in the neighbourhood and the corresponding maps and instructions to discover this area without missing any point of interest of this so particular place! Besides, we indicate you where to buy quality souvenirs to bring back home!
 
+{{< reset-float >}}
 {{< figure src="/images/paris-in-love/louvre-pyramide-paris-550x357.jpg"
 alt="Louvre pyramide Paris" class="article-image-left" >}}
 
@@ -28,6 +30,7 @@ First of all, with Aux quatre coins de Paris, your tickets are bought in advance
 For this visit, you will find with your travel plan an itinerary of approximately 2 hours in the museum with some comments on the major works of art. Do not miss the essential without staying hours in the museum!
 The weather is nice? Let’s plan a picnic in the Tuileries gardens!
 
+{{< reset-float >}}
 {{< figure src="/images/paris-in-love/Romantic Paris 550x354.jpg"
 alt="glass of champagne in Paris" class="article-image-right" >}}
 
