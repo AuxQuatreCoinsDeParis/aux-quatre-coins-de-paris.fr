@@ -40,8 +40,10 @@ Aux quatre coins de Paris suggests you to visit the third floor of the Eiffel to
 Wa can also organise a romantic ride for you or book a fine table, a dinner cruse or even a night at the Lido or the Moulin Rouge! Just ask and we will organise your perfect night in Paris.
 
 
-{{< reset-float >}}
 
 **And we have plenty other assets for you to make the most of Paris! We assure you: we take care of everything!**
+
+
+{{< reset-float >}}
 
 *The activities booked besides are charged in addition to our services. Aux quatre coins de Paris plans and books activities for you without taking any commission.*
