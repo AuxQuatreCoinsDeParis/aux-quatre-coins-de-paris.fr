@@ -14,11 +14,19 @@ Pour une première fois à Paris, vous ne pouvez pas manquer le top 5, c’est-�
 
 Les plus d’Aux quatre coins de Paris ?
 
+{{< reset-float >}}
+{{< figure src="/images/paris-in-love/painters-in-montmartre-600x400.jpg"
+alt="painters in montmartre" class="article-image-right" >}}
+
 ## Montmartre
 
 Nous vous suggérons par exemple de prendre un délicieux petit déjeuner dans un tout petit établissement qui cultive l’art de bien vivre d’antan avant de commencer votre visite de la butte Montmartre.
 
 Pour cette visite, un itinéraire vous sera remis avec cartes et indications pour que vous ne manquiez aucun des secrets de ce lieu si particulier ! De plus, nous vous aiguillons sur les endroits où acheter des souvenirs pour que vous rameniez des objets de qualité.
+
+{{< reset-float >}}
+{{< figure src="/images/paris-in-love/louvre-pyramide-paris-600x400.jpg"
+alt="Louvre pyramide Paris" class="article-image-left" >}}
 
 ## Louvre
 
@@ -27,6 +35,10 @@ Tout d’abord, avec Aux quatre coins de Paris, vos billets sont achetés à l�
 Pour cette visite, un itinéraire d’environ 2h vous sera remis avec quelques commentaires sur les œuvres majeures du musée. Ne manquez pas l’essentiel sans y passer des heures !
 
 Il fait beau ? Prévoyons un pique-nique dans le jardin des Tuileries !
+
+{{< reset-float >}}
+{{< figure src="/images/paris-in-love/romantic-paris-600x400.jpg"
+alt="glass of champagne in Paris" class="article-image-right" >}}
 
 ## En amoureux
 
@@ -37,4 +49,7 @@ Nous pouvons également vous organiser une balade romantique ou vous réserver u
 
 **Et nous avons encore bien d’autres atouts pour vous faire profiter au mieux de Paris ! On vous le dit : on s’occupe de tout !**
 
-* *Les activités réservées en plus font l’objet d’une seconde facturation. Aux quatre coins de Paris planifie et réserve pour vous vos activités sans prendre de commission.*
+
+{{< reset-float >}}
+
+*Les activités réservées en plus font l’objet d’une seconde facturation. Aux quatre coins de Paris planifie et réserve pour vous vos activités sans prendre de commission.*
