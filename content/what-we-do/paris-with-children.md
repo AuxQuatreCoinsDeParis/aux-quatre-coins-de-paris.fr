@@ -13,15 +13,29 @@ If it is your first visit of Paris, you cannot miss the « top 5 », that is the
 
 How Aux quatre coins de Paris can help you?
 
+{{< reset-float >}}
+{{< figure src="/images/paris-with-children/pantheon-paris-600x400.jpg"
+alt="Panthéon Paris" class="article-image-right" >}}
+
 ## Culture
 
 Discover great museums such as the Louvre or the Orsay museum with a treasure hunt! Very funny, your children will remember what they saw!
+
 Go admire the view on top of the towers of Notre-Dame, the Arc de Triomphe or on top of the Pantheon, children love this! Seize the opportunity at the Pantheon to show them Foucault’s pendulum, proof the Earth is turning!
+
+{{< reset-float >}}
+{{< figure src="/images/paris-with-children/zoo-vincennes-paris-600x400.jpg"
+alt="giraffes of the Vincennes zoo" class="article-image-left" >}}
 
 ## Discovery
 
 Explore new horizons going to the zoo of Vincennes or discovering the Catacombs of Paris! The Great Gallery of Evolution and dinosaurs’ skeletons of the Natural History Museum will also delight your children!
+
 For food lovers, book a food market tour followed by a picnic (weather permitting) with Aux quatre coins de Paris. It will be the opportunity to talk about French bakery and butchery specialties, cheeses and many other regional products!
+
+{{< reset-float >}}
+{{< figure src="/images/paris-with-children/parc-asterix-600x400.jpg"
+alt="Astérix and Obélix parc Astérix" class="article-image-right" >}}
 
 ## Theme parks
 
@@ -34,4 +48,6 @@ Whichever option you choose (either park or both), Aux quatre coins de Paris boo
 
 **And we have so many other ideas for you!**
 
-* *The activities booked besides are charged in addition to our services. Aux quatre coins de Paris plans and books activities for you without taking any commission.*
+{{< reset-float >}}
+
+*The activities booked besides are charged in addition to our services. Aux quatre coins de Paris plans and books activities for you without taking any commission.*
