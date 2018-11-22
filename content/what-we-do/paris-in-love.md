@@ -14,7 +14,7 @@ What are the assets of Aux quatre coins de Paris?
 
 {{< reset-float >}}
 {{< figure src="/images/paris-in-love/painters-in-montmartre-600x400.jpg"
-alt="painters in montmartre" class="article-image-right" >}}
+alt="painters place du Tertre Montmartre" class="article-image-right" >}}
 
 ## Montmartre
 
@@ -24,7 +24,7 @@ For this visit, you will find with your travel plan an itinerary in the neighbou
 
 {{< reset-float >}}
 {{< figure src="/images/paris-in-love/louvre-pyramide-paris-600x400.jpg"
-alt="Louvre pyramide Paris" class="article-image-left" >}}
+alt="Louvre pyramid Paris" class="article-image-left" >}}
 
 ## Louvre
 

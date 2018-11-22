@@ -16,7 +16,7 @@ Les plus d’Aux quatre coins de Paris ?
 
 {{< reset-float >}}
 {{< figure src="/images/paris-in-love/painters-in-montmartre-600x400.jpg"
-alt="painters in montmartre" class="article-image-right" >}}
+alt="peintres place du Tertre Montmartre" class="article-image-right" >}}
 
 ## Montmartre
 
@@ -26,7 +26,7 @@ Pour cette visite, un itinéraire vous sera remis avec cartes et indications pou
 
 {{< reset-float >}}
 {{< figure src="/images/paris-in-love/louvre-pyramide-paris-600x400.jpg"
-alt="Louvre pyramide Paris" class="article-image-left" >}}
+alt="pyramide du Louvre Paris" class="article-image-left" >}}
 
 ## Louvre
 
@@ -38,7 +38,7 @@ Il fait beau ? Prévoyons un pique-nique dans le jardin des Tuileries !
 
 {{< reset-float >}}
 {{< figure src="/images/paris-in-love/romantic-paris-600x400.jpg"
-alt="glass of champagne in Paris" class="article-image-right" >}}
+alt="coupes de champagne à Paris" class="article-image-right" >}}
 
 ## En amoureux
 
