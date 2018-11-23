@@ -17,5 +17,5 @@
   ],
   "start_url": "/{{ if and .IsTranslated (eq .Lang `fr`) }}fr/{{ end }}?utm_source=AppQCdP",
   "display": "standalone",
-  "scope": "/{{ if and .IsTranslated (eq .Lang `fr`) }}fr/{{ end }}"
+  "scope": "/"
 }

@@ -1,4 +1,5 @@
 const APP_CACHE_NAME = '{{ .GitInfo.Hash }}'
+const self = this
 
 this.addEventListener('install', function (event) {
   event.waitUntil(
@@ -14,7 +15,9 @@ this.addEventListener('install', function (event) {
         '/js/main.min.js',
         '/images/a4cp-logo-compact-white.svg',
         '/images/city-island-and-notre-dame-cathedral.jpg'
-      ])
+      ]).then(function () {
+        self.skipWaiting()
+      })
     })
   )
 })
@@ -26,34 +29,31 @@ this.addEventListener('fetch', function (event) {
   }
   else {
     event.respondWith(
-      caches.match(request)
-        .then(function (response) {
-          if (response) {
-            return response
-          }
+      caches.open(APP_CACHE_NAME).then(function (cache) {
+        cache.match(request)
+          .then(function (response) {
+            const fetchRequest = event.request.clone()
 
-          const fetchRequest = event.request.clone()
+            const fetched = fetch(fetchRequest)
+              .then(function (response) {
+                if (!response || response.status !== 200 || response.type !== 'basic') {
+                  return response
+                }
 
-          return fetch(fetchRequest)
-            .then(function (response) {
-              if (!response || response.status !== 200 || response.type !== 'basic') {
-                return response
-              }
-
-              const responseCache = response.clone()
-
-              caches.open(APP_CACHE_NAME).then(function (cache) {
+                const responseCache = response.clone()
                 if (responseCache.url.indexOf('analytics') > -1) return
                 cache.put(event.request, responseCache)
+
+                return response
               })
 
-              return response
-            })
-        })
-        .catch(function () {
-          // console.error(event.request)
-          return caches.match('/fr/fallback/')
-        })
+            return response || fetched
+          })
+          .catch(function () {
+            // console.error(event.request)
+            return caches.match('/fr/fallback/')
+          })
+      })
     )
   }
 })

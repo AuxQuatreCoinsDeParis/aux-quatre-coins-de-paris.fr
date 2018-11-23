@@ -692,10 +692,12 @@ picture + .tips-content {
   align-items: flex-end;
   justify-content: center;
 }
+.article-image-left,
 .article-image-right,
 .article-video {
   margin: 0 0 1.5em;
 }
+.article-image-left img,
 .article-image-right img {
   height: auto;
   width: 100%;
