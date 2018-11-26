@@ -26,19 +26,19 @@
       <div class="footer-social">
         <div class="links-light">
           {{- with .Site.Params.facebook -}}
-          <a class="social-icon" href="{{ . }}" title="Facebook" target="_blank">
+          <a class="social-icon" href="{{ . }}" title="Facebook" rel="noopener" target="_blank">
             <span class="screen-only">Facebook</span>
             <i class="fab fa-facebook fa-lg"></i>
           </a>
           {{- end -}}
           {{- with .Site.Params.instagram -}}
-          <a class="social-icon" href="{{ . }}" title="Instagram" target="_blank">
+          <a class="social-icon" href="{{ . }}" title="Instagram" rel="noopener" target="_blank">
             <span class="screen-only">Instagram</span>
             <i class="fab fa-instagram fa-lg"></i>
           </a>
           {{- end -}}
           {{- with .Site.Params.pinterest -}}
-          <a class="social-icon" href="{{ . }}" title="Pinterest" target="_blank">
+          <a class="social-icon" href="{{ . }}" title="Pinterest" rel="noopener" target="_blank">
             <span class="screen-only">Pinterest</span>
             <i class="fab fa-pinterest fa-lg"></i>
           </a>

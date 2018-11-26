@@ -1,0 +1,219 @@
+.p404 {
+  min-height: 400px;
+  position: relative;
+}
+.cat {
+  border: 30px solid #000;
+  border-radius: 50%;
+  box-sizing: content-box;
+  margin: 1em -30px;
+  padding-top: 70%;
+  position: relative;
+  width: 100%;
+}
+@media screen and (min-width: 576px) {
+  .cat {
+    border: 50px solid #000;
+    padding-top: 300px;
+    position: absolute;
+    margin: 0;
+    right: 0;
+    top: 0;
+    width: 400px;
+  }
+}
+.ear {
+  height: 58%;
+  position: absolute;
+  top: 10%;
+  width: 20%;
+}
+.ear-left {
+  border-radius: 100% 50% 5% 5% / 100% 100% 5% 5%;
+  left: 3.5%;
+  transform: rotate(-64deg);
+}
+.ear-right {
+  border-radius: 50% 100% 5% 5% / 100% 100% 5% 5%;
+  right: 3.5%;
+  transform: rotate(64deg);
+}
+.ear::after,
+.ear::before {
+  border-radius: 50%;
+  content: "";
+  height: 10%;
+  top: 55%;
+  transform-origin: bottom;
+  width: 3.5%;
+}
+.ear::after {
+  transform: rotate(14deg);
+}
+.ear::before {
+  transform: rotate(-14deg);
+}
+.ear-left::after,
+.ear-left::before {
+  right: 15%;
+}
+.ear-right::after,
+.ear-right::before {
+  left: 15%;
+}
+.face {
+  border-radius: 50% / 72% 72% 70% 70%;
+  bottom: 0;
+  height: 72%;
+  left: 10%;
+  margin: 0 auto;
+  position: absolute;
+  right: 10%;
+  width: 80%;
+}
+.ear::before,
+.ear::after,
+.eye,
+.eye::before,
+.eye-pupil,
+.eye-pupil::after,
+.eye::after,
+.eye-tears,
+.muzzle {
+  display: block;
+  position: absolute;
+}
+.eye {
+  border-radius: 50% / 60% 60% 40% 40%;
+  height: 30%;
+  top: 55%;
+  width: 25%;
+}
+.eye-left {
+  left: 10%;
+}
+.eye-right {
+  right: 10%;
+}
+.eye::before {
+  border-radius: 50%;
+  content: "";
+  height: 12%;
+  top: 60%;
+  width: 12%;
+}
+.eye-left::before {
+  border-radius: 50% 100% 100% 50% / 50% 70% 70% 50%;
+  right: -7%;
+}
+.eye-right::before {
+  border-radius: 100% 50% 50% 100% / 70% 50% 50% 70%;
+  left: -7%;
+}
+.eye-pupil {
+  border-radius: 50%;
+  height: 40%;
+  top: 30%;
+  width: 14%;
+  animation: sad-pupil 0.6s ease-in-out infinite;
+}
+.eye-left .eye-pupil {
+  left: 50%;
+}
+.eye-right .eye-pupil {
+  right: 50%;
+}
+@keyframes sad-pupil {
+  0% {
+    top: 28%;
+  }
+  20% {
+    top: 34%;
+  }
+  40% {
+    top: 33%;
+  }
+  60% {
+    top: 29%;
+  }
+  80% {
+    top: 32%;
+  }
+}
+.eye::after {
+  background: url("data:image/svg+xml;utf8,<svg viewBox='0 0 100 100' xmlns='http://www.w3.org/2000/svg'><path fill='black' d='M 0,100 C 20,100 70,0 100,20 C 50,0 0,20 0,100 Z'></path></svg>") no-repeat 0 0;
+  content: "";
+  display: block;
+  height: 100%;
+  left: -2px;
+  position: absolute;
+  width: 100%;
+  top: -15px;
+  transform: rotate(30deg);
+}
+.eye-right::after {
+  transform: rotate(-30deg) scale(-1, 1);
+}
+.eye-pupil::after {
+  border-radius: 50%;
+  box-shadow: -2px 4px 0 1px rgba(255,255,255,0.7);
+  content: "";
+  height: 28%;
+  right: -8%;
+  top: 30%;
+  width: 58%;
+  animation: sad-reflect 0.6s ease-in-out infinite;
+}
+.eye-tears {
+  background: url("data:image/svg+xml;utf8,<svg viewBox='0 0 100 100' xmlns='http://www.w3.org/2000/svg'><path fill='black' opacity='0.5' d='M 10,100 A 10 8 0 0 1 45,80 A 10 6 0 0 1 70,95 A 5 4 0 0 1 98,95 z'></path></svg>") no-repeat 0 0;
+  bottom: -5%;
+  content: "";
+  height: 100%;
+  width: 100%;
+}
+.eye-right .eye-tears {
+  transform: scale(-1, 1);
+}
+.muzzle {
+  border-radius: 50% / 30% 30% 70% 70%;
+  height: 8%;
+  left: 45%;
+  top: 80%;
+  width: 10%;
+}
+@keyframes sad-reflect {
+  0% {
+    right: -6%;
+  }
+  20% {
+    right: -12%;
+    top: 28%;
+  }
+  40% {
+    right: -10%;
+    top: 35%;
+  }
+  60% {
+    right: -14%;
+    top: 30%;
+  }
+  80% {
+    right: -8%;
+    top: 32%;
+  }
+}
+
+.ear,
+.eye,
+.eye::before,
+.eye-pupil::after,
+.muzzle {
+  background: #fff;
+}
+.cat,
+.ear::after,
+.ear::before,
+.face,
+.eye-pupil {
+  background: #000;
+}
