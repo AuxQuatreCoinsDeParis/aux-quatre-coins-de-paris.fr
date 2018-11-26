@@ -30,7 +30,7 @@ this.addEventListener('fetch', function (event) {
   else {
     event.respondWith(
       caches.open(APP_CACHE_NAME).then(function (cache) {
-        cache.match(request)
+        return cache.match(request)
           .then(function (response) {
             const fetchRequest = event.request.clone()
 
@@ -41,18 +41,22 @@ this.addEventListener('fetch', function (event) {
                 }
 
                 const responseCache = response.clone()
-                if (responseCache.url.indexOf('analytics') > -1) return
+                if (responseCache.url.indexOf('analytics') > -1) return response
                 cache.put(event.request, responseCache)
 
                 return response
               })
-
             return response || fetched
           })
-          .catch(function () {
-            // console.error(event.request)
-            return caches.match('/fr/fallback/')
+          .catch(function (error) {
+            // const fetchRequest = event.request.clone()
+            // console.error("no match in cache, fallback", error)
+            // console.log(typeof error, fetchRequest.referrer, fetchRequest.destination, fetchRequest.context)
+            return cache.match('/fr/fallback/')
           })
+      })
+      .catch(function (arg) {
+        console.error("open cache", arg)
       })
     )
   }
