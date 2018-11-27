@@ -15,7 +15,7 @@ Vous connaissez déjà les principaux musées et monuments de la ville et ne sou
 Voici ce qu’Aux quatre coins de Paris peut faire pour vous !
 
 {{< reset-float >}}
-{{< figure src="/images/paris-with-friends/brunch-paris-600x400.jpg"
+{{< figure src="/images/paris-with-friends/brunch-paris-600x338.jpg"
 alt="brunch à Paris" class="article-image-right" >}}
 
 ## Gastronomie

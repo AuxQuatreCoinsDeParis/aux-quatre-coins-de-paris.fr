@@ -14,7 +14,7 @@ You already know the major parisian museums and monuments and do not wish to foc
 Here is what Aux quatre coins de Paris can do for you!
 
 {{< reset-float >}}
-{{< figure src="/images/paris-with-friends/brunch-paris-600x400.jpg"
+{{< figure src="/images/paris-with-friends/brunch-paris-600x338.jpg"
 alt="brunch in Paris" class="article-image-right" >}}
 
 ## Gastronomy
