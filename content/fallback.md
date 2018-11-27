@@ -6,4 +6,4 @@ draft: true
 
 # Page not found
 
-This page doesn't seem to exist. Check the address or click [here](https://aux-quatre-coins-de-paris.fr/) to reach our homepage.
+This page is unreachable for the moment. Try to reconnect your device to reach it.
