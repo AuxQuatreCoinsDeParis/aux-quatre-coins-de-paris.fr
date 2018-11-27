@@ -5,7 +5,7 @@
   other = "Private Travel Planner"
 
 [donotexist]
-  other = "Cette page ne semble pas exister. Vérifier l'adresse URL ou cliquer [ici](https://aux-quatre-coins-de-paris.fr/fr/) pour retourner sur notre page d'accueil."
+  other = "Cette page ne semble pas exister. Vérifier l'adresse URL ou cliquer sur notre logo pour retourner sur notre page d'accueil."
 
 [language]
   other = "Français"

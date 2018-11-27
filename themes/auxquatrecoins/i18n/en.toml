@@ -5,7 +5,7 @@
   other = "Private Travel Planner"
 
 [donotexist]
-  other = "This page doesn't seem to exist. Check the address or click [here](https://aux-quatre-coins-de-paris.fr/) to reach our homepage."
+  other = "This page doesn't seem to exist. Check the address or click on our logo to reach our homepage."
 
 [language]
   other = "English"
