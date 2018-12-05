@@ -7,7 +7,7 @@
     </a>
     <div class="title-wrapper">
       {{- if .IsHome }}<h1{{ else }}<span{{ end}} class="fSketch h1 title">
-        <a href="{{ .Site.BaseURL }}" class="link-light">{{ .Site.Title }}</a>
+        <a href="{{ .Site.Home.RelPermalink }}" class="link-light">{{ .Site.Title }}</a>
       {{- if .IsHome }}</h1>{{ else }}</span>{{ end}}
       <p class="subtitle">{{ i18n "subtitle" }}</p>
     </div>
