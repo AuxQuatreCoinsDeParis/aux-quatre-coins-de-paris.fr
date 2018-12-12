@@ -1,0 +1,69 @@
+<footer itemtype="https://schema.org/WPFooter" itemscope="itemscope" role="contentinfo">
+  <section class="footer-wrapper content-width flex-row-s">
+    <div class="footer-profile-wrapper flex-row-s">
+      <figure class="logo-box-img">
+        <img src="/images/a4cp-logo-compact-white.svg" class="size-full" alt="" />
+      </figure>
+      <div class="footer-profile" itemprop="location" itemscope itemtype="http://schema.org/Place">
+        <h3 class="fSketch" itemprop="name">{{ .Site.Title }}</h3>
+        <div class="links-light">
+          <p><strong>{{ i18n "subtitle" }}</strong></p>
+          <p>
+            <span itemprop="streetAddress">4 rue Corvisart</span><br />
+            <span itemprop="postalCode">75013</span> <span itemprop="addressLocality">Paris</span><br />
+            <span itemprop="addressCountry">France</span>
+          </p>
+          {{- with .Site.Params.email -}}
+          <p><a href="mailto:{{ . }}">{{ . }}</a></p>
+          {{- end -}}
+          {{- with .Site.Params.phone -}}
+          <p><a href="tel:{{ replace (replace . ` ` ``) `+` `00`}}">{{ . }}</a></p>
+          {{- end -}}
+        </div>
+      </div>
+    </div>
+    <div class="footer-links">
+      <div class="footer-social">
+        <div class="links-light">
+          {{- with .Site.Params.facebook -}}
+          <a class="social-icon" href="{{ . }}" title="Facebook" rel="noopener" target="_blank">
+            <span class="screen-only">Facebook</span>
+            <i class="fab fa-facebook fa-lg"></i>
+          </a>
+          {{- end -}}
+          {{- with .Site.Params.instagram -}}
+          <a class="social-icon" href="{{ . }}" title="Instagram" rel="noopener" target="_blank">
+            <span class="screen-only">Instagram</span>
+            <i class="fab fa-instagram fa-lg"></i>
+          </a>
+          {{- end -}}
+          {{- with .Site.Params.pinterest -}}
+          <a class="social-icon" href="{{ . }}" title="Pinterest" rel="noopener" target="_blank">
+            <span class="screen-only">Pinterest</span>
+            <i class="fab fa-pinterest fa-lg"></i>
+          </a>
+          {{- end -}}
+        </div>
+      </div>
+      <div class="footer-nav">
+        <nav class="links-light">
+          <ul class="list-unstyled" role="menubar" aria-label="Navigation">
+            {{ range .Site.Menus.footer }}
+            <li class="menu-item" role="menuitem">
+              <a href="{{ .URL }}">{{ .Name }}</a>
+            </li>
+            {{ end }}
+          </ul>
+        </nav>
+      </div>
+    </div>
+  </section>
+</footer>
+</div>
+{{ template "_internal/google_analytics_async.html" . }}
+{{- $swtemp := resources.Get "js/main.js" | resources.ExecuteAsTemplate "js/main.js" . -}}
+{{- $sw := $swtemp | resources.Minify -}}
+<script src="{{ $sw.RelPermalink }}"></script>
+
+<!--script src="https://cdn.aux-quatre-coins-de-paris.fr/wp-content/cache/min/1/d9a2bd2b92d5738d0969e053af2fc532.js"
+  data-minify="1"></script-->

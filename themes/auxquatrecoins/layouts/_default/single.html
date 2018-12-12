@@ -1,0 +1,21 @@
+{{ define "main" }}
+<article class="content-width single{{ with .Layout }} {{ . }}{{ end }}">
+  {{ .Content }}
+  {{- if .Param "bottomButtons" -}}
+  <section class="tile-list">
+    {{- with .Site.GetPage "/contact/contact" -}}
+    <a href="{{ .RelPermalink }}" class="btn btn-light btn-round text-center btn-picto">
+      <span class="fas fa-comments"></span>
+      {{- i18n "letstalk" }}
+    </a>
+    {{- end -}}
+    {{- with .Site.GetPage "/pricing" -}}
+    <a href="{{ .RelPermalink }}" class="btn btn-sky btn-round text-center btn-picto">
+      <span class="fas fa-list"></span>
+      {{- i18n "prices" }}
+    </a>
+    {{- end -}}
+  </section>
+  {{- end -}}
+</article>
+{{ end }}

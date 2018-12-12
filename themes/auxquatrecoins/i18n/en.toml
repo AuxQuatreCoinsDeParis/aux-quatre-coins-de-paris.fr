@@ -1,0 +1,62 @@
+[home]
+  other = "Home"
+
+[subtitle]
+  other = "Private Travel Planner"
+
+[donotexist]
+  other = "This page doesn't seem to exist. Check the address or click on our logo to reach our homepage."
+
+[language]
+  other = "English"
+
+[planning]
+  other = "Planning"
+
+[private_tour]
+  other = "Private Tour"
+
+[pricing]
+  other = "Pricing"
+
+[contact]
+  other = "Contact"
+
+[more]
+  other = "Read more"
+
+[enjoy]
+  other = "You just need to enjoy now!"
+
+[letstalk]
+  other = "Let's talk!"
+
+[prices]
+  other = "Pricing"
+
+[first_name]
+  other = "First Name"
+
+[last_name]
+  other = "Last Name"
+
+[email]
+  other = "E-mail"
+
+[telephone]
+  other = "Telephone"
+
+[optionnal]
+  other = "optionnal"
+
+[subject]
+  other = "Subjet"
+
+[message]
+  other = "Message"
+
+[send]
+  other = "Send"
+
+[meta-description]
+  other = "All the tips you need from a native parisian to make the most of your stay in Paris!"

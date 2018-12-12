@@ -1,0 +1,43 @@
+<header class="main-header" role="heading">
+  <div class="main-titles flex-row-s">
+    <a href="{{ .Site.Home.RelPermalink }}" role="link" aria-label="go to homepage">
+      <figure class="logo-box-img">
+        <img src="/images/a4cp-logo-compact-white.svg" class="size-full" alt="Aux quatre coins de Paris" />
+      </figure>
+    </a>
+    <div class="title-wrapper">
+      {{- if .IsHome }}<h1{{ else }}<span{{ end}} class="fSketch h1 title">
+        <a href="{{ .Site.Home.RelPermalink }}" class="link-light">{{ .Site.Title }}</a>
+      {{- if .IsHome }}</h1>{{ else }}</span>{{ end}}
+      <p class="subtitle">{{ i18n "subtitle" }}</p>
+    </div>
+  </div>
+  <nav class="main-nav" role="menubar" aria-label="Site Menu">
+    <button class="menu-opener" aria-hidden="true" id="mobile-menu-opener"></button>
+    <ul class="content-width flex-row-s menu-top" role="navigation" aria-label="Navigation">
+    {{ range .Site.Menus.header }}
+      <li class="menu-item" role="menuitem">
+        <a href="{{ .URL }}">{{ .Name }}</a>
+      </li>
+    {{ end }}
+      <li class="submenu-wrapper menu-item">
+      {{ if .IsTranslated }}
+        <span id="language-menu-opener">
+          <img src="/images/flags/{{ .Lang }}.png" width="18" height="12" alt="{{ .Lang }}" class="flag">
+          {{ i18n "language" }} <span class="fas fa-angle-down fa-xs"></span>
+        </span>
+        <ul class="submenu links-light">
+          {{ range .Translations }}
+          <li>
+            <a href="{{ .RelPermalink }}">
+              <img src="/images/flags/{{ .Lang }}.png" width="18" height="12" alt="{{ .Lang }}" class="flag">
+              {{ .Param "languageName" }}
+            </a>
+          </li>
+          {{ end }}
+        </ul>
+      {{ end }}
+      </li>
+    </ul>
+  </nav>
+</header>

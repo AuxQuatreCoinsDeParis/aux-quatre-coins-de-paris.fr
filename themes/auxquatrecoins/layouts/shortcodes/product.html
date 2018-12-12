@@ -1,0 +1,14 @@
+<section class="product" itemscope itemtype="http://schema.org/Offer">
+{{- with .Get "title" -}}
+  <h3 class="product-title" itemprop="name">{{ . }}</h3>
+{{- end -}}
+{{- with .Get "price" -}}
+  <p class="product-price fSketch" itemprop="price">
+    {{- with $.Get "currency" }}<span class="currency">{{ . }}</span>{{ end -}}
+    {{- . -}}
+  </p>
+{{- end -}}
+  <div class="product-content" itemprop="description">
+    {{ .Inner }}
+  </div>
+</section>

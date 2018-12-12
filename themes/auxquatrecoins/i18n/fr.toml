@@ -1,0 +1,62 @@
+[home]
+  other = "Accueil"
+
+[subtitle]
+  other = "Private Travel Planner"
+
+[donotexist]
+  other = "Cette page ne semble pas exister. Vérifier l'adresse URL ou cliquer sur notre logo pour retourner sur notre page d'accueil."
+
+[language]
+  other = "Français"
+
+[planning]
+  other = "Planifier"
+
+[private_tour]
+  other = "Se promener"
+
+[pricing]
+  other = "Offrir"
+
+[contact]
+  other = "Contact"
+
+[more]
+  other = "En savoir plus"
+
+[enjoy]
+  other = "Vous n'avez plus qu'à profiter !"
+
+[letstalk]
+  other = "Discutons-en !"
+
+[prices]
+  other = "Tarifs"
+
+[first_name]
+  other = "Prénom"
+
+[last_name]
+  other = "Nom"
+
+[email]
+  other = "E-mail"
+
+[telephone]
+  other = "Téléphone"
+
+[optionnal]
+  other = "optionnel"
+
+[subject]
+  other = "Sujet"
+
+[message]
+  other = "Message"
+
+[Send]
+  other = "Envoyer"
+
+[meta-description]
+  other = "Tous les tuyaux dont vous avez besoin de la part d'une vraie parisienne pour tirer le meilleur de votre séjour à Paris !"

@@ -1,0 +1,5 @@
+<a href="{{ .Get `link` }}" class="image-tile">
+  <img data-src="/images{{ .Get `image`}}" src="" alt="{{ .Get "title" }}">
+  <span class="fSketch h1">{{ .Get "title" }}</span>
+  <span class="btn btn-border btn-round">{{ i18n "more" }}</span>
+</a>

@@ -1,0 +1,24 @@
+baseURL = "https://aux-quatre-coins-de-paris.fr"
+defaultContentLanguage = "en"
+title = "Aux quatre coins de Paris"
+theme = "auxquatrecoins"
+googleAnalytics = "UA-86971850-1"
+enableGitInfo = true
+
+[params]
+  themeColor = "#27478c"
+  instagram = "https://www.instagram.com/auxquatrecoinsdeparis/"
+  facebook = "https://www.facebook.com/aux4coinsdeParis/"
+  pinterest = "https://www.pinterest.fr/auxquatrecoinsdeparis/"
+  email = "contact@quatre-coins.paris"
+  phone = "+33 7 87 33 31 18"
+
+[languages]
+  [languages.en]
+    catchPhrase = "Make the most of Paris!"
+    languageName = "English"
+    languageCode = "en-US"
+  [languages.fr]
+    catchPhrase = "Make the most of Paris!"
+    languageName = "Français"
+    languageCode = "fr-FR"
