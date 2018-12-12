@@ -73,7 +73,6 @@ Text area with blue background
 {{< blue-background >}} Text {{< /blue-background >}}
 ```
 
-
 ## front matter
 These are the parameters set on top of each content file
 
