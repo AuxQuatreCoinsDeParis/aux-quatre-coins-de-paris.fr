@@ -80,7 +80,7 @@ These are the parameters set on top of each content file
 Changes the path of the current page
 
 ### bottomButtons
-Set to true, show the buttons on the bottom of end pages
+Set to `true`, show the buttons on the bottom of end pages
 
 
 ## todo:
