@@ -259,9 +259,19 @@ h1, h2, h3, h4, h5 {
   background: rgba(110,193,228,.7);
   text-decoration: none;
 }
+.flag-fr {
+  background: url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='900' height='600'><rect width='900' height='600' fill='#ED2939'/><rect width='600' height='600' fill='#fff'/><rect width='300' height='600' fill='#002395'/></svg>") no-repeat 0 0;
+}
+.flag-en {
+  background: url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 44 30' width='900' height='600'><clipPath id='t'><path d='M22,15 h22 v15 z v15 h-22 z h-22 v-15 z v-15 h22 z'/></clipPath><path d='M0,0 v30 h44 v-30 z' fill='#00247d'/><path d='M0,0 L44,30 M44,0 L0,30' stroke='#fff' stroke-width='6'/><path d='M0,0 L44,30 M44,0 L0,30' clip-path='url(#t)' stroke='#cf142b' stroke-width='4'/><path d='M22,0 v30 M0,15 h44' stroke='#fff' stroke-width='10'/><path d='M22,0 v30 M0,15 h44' stroke='#cf142b' stroke-width='6'/></svg>") no-repeat 0 0;
+}
 .flag {
+  background-size: contain;
+  display: inline-block;
+  height: 12px;
   margin-right: 0.3em;
-  margin-bottom: 2px;
+  /* margin-bottom: 2px; */
+  width: 18px;
 }
 .submenu-wrapper {
   position: relative;
