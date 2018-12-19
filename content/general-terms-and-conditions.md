@@ -13,13 +13,13 @@ menu:
 
 ## Introduction
 
-The present general terms and conditions apply without limitation or qualification to all services offered by the company Aux quatre coins de Paris, registered at the Trade Registry of Paris under the number 823.739.503, with its office seated at 4 rue de Corvisart, 75013 Paris (the Provider). The services are described on the website www.aux-quatre-coins-de-paris.fr (the Website).
+The present general terms and conditions apply without limitation or qualification to all services offered by the company Aux quatre coins de Paris, registered at the Trade Registry of Paris under the number 823.739.503, with its office seated at 4 rue de Corvisart, 75013 Paris (the Provider). The services are described on the website [www.aux-quatre-coins-de-paris.fr](https://www.aux-quatre-coins-de-paris.fr) (the Website).
 
 These terms and conditions exclude any other terms and conditions.
 
 ## I / Acceptance
 
-The services offered by Aux quatre coins de Paris require the acceptance of the present terms and conditions. Every order placed through the website www.aux-quatre-coins-de-paris.fr or by e-mail implies the prior acceptance without limitation or qualification of these terms and conditions by the Client. An order means either the payment of the Service(s) or the express request from the Client to the Provider to start the execution of the Service(s).
+The services offered by Aux quatre coins de Paris require the acceptance of the present terms and conditions. Every order placed through the website [www.aux-quatre-coins-de-paris.fr](https://www.aux-quatre-coins-de-paris.fr) or by e-mail implies the prior acceptance without limitation or qualification of these terms and conditions by the Client. An order means either the payment of the Service(s) or the express request from the Client to the Provider to start the execution of the Service(s).
 
 A copy of the applicable terms and conditions at the date of the order is sent with the invoice to be paid and by e-mail with every order confirmation. The Client can then record them to check on them later if needed.
 
@@ -88,7 +88,7 @@ According to the article L221-21-8 12° of the French Consumer Code, there is no
 
 **6.1. Concerning third party providers’services**
 
-The providers recommended by Aux quatre coins de Paris are selected for their professionalism and the quality of their services. If one of these conditions is missing, the Client is invited to tell Aux quatre coins de Paris as soon as possible by e-mail to the following address : audrey@quatre-coins.paris or by phone during his stay in Paris.
+The providers recommended by Aux quatre coins de Paris are selected for their professionalism and the quality of their services. If one of these conditions is missing, the Client is invited to tell Aux quatre coins de Paris as soon as possible by e-mail to the following address : [audrey@quatre-coins.paris](mailto:audrey@quatre-coins.paris) or by phone during his stay in Paris.
 
 If a third party provider’s service or product is not available or cancelled, Aux quatre coins de Paris will make his best efforts to find alternative services and solutions. If the alternative service happens to be shorter in time or lower in quality than the one initially booked, the Client will be repaid the price difference.
 
@@ -104,7 +104,7 @@ Besides, the liability of the Provider cannot be engaged if the non-fulfiment or
 
 **7.1. Concerning third party providers’ services**
 
-Any cancellation of a third party provider’s service by the Client must be written and sent to Aux quatre coins de Paris to the address : audrey@quatre-coins.paris. The cancellation will be effective only when the Provider learns of it.
+Any cancellation of a third party provider’s service by the Client must be written and sent to Aux quatre coins de Paris to the address : [audrey@quatre-coins.paris](mailto:audrey@quatre-coins.paris). The cancellation will be effective only when the Provider learns of it.
 
 Aux quatre coins de Paris acts as an authorised representative for the Client. The price of such a cancelled service will be repaid only if the third party provider offers a reimbursement. This reimbursement may be partial according to the moment the cancellation occurs. In any case, Aux quatre coins de Paris commits to passing on the whole amount repaid to the Client.
 
