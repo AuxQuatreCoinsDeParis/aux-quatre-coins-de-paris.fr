@@ -5,12 +5,13 @@
   <link rel="dns-prefetch" href="//cdn.aux-quatre-coins-de-paris.fr" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge" />
 
-  <link rel="stylesheet" media="none" onload="if (media!='all') media='all';"      href="https://fonts.googleapis.com/css?family=Cabin+Sketch%3A%2C700%2C700italic%7CRoboto%3A300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic" />
+  <link rel="stylesheet" media="none" onload="if (media!='all') media='all';" href="https://fonts.googleapis.com/css?family=Cabin+Sketch%3A%2C700%2C700italic%7CRoboto%3A300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic" />
   <!-- <link rel="stylesheet" media="none" onload="if (media!='all') media='all';" href="https://fonts.googleapis.com/css?family=Cabin+Sketch%3A%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%7CRoboto%3A300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic" /> -->
-  <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.3.1/css/all.css" integrity="sha384-mzrmE5qonljUremFsqc01SB46JvROS7bZs3IO2EmfFsd15uHvIt+Y8vEf7N7fWAU" crossorigin="anonymous">
+  <!-- <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.3.1/css/all.css" integrity="sha384-mzrmE5qonljUremFsqc01SB46JvROS7bZs3IO2EmfFsd15uHvIt+Y8vEf7N7fWAU" crossorigin="anonymous"> -->
   {{- $cssReboot := resources.Get "/css/bootstrap-reboot.min.css" -}}
   {{- $cssMain := resources.Get "/css/main.css" -}}
-  {{ $style := slice $cssReboot $cssMain | resources.Concat "css/bundle.css" | minify }}
+  {{- $cssIcons := resources.Get "/css/fontawesome.css" -}}
+  {{ $style := slice $cssReboot $cssMain $cssIcons | resources.Concat "css/bundle.css" | minify }}
   <link rel="stylesheet" href="{{ $style.RelPermalink }}">
 
   <title>{{ if .IsHome -}}
