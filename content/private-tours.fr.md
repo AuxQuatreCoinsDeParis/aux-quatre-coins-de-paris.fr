@@ -36,7 +36,7 @@ Le Marais est un quartier historique de Paris, le plus fréquenté de la capital
   {{% /article %}}
   {{% article title="Le Paris de vos envies"
      image="/private-tours/french-letterbox-600x400.jpg"
-     image-title="Boite à lettres française" %}}
+     image-title="Boîte aux lettres française" %}}
 Envie d'une promenade particulière ? Dites-nous et nous ferons de notre mieux pour la réaliser !
 
 {{< button-light URL="/fr/nous-contacter/" >}}Nous contacter{{< /button-light >}}

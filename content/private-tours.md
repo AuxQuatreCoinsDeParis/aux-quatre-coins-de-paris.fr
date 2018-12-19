@@ -17,14 +17,14 @@ Besides our travel planning services, Aux quatre coins de Paris offers private w
      image-title="fromagerie sur le marché" %}}
 Through the visit of a food market, find out more about our local or regional products and specialties. Discover what lies in French plates! This tour ends with a picnic made of fresh products found on the market the same day.
 
-{{< button-sky URL="/fr/se-promener/en-france-mangeons-comme-les-francais/" />}}
+{{< button-sky URL="/private-tours/in-france-eat-as-the-french-do/" />}}
   {{% /article %}}
   {{% article title="Fashion shopping in Paris"
      image="/private-tours/trendy-clothes-shopping-paris.jpg"
      image-title="Shopping tendance à Paris" %}}
 Find out with us French brands for clothes, leather goods and shoes. We plan together an itinerary according to your wishes and your budget for this shopping session. Together we'll discover what makes the so special style of the parisian women!
 
-{{< button-sky URL="/fr/se-promener/shopping-mode-a-paris/" />}}
+{{< button-sky URL="/private-tours/fashion-shopping-in-paris/" />}}
   {{% /article %}}
   {{% article title="Aux quatre coins du Marais"
      image="/private-tours/hotel-herouet-le-marais-paris.jpg"
@@ -35,9 +35,9 @@ Le Marais is a historical area of Paris, the most visited of the city. Come and 
   {{% /article %}}
   {{% article title="Paris as you like it"
      image="/private-tours/french-letterbox.jpg"
-     image-title="Boite à lettres française" %}}
+     image-title="Boîte aux lettres française" %}}
 You wish something in particular? Tell us and we'll make our best to carry it out!
 
-{{< button-light URL="/fr/se-promener/aux-quatre-coins-du-marais/" >}}Nous contacter{{< /button-light >}}
-  {{% /article %}}
+{{< button-light URL="/contact/" >}}Contact us{{< /button-light >}}
+{{% /article %}}
 {{< /tiles-list >}}

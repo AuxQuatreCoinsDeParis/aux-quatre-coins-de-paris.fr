@@ -13,13 +13,13 @@ menu:
 
 ## Préambule
 
-Les présentes Conditions Générales de Service (CGS) s’appliquent sans restriction ni réserve à l’ensemble des prestations proposées par la SAS Aux quatre coins de Paris, inscrite au RCS de Paris sous le numéro 823.739.503, n° de TVA intracommunautaire : FR 58 823739503, dont le siège est situé au 4 rue de Corvisart, 75013 Paris (le Prestataire). Les prestations en question sont décrites sur le site www.aux-quatre-coins-de-paris.fr (le Site).
+Les présentes Conditions Générales de Service (CGS) s’appliquent sans restriction ni réserve à l’ensemble des prestations proposées par la SAS Aux quatre coins de Paris, inscrite au RCS de Paris sous le numéro 823.739.503, n° de TVA intracommunautaire : FR 58 823739503, dont le siège est situé au 4 rue de Corvisart, 75013 Paris (le Prestataire). Les prestations en question sont décrites sur le site [www.aux-quatre-coins-de-paris.fr](https://www.aux-quatre-coins-de-paris.fr/fr/) (le Site).
 
 Ces CGS s’appliquent à l’exclusion de toutes autres.
 
 ## I / Acceptation
 
-Les Prestations proposées par Aux quatre coins de Paris requièrent l’acceptation des présentes CGS. Toute commande réalisée via le site www.aux-quatre-coins-de-paris.fr ou par e-mail implique l’acceptation préalable et sans réserve par le Client des CGS dans leur intégralité. Une commande s’entend, soit du paiement de la (des) Prestation(s), soit de la demande expresse du Client au Prestataire de commencer la planification de son séjour.
+Les Prestations proposées par Aux quatre coins de Paris requièrent l’acceptation des présentes CGS. Toute commande réalisée via le site [www.aux-quatre-coins-de-paris.fr](https://www.aux-quatre-coins-de-paris.fr/fr/) ou par e-mail implique l’acceptation préalable et sans réserve par le Client des CGS dans leur intégralité. Une commande s’entend, soit du paiement de la (des) Prestation(s), soit de la demande expresse du Client au Prestataire de commencer la planification de son séjour.
 
 Un exemplaire des CGS en vigueur au moment de la commande est envoyé avec la facture à régler ainsi que par e-mail avec chaque confirmation de commande. Le Client pourra alors les enregistrer pour pouvoir y revenir ultérieurement.
 
@@ -88,7 +88,7 @@ D’après l’article L221-21-8 12° du Code de la consommation, il n’existe 
 
 **6.1. Concernant les prestations des prestataires tiers**
 
-Les prestataires recommandés par Aux quatre coins de Paris le sont pour leur professionnalisme et la qualité de leurs services. Si l’une de ses conditions venait à manquer, le Client est invité à en faire part à Aux quatre coins de Paris dans les plus brefs délais à l’adresse suivante : audrey@quatre-coins.paris ou par téléphone lors de son séjour à Paris.
+Les prestataires recommandés par Aux quatre coins de Paris le sont pour leur professionnalisme et la qualité de leurs services. Si l’une de ses conditions venait à manquer, le Client est invité à en faire part à Aux quatre coins de Paris dans les plus brefs délais à l’adresse suivante : [audrey@quatre-coins.paris](mailto:audrey@quatre-coins.paris) ou par téléphone lors de son séjour à Paris.
 
 En cas d’annulation ou d’indisponibilité d’un produit ou service d’un prestataire tiers, Aux quatre coins de Paris fera tout son possible pour proposer des solutions alternatives et des prestations de rechange. Au cas où la prestation de rechange serait plus courte ou d’une qualité inférieure à celle initialement prévue, le Client sera remboursé à la hauteur du coût de la partie du service qui n’aura pu être honorée.
 
@@ -104,7 +104,7 @@ Par ailleurs, la responsabilité du Prestataire ne saurait être engagée si l�
 
 **7.1. Concernant les prestations des prestataires tiers**
 
-Toute annulation d’une prestation d’un prestataire tiers de la part du Client doit faire l’objet d’une mention écrite à l’attention d’Aux quatre coins de Paris à l’adresse : audrey@quatre-coins.paris. L’annulation ne sera effective qu’au moment où le Prestataire en aura pris connaissance.
+Toute annulation d’une prestation d’un prestataire tiers de la part du Client doit faire l’objet d’une mention écrite à l’attention d’Aux quatre coins de Paris à l’adresse : [audrey@quatre-coins.paris](mailto:audrey@quatre-coins.paris). L’annulation ne sera effective qu’au moment où le Prestataire en aura pris connaissance.
 
 Aux quatre coins de Paris agissant en tant que mandataire pour le Client, l’annulation d’une prestation ouvre droit à remboursement uniquement si le prestataire dont la prestation a été annulée offre ce remboursement. Celui-ci peut être partiel selon la date à laquelle intervient l’annulation. Dans tous les cas, Aux quatre coins de Paris s’engage à transmettre la totalité de la somme remboursée au Client.
 
