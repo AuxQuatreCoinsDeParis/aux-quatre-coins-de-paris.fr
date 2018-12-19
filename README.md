@@ -3,7 +3,6 @@
 ## basic md format
 @see https://help.github.com/articles/basic-writing-and-formatting-syntax/
 
-
 ## shortcodes
 pieces of code to include in content files\
 `{{< my-shortcode >}}` for regular shortcodes\

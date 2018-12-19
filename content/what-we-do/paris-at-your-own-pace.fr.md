@@ -10,7 +10,7 @@ slug: "../ce-que-nous-faisons/paris-a-son-rythme"
 
 Supposons que vous êtes un couple de seniors et que vous souhaitez revoir Paris.
 
-Vous connaissez les musées et monuments les plus emblématiques et souhaiteriez donc plutôt sortir des sentiers battus. Aussi, vous n’êtes pas de grands marcheurs. Vous voulez bien faire un effort (après tout c’est Paris !) mais vous ne souhaitez pas passer vos journées debout et à marcher.
+Vous connaissez les musées et monuments les plus emblématiques et souhaitez donc plutôt sortir des sentiers battus. Aussi, vous n’êtes pas de grands marcheurs. Vous voulez bien faire un effort (après tout c’est Paris !) mais vous ne souhaitez pas passer vos journées debout et à marcher.
 
 Aux quatre coins de Paris est là pour vous.
 
@@ -20,7 +20,7 @@ alt="dôme de l'hôtel des Invalides" class="article-image-right" >}}
 
 ## Visites
 
-Aux quatre coins de Paris vous propose de visiter des musées et monuments un peu plus confidentiels tel que le musée Rodin, le musée Marmottan Monet (si vous n’avez pas déjà visité Orsay), l’hôtel des Invalides ou encore l’opéra Garnier. Il y aura toujours quelque chose à visiter à Paris !
+Aux quatre coins de Paris vous propose de visiter des musées et monuments un peu plus confidentiels tels que le musée Rodin, le musée Marmottan Monet (si vous n’avez pas déjà visité Orsay), l’hôtel des Invalides ou encore l’opéra Garnier. Il y aura toujours quelque chose à visiter à Paris !
 
 {{< reset-float >}}
 {{< figure src="/images/paris-at-your-own-pace/cheese-and-wine-in-paris-600x400.jpg"
@@ -46,9 +46,9 @@ alt="moyens de transport à Paris" class="article-image-left" >}}
 
 ## Transports
 
-Aux quatre coins de Paris organise pour vous vos transferts aéroport-hôtel-aéroport avec chauffeur privé, ainsi que vos déplacements en dehors de la capitale tel qu’une excursion vers Versailles si vous le souhaitez.
+Aux quatre coins de Paris organise pour vous vos transferts aéroport-hôtel-aéroport avec chauffeur privé, ainsi que vos déplacements en dehors de la capitale tels qu’une excursion vers Versailles si vous le souhaitez.
 
-Si vous souhaitez utiliser les transports en commun dans Paris, nous optimisons vos trajets en vous conseillant sur la localisation de votre hôtel et achetons pour vous vos tickets de transport.
+Dans la mesure où nous recommandons d'utiliser les transports en commun dans Paris, nous optimisons vos trajets en vous conseillant sur la localisation de votre hôtel et achetons pour vous à l'avance vos tickets de transport.
 
 **Et même s’il s’agit de votre première visite à Paris, nous avons un travel plan pour vous !**
 

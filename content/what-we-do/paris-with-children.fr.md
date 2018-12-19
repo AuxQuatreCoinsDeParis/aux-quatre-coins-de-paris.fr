@@ -8,7 +8,7 @@ slug: "../ce-que-nous-faisons/paris-en-famille"
 
 # Paris en famille
 
-Supposons que vous êtes une famille avec un enfant de 8 ans et un autre de 10 ans, et que vous souhaitiez que votre séjour soit ludique tout en étant pédagogique.
+Supposons que vous êtes une famille avec un enfant de 8 ans et un autre de 10 ans, et que vous souhaitez que votre séjour soit ludique tout en étant pédagogique.
 
 Si c’est votre première visite à Paris, vous ne pouvez pas manquer le top 5, c’est-à-dire le **Louvre,** la **tour Eiffel, Notre-Dame, Montmartre** et les **Champs Élysées,** mais il vous faut aussi sortir un peu des sentiers battus.
 
@@ -22,7 +22,7 @@ alt="Panthéon Paris" class="article-image-right" >}}
 
 Découvrez de grands musées tels que le Louvre ou Orsay sous la forme d’une chasse au trésor ! Très ludique, vos enfants se souviendront de ce qu’ils ont vu !
 
-Allez admirer la vue en haut des tours de Notre-Dame, de l’Arc de Triomphe ou encore en haut du Panthéon, les enfants adorent ! Profitez-en au Panthéon pour leur montrer le pendule de Foucault, preuve que la Terre tourne !
+Allez admirer la vue du haut des tours de Notre-Dame, de l’Arc de Triomphe ou encore du haut du Panthéon, les enfants adorent ! Profitez-en au Panthéon pour leur montrer le pendule de Foucault, preuve que la Terre tourne !
 
 {{< reset-float >}}
 {{< figure src="/images/paris-with-children/zoo-vincennes-paris-600x400.jpg"
@@ -30,7 +30,7 @@ alt="girafes du zoo de Vincennes" class="article-image-left" >}}
 
 ## Découverte
 
-Explorez de nouveaux horizons en allant au zoo de Vincennes ou en découvrant les Catacombes de Paris ! La Grande Galerie de l’évolution et les squelettes de dinosaures du musée d’histoire naturelle raviront également vos enfants !
+Explorez de nouveaux horizons en allant au zoo de Vincennes ou en découvrant les Catacombes de Paris ! La Grande Galerie de l’évolution et les squelettes de dinosaures du musée d’Histoire Naturelle raviront également vos enfants !
 
 Pour les gourmands, réservez une [visite du marché](https://aux-quatre-coins-de-paris.fr/fr/se-promener/en-france-mangeons-comme-les-francais/) suivie d’un pique-nique (si le temps le permet) avec Aux quatre coins de Paris. Ce sera l’occasion de parler de charcuterie, fromages et autres spécialités régionales !
 

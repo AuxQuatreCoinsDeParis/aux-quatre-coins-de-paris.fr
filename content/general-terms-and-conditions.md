@@ -13,13 +13,13 @@ menu:
 
 ## Introduction
 
-The present general terms and conditions apply without limitation or qualification to all services offered by the company Aux quatre coins de Paris, registered at the Trade Registry of Paris under the number 823.739.503, with its office seated at 4 rue de Corvisart, 75013 Paris (the Provider). The services are described on the website www.aux-quatre-coins-de-paris.fr (the Website).
+The present general terms and conditions apply without limitation or qualification to all services offered by the company Aux quatre coins de Paris, registered at the Trade Registry of Paris under the number 823.739.503, with its office seated at 4 rue de Corvisart, 75013 Paris (the Provider). The services are described on the website [www.aux-quatre-coins-de-paris.fr](https://www.aux-quatre-coins-de-paris.fr) (the Website).
 
 These terms and conditions exclude any other terms and conditions.
 
 ## I / Acceptance
 
-The services offered by Aux quatre coins de Paris require the acceptance of the present terms and conditions. Every order placed through the website www.aux-quatre-coins-de-paris.fr or by e-mail implies the prior acceptance without limitation or qualification of these terms and conditions by the Client. An order means either the payment of the Service(s) or the express request from the Client to the Provider to start the execution of the Service(s).
+The services offered by Aux quatre coins de Paris require the acceptance of the present terms and conditions. Every order placed through the website [www.aux-quatre-coins-de-paris.fr](https://www.aux-quatre-coins-de-paris.fr) or by e-mail implies the prior acceptance without limitation or qualification of these terms and conditions by the Client. An order means either the payment of the Service(s) or the express request from the Client to the Provider to start the execution of the Service(s).
 
 A copy of the applicable terms and conditions at the date of the order is sent with the invoice to be paid and by e-mail with every order confirmation. The Client can then record them to check on them later if needed.
 
@@ -40,7 +40,7 @@ The organisation of this stay includes :
 
 1. recommendations to choose the Client’s accomodation and activities in Paris, advice to move around the city (means of transport at the best rate), to choose restaurants, bars and any other places to go out along with places to shop for oneself or to buy souvenirs if needed.
 2. restaurants, bars, private drivers reservations and the purchases in advance of tickets for the suggested activities when possible. The purchases in advance of tickets are charged in addition to Aux quatre coins de Paris’ Services. They appear on the global invoice sent to the Client and must be paid to confirm all reservations. All prices are given to the Client prior to the drawing up of the invoice so that only the purchases agreed by the Client will appear on the invoice. The Provider can also purchase in advance public transport tickets for Paris and Paris region.
-3. a personal meeting with the Client at his arrival on his place of accomodation. During this meeting, a printed version of his bespoke travel plan will be given to the Client with a guidebook gathering all the necessary information to have a nice stay in Paris. Besides, the tickets for the various activities and/or transport purchased in advance for the Client will also be given during this meeting (if asked), along with a French SIM card. Moreover, the Client will get insider’s tips to live Paris like a local. The meeting ends with a walk in the neighbourhood to locate the closest metro station and bus stops as well as the closest mini-market (grocery store), ATM, bakery, pharmacy, and post office.
+3. a personal meeting with the Client at his arrival on his place of accomodation. During this meeting, a printed version of his bespoke travel plan will be given to the Client with a guidebook gathering all the necessary information to have a nice stay in Paris. Besides, the tickets for the various activities and/or transport purchased in advance for the Client will also be given during this meeting (if ordered), along with a French SIM card. Moreover, the Client will get insider’s tips to live Paris like a local. The meeting ends with a walk in the neighbourhood to locate the closest metro station and bus stops as well as the closest mini-market (grocery store), ATM, bakery, pharmacy, and post office.
 4. a phone assistance seven days a week during the Client’s stay in Paris. The Provider is reachable by phone or text messages, every day from 10 a.m. to 7 p.m. If the Provider doesn’t answer, the Client is invited to let a vocal message or to send a text message. The Provider will answer as soon as possible (within a maximum of two hours except in cases of force majeure or fortuitous event).
 
 The Service called « private tours » includes either the creation of a bespoke itinerary in Paris according to the Client’s wishes (bespoke walking tour « Paris as you like it »), or the adaptation of an itinerary predefined by the Provider (« In France, eat as the French do », « Fashion shopping in Paris », « Aux quatre coins du Marais » private walking tours). A tour lasts half a day (four hours), or more if the Client asks for extra hours (every extra-hour costs 30€ all taxes included). Besides, as the tours are all walking tours, they may include the use of public transport. Transport costs, food or drinks are not included in our private tours.
@@ -51,11 +51,11 @@ To place an order, the Client must first contact the Provider through the contac
 
 To create the Client’s bespoke travel plan, the Provider needs some information about the Client. The Client must give the needed information to the Provider, either by answering the form that will be sent to him by Aux quatre coins de Paris, or during an online meeting with the Provider (video conference via Skype).
 
-For this purpose, the Client accepts to give personal, complete and correct information to allow to identify him correctly in every situation, and to carry out the Service(s). The Client also accepts to keep his information up to date in case of changes. Any fanciful and/or contrary to public order and/or infringing any third party’s rights information is likely to cancel the Client’s order.
+For this purpose, the Client accepts to give personal, complete and correct information to identify him correctly in every situation, and to carry out the Service(s). The Client also accepts to keep his information up to date in case of changes. Any fanciful and/or contrary to public order and/or infringing any third party’s rights information is likely to cancel the Client’s order.
 
-The Provider then come back to the Client with a suggestion for his bespoke travel plan (activities and transports in Paris, restaurants and hotels) and the related fares to the activities and transports. Once the Client made his choice and agreed the related fares, the Provider sends him an invoice with the price of his Service(s), the potential extras and the prices of the various activities the Client wishes to purchase (except for accomodation). The payment is carried out on line (through Paypal). The payment for the plane tickets and the accomodation remains on the Client’s initiative. Besides, as soon as the Client knows his arrival and departure dates as well as his accomodation address, he agrees to give them to the Provider.
+The Provider then comes back to the Client with a suggestion for his bespoke travel plan (activities and transports in Paris, restaurants and hotels) and the related fares to the activities and transports. Once the Client made his choice and agreed the related fares, the Provider sends him an invoice with the price of his Service(s), the potential extras and the prices of the various activities the Client wishes to purchase (except for accomodation). The payment is carried out on line (through Paypal). The payment for the plane tickets and the accomodation remains on the Client’s initiative. Besides, as soon as the Client knows his arrival and departure dates as well as his accomodation address, he agrees to give them to the Provider.
 
-The Order will be considered as definitive only when the whole payment is received that is, Aux quatre coins de Paris Service(s) and all the activities in Paris will be confirmed only when the whole payment is received. The activities are charged as disbursements.
+The Order will be considered as definitive only when the whole payment is received that is, Aux quatre coins de Paris' Service(s) and all the activities in Paris will be confirmed only when the whole payment is received. The activities are charged as disbursements.
 
 The Provider is only acting as an intermediary between the Client and third party providers. The Provider will only answer to requests that are legal in France.
 
@@ -88,9 +88,9 @@ According to the article L221-21-8 12° of the French Consumer Code, there is no
 
 **6.1. Concerning third party providers’services**
 
-The providers recommended by Aux quatre coins de Paris are selected for their professionalism and the quality of their services. If one of these conditions is missing, the Client is invited to tell Aux quatre coins de Paris as soon as possible by e-mail to the following address : audrey@quatre-coins.paris or by phone during his stay in Paris.
+The providers recommended by Aux quatre coins de Paris are selected for their professionalism and the quality of their services. If one of these conditions is missing, the Client is invited to tell Aux quatre coins de Paris as soon as possible by e-mail to the following address : [audrey@quatre-coins.paris](mailto:audrey@quatre-coins.paris) or by phone during his stay in Paris.
 
-If a third party provider’s service or product is not available or cancelled, Aux quatre coins de Paris will make his best efforts to find alternative services and solutions. If the alternative service happens to be sorter in time or lower in quality than the one initially booked, the Client will be repaid the price difference.
+If a third party provider’s service or product is not available or cancelled, Aux quatre coins de Paris will make his best efforts to find alternative services and solutions. If the alternative service happens to be shorter in time or lower in quality than the one initially booked, the Client will be repaid the price difference.
 
 If one of the third party providers does not fulfil his service, for whatever reason, the Client will be repaid the price of the service. Aux quatre coins de Paris then reserves the right to turn against the defaulting provider to ask for reimbursement.
 
@@ -102,9 +102,9 @@ Besides, the liability of the Provider cannot be engaged if the non-fulfiment or
 
 ## VII / Cancellation
 
-**7.1. Concerning third party providers’services**
+**7.1. Concerning third party providers’ services**
 
-Any cancellation of a third party provider’s service by the Client must be written and sent to Aux quatre coins de Paris to the address : audrey@quatre-coins.paris. The cancellation will be effective only when the Provider learns of it.
+Any cancellation of a third party provider’s service by the Client must be written and sent to Aux quatre coins de Paris to the address : [audrey@quatre-coins.paris](mailto:audrey@quatre-coins.paris). The cancellation will be effective only when the Provider learns of it.
 
 Aux quatre coins de Paris acts as an authorised representative for the Client. The price of such a cancelled service will be repaid only if the third party provider offers a reimbursement. This reimbursement may be partial according to the moment the cancellation occurs. In any case, Aux quatre coins de Paris commits to passing on the whole amount repaid to the Client.
 
@@ -128,7 +128,7 @@ Nevertheless, it is possible to disable these Google Analytics cookies. In order
 
 ## IX / Intellectual property
 
-All elements published on this Website, including sounds, images, photographs, videos, texts, animations, programs, visual identity, database applications, softwares and other underlying technologies, are protected by the French Intellectual Property Code. They belong to the Provider. Without the Provider’s express prior written consent, any logo, graphic element, text, sound, image or video from the Website cannot be distributed, sold, sublicenced, reproduced, pulished, displayed, performed, prepared as derivative works or used in any way.
+All elements published on this Website, including sounds, images, photographs, videos, texts, animations, programs, visual identity, database applications, softwares and other underlying technologies, are protected by the French Intellectual Property Code. They belong to the Provider. Without the Provider’s express prior written consent, any logo, graphic element, text, sound, image or video from the Website cannot be distributed, sold, sublicenced, reproduced, published, displayed, performed, prepared as derivative works or used in any way.
 
 The brand Aux quatre coins de Paris is registered as a trademark. Aux quatre coins de Paris shall own and retain all rights, title and interests in its trade names, logos, trademarks, Internet domain names, copyrights, patents, trade secrets, know-how and proprietary technology, currently used or to be used in the future. Consequently, any integral or partial use, in any form of portrayal, modification or reproduction which may be made without the consent of the Provider, is illegal.
 
