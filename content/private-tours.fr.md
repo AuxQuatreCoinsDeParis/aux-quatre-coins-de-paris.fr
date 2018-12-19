@@ -30,7 +30,7 @@ Venez découvrir avec nous les marques françaises de vêtements, maroquinerie e
   {{% article title="Aux quatre coins du Marais"
      image="/private-tours/hotel-herouet-le-marais-paris-600x400.jpg"
      image-title="Hotel Herouet, le marais, Paris" %}}
-Le Marais est un quartier historique de Paris, le plus fréquenté de la capitale. Venez découvrir les trésors patrimoniaux qu'il abrite et l'ambiance qu'il dégage. Déambulons au rythme d'anecdotes historiques et de ses nombreuses boutiques atypiques !
+Le Marais est un quartier historique de Paris, le plus fréquenté de la capitale. Venez découvrir les trésors patrimoniaux qu'il abrite et l'ambiance qu'il dégage. Déambulons au rythme de son histoire et de ses nombreuses boutiques atypiques !
 
 {{< button-sky URL="/fr/se-promener/aux-quatre-coins-du-marais/" />}}
   {{% /article %}}
