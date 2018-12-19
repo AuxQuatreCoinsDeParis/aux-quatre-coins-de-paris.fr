@@ -39,7 +39,7 @@ create big blue text with Cabin Sketch font\
 ```
 **{{< list-icon >}}**: mandatory, must surround the `list-icon-item` blocs
 **{{< list-icon-item icon="comments">}}content{{< /list-icon-item >}}**: bloc with icon and content
-* **icon="{name of icon}"**: Icon placed over the text. @See the [fontawesome doc](https://fontawesome.com/icons?d=gallery&s=solid&m=free) to change it
+* **icon="{name of icon}"**: Icon placed over the text. @See the [fontawesome doc](https://fontawesome.com/icons?d=gallery&s=solid&m=free) to change it (only solid and brand free icons)
 * **content**: text under the icon
 
 ### image buttons
