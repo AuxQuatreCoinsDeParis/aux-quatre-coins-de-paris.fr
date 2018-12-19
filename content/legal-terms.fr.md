@@ -10,7 +10,7 @@ menu:
 
 # Mentions légales
 
-Le site web [www.aux-quatre-coins-de-paris.fr](https://www.aux-quatre-coins-de-paris.fr) est édité par la société Aux quatre coins de Paris, SAS au capital de 1 500 €, dont le siège est sis, 4 rue Corvisart, 75013 Paris, immatriculée au registre du commerce et des sociétés de Paris sous le numéro 823 739 503.
+Le site web [www.aux-quatre-coins-de-paris.fr](https://www.aux-quatre-coins-de-paris.fr/fr/) est édité par la société Aux quatre coins de Paris, SAS au capital de 1 500 €, dont le siège est sis, 4 rue Corvisart, 75013 Paris, immatriculée au registre du commerce et des sociétés de Paris sous le numéro 823 739 503.
 
 Mail : [contact@quatre-coins.paris](mailto:contact@quatre-coins.paris)
 
