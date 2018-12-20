@@ -47,7 +47,7 @@ alt="transports in Paris" class="article-image-left" >}}
 
 *Aux quatre coins de Paris* can plan for you your airport-hotel-airport transfers with a private driver, and all your transfers outside Paris such as an excursion to Versailles if you wish.
 
-If you wish to use parisian public transports, we optimise your journeys by helping you to choose a hotel with a good location and we buy in advance public transports tickets for you.
+As far as we recommend to use public transports in Paris, we optimise your journeys by helping you to choose a hotel with a good location and we buy in advance public transports tickets for you.
 
 
 **And even if it would be your first visit in Paris, we have a travel plan for you!**

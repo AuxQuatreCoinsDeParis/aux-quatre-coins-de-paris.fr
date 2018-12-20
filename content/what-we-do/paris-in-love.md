@@ -18,9 +18,9 @@ alt="painters place du Tertre Montmartre" class="article-image-right" >}}
 
 ## Montmartre
 
-We suggest you for example to take a delicious breakfast in a small café that cultivates the art of good living (and eating well) from good old days before you start your visit of the Montmartre hill.
+Before you start your visit of the Montmartre hill, we suggest you for example to take a delicious breakfast in an adorable place: a small café that cultivates the art of good living (and eating well) from good old days.
 
-For this visit, you will find with your travel plan an itinerary in the neighbourhood and the corresponding maps and instructions to discover this area without missing any point of interest of this so particular place! Besides, we indicate you where to buy quality souvenirs to bring back home!
+For this visit, you will find with your travel plan an itinerary in the neighbourhood with the corresponding maps and comments to discover this area without missing any point of interest of this so particular place! Besides, we indicate you where to buy quality souvenirs to bring back home!
 
 {{< reset-float >}}
 {{< figure src="/images/paris-in-love/louvre-pyramide-paris-600x400.jpg"
