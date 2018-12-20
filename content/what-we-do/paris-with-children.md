@@ -9,9 +9,9 @@ bottomButtons: true
 
 Let’s assume for example you are a family with 8-year-old and 10-year-old children, and you wish your stay is playful and educational at the same time.
 
-If it is your first visit of Paris, you cannot miss the « top 5 », that is the Louvre museum, the Eiffel tower, Notre-Dame cathedral, Montmartre neighbourhood and the Champs Élysées, but you need to get off the beaten tracks a bit.
+If it is your first visit of Paris, you cannot miss the « top 5 », that is the **Louvre museum,** the **Eiffel tower, Notre-Dame cathedral, Montmartre neighbourhood** and the **Champs Élysées,** but you need to get off the beaten tracks a bit.
 
-How Aux quatre coins de Paris can help you?
+How *Aux quatre coins de Paris* can help you?
 
 {{< reset-float >}}
 {{< figure src="/images/paris-with-children/pantheon-paris-600x400.jpg"
@@ -31,7 +31,7 @@ alt="giraffes of the Vincennes zoo" class="article-image-left" >}}
 
 Explore new horizons going to the zoo of Vincennes or discovering the Catacombs of Paris! The Great Gallery of Evolution and dinosaurs’ skeletons of the Natural History Museum will also delight your children!
 
-For food lovers, book a [food market tour](https://aux-quatre-coins-de-paris.fr/private-tours/in-france-eat-as-the-french-do/) followed by a picnic (weather permitting) with Aux quatre coins de Paris. It will be the opportunity to talk about French bakery and butchery specialties, cheeses and many other regional products!
+For food lovers, book a [food market tour](https://aux-quatre-coins-de-paris.fr/private-tours/in-france-eat-as-the-french-do/) followed by a picnic (weather permitting) with *Aux quatre coins de Paris.* It will be the opportunity to talk about French bakery and butchery specialties, cheeses and many other regional products!
 
 {{< reset-float >}}
 {{< figure src="/images/paris-with-children/parc-asterix-600x400.jpg"
@@ -43,7 +43,7 @@ Willing to make your children happy? Take them to Disneyland! A garanteed good t
 
 You wish to try something more unusual? Discover the Gallic hero that every French child grew up with: Astérix! His theme park is also located near Paris.
 
-Whichever option you choose (either park or both), Aux quatre coins de Paris books for you your entry tickets and your transport in advance.
+Whichever option you choose (either park or both), *Aux quatre coins de Paris* books for you your entry tickets and your transport in advance.
 
 
 **And we have so many other ideas for you!**

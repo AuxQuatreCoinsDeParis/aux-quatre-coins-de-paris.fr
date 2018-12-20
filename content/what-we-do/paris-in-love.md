@@ -10,7 +10,7 @@ Let’s assume for example you are a couple in love and it would be the first ti
 
 For a first visit of Paris, you cannot miss the « top 5 » that is the **Louvre,** the **Eiffel tower, Notre-Dame cathedral, Montmartre neighbourhood** and the **Champs Élysées.**
 
-What are the assets of Aux quatre coins de Paris?
+What are the assets of *Aux quatre coins de Paris?*
 
 {{< reset-float >}}
 {{< figure src="/images/paris-in-love/painters-in-montmartre-600x400.jpg"
@@ -28,7 +28,7 @@ alt="Louvre pyramid Paris" class="article-image-left" >}}
 
 ## Louvre
 
-First of all, with Aux quatre coins de Paris, your tickets are bought in advance. You only have to arrive at the dedicated entrance at the indicated time. Skip the lines!
+First of all, with *Aux quatre coins de Paris,* your tickets are bought in advance. You only have to arrive at the dedicated entrance at the indicated time. Skip the lines!
 
 For this visit, you will find with your travel plan an itinerary of approximately 2 hours in the museum with some comments on the major works of art. Do not miss the essential without staying hours in the museum!
 
@@ -40,9 +40,9 @@ alt="glass of champagne in Paris" class="article-image-right" >}}
 
 ## Romantic Paris
 
-Aux quatre coins de Paris suggests you to visit the third floor of the Eiffel tower and to take a cup at the champagne bar while enjoying the view. Looking for more thrill? Try the glass floor on the first floor of the tower!
+*Aux quatre coins de Paris* suggests you to visit the third floor of the Eiffel tower and to take a cup at the champagne bar while enjoying the view. Looking for more thrill? Try the glass floor on the first floor of the tower!
 
-Wa can also organise a romantic ride for you or book a fine table, a dinner cruse or even a night at the Lido or the Moulin Rouge! Just ask and we will organise your perfect night in Paris.
+We can also organise a romantic ride for you or book a fine table, a dinner cruse or even a night at the Lido or the Moulin Rouge! Just ask and we will organise your perfect night in Paris.
 
 
 **And we have plenty other assets for you to make the most of Paris! We assure you: we take care of everything!**
