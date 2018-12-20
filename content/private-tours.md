@@ -9,20 +9,20 @@ menu:
 ---
 
 # Private walking tours
-Besides our travel planning services, Aux quatre coins de Paris offers private walking tours to know more about the French art de vivre, and to enjoy it of course!
+Besides our travel planning services, *Aux quatre coins de Paris* offers private walking tours to know more about the French art de vivre, and enjoy it of course!
 
 {{< tiles-list >}}
   {{% article title="In France, eat as the French do!"
      image="/private-tours/cheesemonger-auguste-blanqui-market.jpg"
      image-title="fromagerie sur le marché" %}}
-Through the visit of a food market, find out more about our local or regional products and specialties. Discover what lies in French plates! This tour ends with a picnic made of fresh products found on the market the same day.
+Through the visit of a food market, find out more about our local or regional products and specialties. Discover what lies in French plates! This tour ends with a picnic made of fresh products found on the market the same day (weather permitting).
 
 {{< button-sky URL="/private-tours/in-france-eat-as-the-french-do/" />}}
   {{% /article %}}
   {{% article title="Fashion shopping in Paris"
      image="/private-tours/trendy-clothes-shopping-paris.jpg"
      image-title="Shopping tendance à Paris" %}}
-Find out with us French brands for clothes, leather goods and shoes. We plan together an itinerary according to your wishes and your budget for this shopping session. Together we'll discover what makes the so special style of the parisian women!
+Find out with us French brands for clothes, leather goods and shoes. We plan together an itinerary according to your wishes and your budget for this shopping session. Together we will discover what makes the so special style of the parisian women!
 
 {{< button-sky URL="/private-tours/fashion-shopping-in-paris/" />}}
   {{% /article %}}
@@ -36,7 +36,7 @@ Le Marais is a historical area of Paris, the most visited of the city. Come and 
   {{% article title="Paris as you like it"
      image="/private-tours/french-letterbox.jpg"
      image-title="Boîte aux lettres française" %}}
-You wish something in particular? Tell us and we'll make our best to carry it out!
+You wish something in particular? Tell us and we will make our best to carry it out!
 
 {{< button-light URL="/contact/" >}}Contact us{{< /button-light >}}
 {{% /article %}}
