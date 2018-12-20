@@ -29,7 +29,7 @@ alt="giraffes of the Vincennes zoo" class="article-image-left" >}}
 
 ## Discovery
 
-Explore new horizons going to the zoo of Vincennes or discovering the Catacombs of Paris! The Great Gallery of Evolution and dinosaurs’ skeletons of the Natural History Museum will also delight your children!
+Explore new horizons at the zoo of Vincennes or discovering the Catacombs of Paris! The Great Gallery of Evolution and dinosaurs’ skeletons of the Natural History Museum will also delight your children!
 
 For food lovers, book a [food market tour](https://aux-quatre-coins-de-paris.fr/private-tours/in-france-eat-as-the-french-do/) followed by a picnic (weather permitting) with *Aux quatre coins de Paris.* It will be the opportunity to talk about French bakery and butchery specialties, cheeses and many other regional products!
 

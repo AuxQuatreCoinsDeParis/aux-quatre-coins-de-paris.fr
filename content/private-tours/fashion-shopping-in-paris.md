@@ -7,7 +7,7 @@ draft: false
 
 # Fashion shopping in Paris
 
-Find out with us French brands for clothes, leather goods and shoes. Together we’ll discover what makes the so special style of the parisian women!
+Find out with us French brands for clothes, leather goods and shoes. Together we will discover what makes the so special style of the parisian women!
 
 {{< figure src="/images/private-tours/trendy-parisian-outfits-912x1024@2x.jpg" alt="Marché Auguste Blanqui" class="article-image-right" >}}
 {{< figure src="/images/private-tours/trendy-parisian-clothes-1014x1024@2x.jpg" alt="Marché Auguste Blanqui" class="article-image-right" >}}
@@ -29,4 +29,4 @@ This price doesn’t include transport costs, food or drinks, nor the purchases 
 
 A similar tour for men will be soon available! If you have any question, please contact us.
 
-**The asset of Aux quatre coins de Paris:** Aux quatre coins de Paris advices you throughout this shopping session for you to choose items that suit your morphology and make you appear at your best! If a special occasion is looming among your family and friends, we can help you find the perfect outfit! No clear idea for this tour? Aux quatre coins de Paris has suggestions for you!
+**The asset of *Aux quatre coins de Paris:*** *Aux quatre coins de Paris* advices you throughout this shopping session for you to choose items that suit your morphology and make you appear at your best! If a special occasion is looming among your family and friends, we can help you find the perfect outfit! No clear idea for this tour? Aux quatre coins de Paris has suggestions for you!
