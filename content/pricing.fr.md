@@ -66,4 +66,6 @@ Pour toutes questions, n’hésitez pas à nous contacter : [contact@quatre-coin
 4. Vous n’avez plus qu’à **profiter !**
 {{% /blue-background %}}
 
+{{< center >}}
 {{< button-light URL="/fr/nous-contacter/" >}}Vérifier les disponibilités{{< /button-light >}}
+{{< /center >}}

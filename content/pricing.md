@@ -65,4 +65,6 @@ For any questions, please contact us at [contact@quatre-coins.paris](mailto:cont
 4. **Enjoy!**
 {{% /blue-background %}}
 
+{{< center >}}
 {{< button-light URL="/contact/" >}}Check availability{{< /button-light >}}
+{{< /center >}}
