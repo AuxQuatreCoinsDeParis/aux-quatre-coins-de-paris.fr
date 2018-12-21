@@ -72,6 +72,14 @@ Text area with blue background
 {{< blue-background >}} Text {{< /blue-background >}}
 ```
 
+## Align content
+You can center content with this shortcode
+```
+{{< center >}}
+  blabla
+{{< /center >}}
+```
+
 ## front matter
 These are the parameters set on top of each content file
 
