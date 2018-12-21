@@ -64,3 +64,7 @@ For any questions, please contact us at [contact@quatre-coins.paris](mailto:cont
 3. **Once you validate the suggested planning** and possible extra activities, you will receive an **invoice.** You will have to pay it via Paypal **to confirm all reservations.**
 4. **Enjoy!**
 {{% /blue-background %}}
+
+{{< center >}}
+{{< button-light URL="/contact/" >}}Check availability{{< /button-light >}}
+{{< /center >}}
