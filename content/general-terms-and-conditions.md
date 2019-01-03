@@ -13,13 +13,13 @@ menu:
 
 ## Introduction
 
-The present general terms and conditions apply without limitation or qualification to all services offered by the company Aux quatre coins de Paris, registered at the Trade Registry of Paris under the number 823.739.503, with its office seated at 4 rue de Corvisart, 75013 Paris (the Provider). The services are described on the website [www.aux-quatre-coins-de-paris.fr](https://www.aux-quatre-coins-de-paris.fr) (the Website).
+The present general terms and conditions apply without limitation or qualification to all services offered by the company Aux quatre coins de Paris, registered at the Trade Registry of Paris under the number 823.739.503, with its office seated at 4 rue de Corvisart, 75013 Paris (the Provider). The services are described on the website [aux-quatre-coins-de-paris.fr](https://www.aux-quatre-coins-de-paris.fr) (the Website).
 
 These terms and conditions exclude any other terms and conditions.
 
 ## I / Acceptance
 
-The services offered by Aux quatre coins de Paris require the acceptance of the present terms and conditions. Every order placed through the website [www.aux-quatre-coins-de-paris.fr](https://www.aux-quatre-coins-de-paris.fr) or by e-mail implies the prior acceptance without limitation or qualification of these terms and conditions by the Client. An order means either the payment of the Service(s) or the express request from the Client to the Provider to start the execution of the Service(s).
+The services offered by Aux quatre coins de Paris require the acceptance of the present terms and conditions. Every order placed through the website [aux-quatre-coins-de-paris.fr](https://www.aux-quatre-coins-de-paris.fr) or by e-mail implies the prior acceptance without limitation or qualification of these terms and conditions by the Client. An order means either the payment of the Service(s) or the express request from the Client to the Provider to start the execution of the Service(s).
 
 A copy of the applicable terms and conditions at the date of the order is sent with the invoice to be paid and by e-mail with every order confirmation. The Client can then record them to check on them later if needed.
 

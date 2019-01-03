@@ -10,7 +10,7 @@ menu:
 
 # Legal terms
 
-The website [www.aux-quatre-coins-de-paris.fr](https://www.aux-quatre-coins-de-paris.fr) is edited by the company Aux quatre coins de Paris SAS, with a share capital of 1 500 €, whose head office is 4 rue Corvisart, 75013 Paris (France), and registered in the Paris Trade and Companies’ Register under the number 823 739 503.
+The website [aux-quatre-coins-de-paris.fr](https://www.aux-quatre-coins-de-paris.fr) is edited by the company Aux quatre coins de Paris SAS, with a share capital of 1 500 €, whose head office is 4 rue Corvisart, 75013 Paris (France), and registered in the Paris Trade and Companies’ Register under the number 823 739 503.
 
 Mail : [contact@quatre-coins.paris](mailto:contact@quatre-coins.paris)
 
