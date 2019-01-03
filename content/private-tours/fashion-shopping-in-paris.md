@@ -9,8 +9,8 @@ draft: false
 
 Find out with us French brands for clothes, leather goods and shoes. Together we will discover what makes the so special style of the parisian women!
 
-{{< figure src="/images/private-tours/trendy-parisian-outfits-912x1024@2x.jpg" alt="Marché Auguste Blanqui" class="article-image-right" >}}
-{{< figure src="/images/private-tours/trendy-parisian-clothes-1014x1024@2x.jpg" alt="Marché Auguste Blanqui" class="article-image-right" >}}
+{{< figure src="/images/private-tours/trendy-parisian-outfits-912x1024@2x.jpg" alt="trendy parisian outfits" class="article-image-right" >}}
+{{< figure src="/images/private-tours/trendy-parisian-clothes-1014x1024@2x.jpg" alt="trendy parisian clothes" class="article-image-right" >}}
 
 We plan together an itinerary according to your wishes (outfits, shoes, bags, accessories, lingerie) and your budget for this shopping session.
 

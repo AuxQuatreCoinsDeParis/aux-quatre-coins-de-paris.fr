@@ -10,7 +10,7 @@ bottomButtons: true
 Through the visit of a food market, find out more about our local or regional products and specialties. Discover what lies in French plates!
 
 {{< youtube id="LF71s0Jfvg8" autoplay="false" class="article-video" >}}
-{{< figure src="/images/private-tours/main-alley-auguste-blanqui-market-900x600.jpg" alt="Marché Auguste Blanqui" class="article-image-right" >}}
+{{< figure src="/images/private-tours/main-alley-auguste-blanqui-market-900x600.jpg" alt="Paris food market" class="article-image-right" >}}
 
 During the visit of the market, you will learn more about fruits and vegetables seasons, our cheeses, our bakery and butchery specialities. This will also be the moment to give in to your love of good food and to buy some products!
 

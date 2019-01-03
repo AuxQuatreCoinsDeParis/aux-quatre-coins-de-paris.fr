@@ -14,7 +14,7 @@ What are the assets of *Aux quatre coins de Paris?*
 
 {{< reset-float >}}
 {{< figure src="/images/paris-in-love/painters-in-montmartre-600x400.jpg"
-alt="painters place du Tertre Montmartre" class="article-image-right" >}}
+alt="painters in Montmartre" class="article-image-right" >}}
 
 ## Montmartre
 

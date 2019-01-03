@@ -15,7 +15,7 @@ En plus de ses services de travel planner, Aux quatre coins de Paris vous propos
 {{< tiles-list >}}
   {{% article title="Mangeons comme les Français !"
      image="/private-tours/cheesemonger-auguste-blanqui-market-600x400.jpg"
-     image-title="fromagerie sur le marché" %}}
+     image-title="fromagerie marché Blanqui" %}}
 À travers la visite d'un marché alimentaire, venez découvrir nos produits locaux ou régionaux et de saison. Découvrez ce qui se trouve dans les assiettes des français ! Cette visite s'achève par un pique-nique composé des produits frais trouvés sur le marché le jour même.
 
 {{< button-sky URL="/fr/se-promener/en-france-mangeons-comme-les-francais/" />}}
