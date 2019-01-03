@@ -13,13 +13,13 @@ menu:
 
 ## Préambule
 
-Les présentes Conditions Générales de Service (CGS) s’appliquent sans restriction ni réserve à l’ensemble des prestations proposées par la SAS Aux quatre coins de Paris, inscrite au RCS de Paris sous le numéro 823.739.503, n° de TVA intracommunautaire : FR 58 823739503, dont le siège est situé au 4 rue de Corvisart, 75013 Paris (le Prestataire). Les prestations en question sont décrites sur le site [www.aux-quatre-coins-de-paris.fr](https://www.aux-quatre-coins-de-paris.fr/fr/) (le Site).
+Les présentes Conditions Générales de Service (CGS) s’appliquent sans restriction ni réserve à l’ensemble des prestations proposées par la SAS Aux quatre coins de Paris, inscrite au RCS de Paris sous le numéro 823.739.503, n° de TVA intracommunautaire : FR 58 823739503, dont le siège est situé au 4 rue de Corvisart, 75013 Paris (le Prestataire). Les prestations en question sont décrites sur le site [aux-quatre-coins-de-paris.fr](https://www.aux-quatre-coins-de-paris.fr/fr/) (le Site).
 
 Ces CGS s’appliquent à l’exclusion de toutes autres.
 
 ## I / Acceptation
 
-Les Prestations proposées par Aux quatre coins de Paris requièrent l’acceptation des présentes CGS. Toute commande réalisée via le site [www.aux-quatre-coins-de-paris.fr](https://www.aux-quatre-coins-de-paris.fr/fr/) ou par e-mail implique l’acceptation préalable et sans réserve par le Client des CGS dans leur intégralité. Une commande s’entend, soit du paiement de la (des) Prestation(s), soit de la demande expresse du Client au Prestataire de commencer la planification de son séjour.
+Les Prestations proposées par Aux quatre coins de Paris requièrent l’acceptation des présentes CGS. Toute commande réalisée via le site [aux-quatre-coins-de-paris.fr](https://www.aux-quatre-coins-de-paris.fr/fr/) ou par e-mail implique l’acceptation préalable et sans réserve par le Client des CGS dans leur intégralité. Une commande s’entend, soit du paiement de la (des) Prestation(s), soit de la demande expresse du Client au Prestataire de commencer la planification de son séjour.
 
 Un exemplaire des CGS en vigueur au moment de la commande est envoyé avec la facture à régler ainsi que par e-mail avec chaque confirmation de commande. Le Client pourra alors les enregistrer pour pouvoir y revenir ultérieurement.
 

@@ -42,7 +42,7 @@ Agrémentez vos soirées avec Aux quatre coins de Paris ! Nous pouvons vous rés
 
 {{< reset-float >}}
 {{< figure src="/images/paris-at-your-own-pace/abbesses-metro-station-paris-600x400.jpg"
-alt="moyens de transport à Paris" class="article-image-left" >}}
+alt="station de métro Abbesses" class="article-image-left" >}}
 
 ## Transports
 

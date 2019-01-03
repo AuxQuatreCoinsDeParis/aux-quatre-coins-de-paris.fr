@@ -41,7 +41,7 @@ Liven up your evenings with *Aux quatre coins de Paris!* We can book for you a r
 
 {{< reset-float >}}
 {{< figure src="/images/paris-at-your-own-pace/abbesses-metro-station-paris-600x400.jpg"
-alt="transports in Paris" class="article-image-left" >}}
+alt="public transports in Paris" class="article-image-left" >}}
 
 ## Transports
 
