@@ -19,7 +19,7 @@ Si la météo le permet, cette visite s’achève par un pique-nique composé de
 
 Cette visite se déroule **exclusivement les samedis ou les dimanches matins**.
 
-* Durée de la visite : environ 4h
+* Durée de la visite : environ 3h
 * 6 personnes maximum
 * Tarif : 180€
 

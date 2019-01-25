@@ -18,7 +18,7 @@ If the weather allows us to do so, this visit ends with a picnic made of the pro
 
 This tour takes place **exclusively on Saturday or Sunday mornings.**
 
-* Duration of the tour : approximately 4h
+* Duration of the tour : about 3h
 * 6 persons maximum
 * Price : 180€
 
