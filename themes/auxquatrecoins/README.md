@@ -16,13 +16,13 @@ create big blue text with Cabin Sketch font\
 
 ## yellow button
 ```
-{{< button-light URL="/fr/se-promener/" />}}
+{{< button-light URL="/fr/nos-promenades-privees/" />}}
 ```
 **URL="{URL}"**: replace {URL} by the link to the target page
 
 ## blue button
 ```
-{{< button-sky URL="/fr/se-promener/" />}}
+{{< button-sky URL="/fr/nos-promenades-privees/" />}}
 ```
 **URL="{URL}"**: @see yellow button
 

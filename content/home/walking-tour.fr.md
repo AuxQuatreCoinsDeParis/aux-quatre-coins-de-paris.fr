@@ -12,4 +12,4 @@ sitemap_exclude: true
 ## Promenades privées
 Pour compléter votre expérience parisienne, Aux quatre coins de Paris propose également des promenades privées afin d’en apprendre un peu plus sur l’art de vivre à la française !
 
-{{< button-light URL="/fr/se-promener/" />}}
+{{< button-light URL="/fr/nos-promenades-privees/" />}}
