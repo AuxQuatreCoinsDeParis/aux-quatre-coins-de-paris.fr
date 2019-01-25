@@ -26,15 +26,13 @@ Find out with us French brands for clothes, leather goods and shoes. We plan tog
 
 {{< button-sky URL="/private-tours/fashion-shopping-in-paris/" />}}
   {{% /article %}}
-<!--
   {{% article title="Aux quatre coins du Marais"
      image="/private-tours/hotel-herouet-le-marais-paris.jpg"
      image-title="walking tour le Marais Paris" %}}
 Le Marais is a historical area of Paris, the most visited of the city. Come and discover the cultural heritage it holds and the atmosphere around. Let's have a walk together to discover the history of this area of Paris and the numerous original shops there!
 
-{{< button-sky URL="/fr/nos-promenades-privees/aux-quatre-coins-du-marais/" />}}
+<!-- {{< button-sky URL="/fr/nos-promenades-privees/aux-quatre-coins-du-marais/" />}} -->
   {{% /article %}}
--->
   {{% article title="Paris as you like it"
      image="/private-tours/french-letterbox.jpg"
      image-title="French letterbox" %}}
