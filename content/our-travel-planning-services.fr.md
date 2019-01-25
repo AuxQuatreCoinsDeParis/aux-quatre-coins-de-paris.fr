@@ -1,15 +1,15 @@
 ---
-title: "Ce que nous faisons"
+title: "Nos services de planification de séjours"
 date: 2018-10-08T11:51:48+02:00
 draft: false
-slug: "ce-que-nous-faisons"
+slug: "nos-services-de-planification-de-sejours"
 menu:
   header:
     name: "Planifier"
     weight: 1
 ---
 
-# Ce que nous faisons
+# Nos services de planification de séjours
 Chaque voyageur est unique. Vous ne ressemblez à personne d’autre, pas vrai ? C’est pourquoi Aux quatre coins de Paris part de vous, de votre profil et de vos envies pour créer de toutes pièces votre séjour idéal à Paris. Que vous soyez par exemple un couple d’amoureux, une famille avec des enfants, de joyeux seniors ou une bande de copines, nous avons des suggestions pour vous !
 
 {{< tiles-list >}}
