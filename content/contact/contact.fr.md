@@ -1,7 +1,8 @@
 ---
 title: "Nous contacter"
 date: 2018-10-16T11:07:55+02:00
-draft: false
+sitemap:
+  priority: 0.6
 slug: "../nous-contacter"
 menu:
   header:

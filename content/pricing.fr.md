@@ -5,6 +5,8 @@ description: >
   clé en main pour profiter de Paris ! Vous pouvez ajouter une
   promenade privée pour découvrir la vie à Paris.
 date: 2018-10-17T18:11:20+02:00
+sitemap:
+  priority: 0.7
 slug: "tarifs"
 menu:
   header:

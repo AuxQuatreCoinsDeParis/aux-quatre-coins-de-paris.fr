@@ -5,6 +5,8 @@ description: >
   rythme et votre budget. Nous vous fournissons un planning avec les
   lieux et restaurants où aller, et comment vous déplacer dans Paris.
 date: 2018-10-08T11:51:48+02:00
+sitemap:
+  priority: 0.8
 slug: "nos-services-de-planification-de-sejours"
 menu:
   header:

@@ -5,6 +5,8 @@ description: >
   and your budget. We provide you with a plan with activities and
   restaurants to enjoy, and how to move in Paris.
 date: 2018-10-08T11:51:39+02:00
+sitemap:
+  priority: 0.8
 menu:
   header:
     name: "Plan Your Trip"

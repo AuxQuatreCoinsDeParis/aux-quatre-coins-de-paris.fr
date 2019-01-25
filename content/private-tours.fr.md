@@ -1,7 +1,8 @@
 ---
 title: "Nos promenades privées"
 date: 2018-10-10T18:04:37+02:00
-draft: false
+sitemap:
+  priority: 0.6
 slug: "nos-promenades-privees"
 menu:
   header:

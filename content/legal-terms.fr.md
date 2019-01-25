@@ -1,7 +1,9 @@
 ---
 title: "Mentions légales"
 date: 2018-10-19T15:19:52+02:00
-draft: false
+slug: "mentions-legales"
+sitemap:
+  priority: 0.0
 menu:
   footer:
     name: "Mentions légales"
