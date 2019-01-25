@@ -56,7 +56,7 @@ Prices only cover Aux quatre coins de Paris’ services. Additional services (pr
 Footnotes:
 
 1. <a id="footnote-1" name="footnote-1"/>For stays of more than 8 days in Paris, each additional day costs 30 €. Services are designed for small groups of maximum 6 people. For larger groups, an extra fee of 30 € is asked per person.
-2. <a id="footnote-2" name="footnote-2"/>For trips starting earlier than 2 months, the package cost is increased by 15%.
+2. <a id="footnote-2" name="footnote-2"/>For trips starting earlier than 2 months, the package cost is **increased by 15%**.
 
 For any questions, please contact us at [contact@quatre-coins.paris](mailto:contact@quatre-coins.paris). We will reply as soon as possible!
 

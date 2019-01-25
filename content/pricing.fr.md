@@ -57,7 +57,7 @@ Les tarifs indiqués concernent uniquement les prestations d’Aux quatre coins 
 Notes de bas de page:
 
 1. <a id="footnote-1" name="footnote-1"/>Pour un séjour d’une durée supérieure à 8 jours sur place, comptez un supplément de 30€ par jour planifié supplémentaire. Les prestations sont conçues pour de petits groupes de 6 personnes maximum. Il est toutefois possible d’élargir le groupe moyennant un supplément de 30€ par personne.
-2. <a id="footnote-2" name="footnote-2"/>Pour les voyages prévus dans moins de 2 mois, le prix des packages est majoré de 15%.
+2. <a id="footnote-2" name="footnote-2"/>Pour les voyages prévus dans moins de 2 mois, le prix des packages est **majoré de 15%**.
 
 Pour toutes questions, n’hésitez pas à nous contacter : [contact@quatre-coins.paris](mailto:contact@quatre-coins.paris). Nous vous répondrons dans les plus brefs délais !
 
