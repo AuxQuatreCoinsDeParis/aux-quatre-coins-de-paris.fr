@@ -14,7 +14,7 @@ menu:
 
 # Contact us
 
-* {{< icon name="envelope" >}} contact@quatre-coins.paris
-* {{< icon name="phone" >}} +33 7 87 33 31 18
+* {{< icon name="envelope" >}} [contact@quatre-coins.paris](mailto:contact@quatre-coins.paris)
+* {{< icon name="phone" >}} [+33 7 87 33 31 18](tel:0033787333118)
 * {{< icon name="facebook-f" type="brand" >}} [Facebook](https://www.facebook.com/aux4coinsdeParis/)
 * {{< icon name="instagram" type="brand" >}} [Instagram](https://www.instagram.com/auxquatrecoinsdeparis/)
