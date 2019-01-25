@@ -10,7 +10,7 @@ button: true
 buttonSlug: '/fr/ce-que-nous-faisons/'
 ---
 
-Aux quatre coins de Paris crée pour vous un **planning sur mesure** selon vos souhaits et attentes pour votre séjour à Paris. Nous vous suggérons itinéraires, activités et lieux où vous restaurer ou faire du shopping. Si vous le souhaitez, nous pouvons **réserver** restaurants et activités pour vous.
+Aux quatre coins de Paris crée pour vous un **planning sur mesure** selon vos souhaits et attentes pour votre séjour à Paris. Nous vous suggérons itinéraires, activités et lieux où vous restaurer ou faire du shopping. Nous pouvons également vous assister dans la réservation de votre hôtel si besoin. Si vous le souhaitez, nous pouvons **réserver** restaurants et activités pour vous.
 
 **Gagnez du temps sur les files d’attente sans passer un seul coup de fil !**
 

@@ -10,6 +10,6 @@ button: true
 buttonSlug: 'what-we-do/'
 ---
 
-*Aux quatre coins de Paris* creates for you a **bespoke travel plan** according to your wishes and expectations for your stay. We suggest you itineraries, activities and places to eat or to do shopping. If you wish, we can **book** restaurants and activities for you. **Skip the lines without making a single phone call!**
+*Aux quatre coins de Paris* creates for you a **bespoke travel plan** according to your wishes and expectations for your stay. We suggest you itineraries, activities and places to eat or to do shopping. We can also provide you hotel booking assistance if needed. If you wish, we can **book** restaurants and activities for you. **Skip the lines without making a single phone call!**
 
 *The activities booked besides are charged in addition to our services.*
