@@ -1,7 +1,10 @@
 ---
 title: "Nos tarifs"
+description: >
+  Avec nos services de planification à 300 €, vous avez un programme
+  clé en main pour profiter de Paris ! Vous pouvez ajouter une
+  promenade privée pour découvrir la vie à Paris.
 date: 2018-10-17T18:11:20+02:00
-draft: false
 slug: "tarifs"
 menu:
   header:

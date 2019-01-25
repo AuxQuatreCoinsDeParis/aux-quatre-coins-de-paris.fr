@@ -1,7 +1,10 @@
 ---
 title: "Accueil"
+description: >
+  Profitez d'un séjour à Paris conçu juste pour vous ! Discutons-en
+  ensemble et organisons ce séjour selon vos envies, votre budget et
+  votre temps à Paris.
 date: 2018-10-01T15:31:35+02:00
-draft: false
 ---
 
 {{< big-blue-text align="center" >}}Tous les tuyaux dont vous avez besoin de la part d'une vraie parisienne pour tirer le meilleur de votre séjour à&nbsp;Paris&nbsp;!{{< /big-blue-text >}}

@@ -1,7 +1,10 @@
 ---
 title: "Our Travel Planning Services"
+description: >
+  You tell us what you love, the time you have, the pace you prefer
+  and your budget. We provide you with a plan with activities and
+  restaurants to enjoy, and how to move in Paris.
 date: 2018-10-08T11:51:39+02:00
-draft: false
 menu:
   header:
     name: "Plan Your Trip"

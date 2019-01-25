@@ -1,8 +1,6 @@
 ---
 title: "About Us"
-description: "Aux quatre coins de Paris is a private travel planning company to design bespoke stays in Paris for his customers."
 date: 2018-10-18T17:30:25+02:00
-draft: false
 menu:
   footer:
     name: "About Us"

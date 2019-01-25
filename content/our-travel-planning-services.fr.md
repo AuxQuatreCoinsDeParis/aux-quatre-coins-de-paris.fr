@@ -1,7 +1,10 @@
 ---
 title: "Nos services de planification de séjours"
+description: >
+  Vous nous dites ce que vous aimez, le temps que vous avez, votre
+  rythme et votre budget. Nous vous fournissons un planning avec les
+  lieux et restaurants où aller, et comment vous déplacer dans Paris.
 date: 2018-10-08T11:51:48+02:00
-draft: false
 slug: "nos-services-de-planification-de-sejours"
 menu:
   header:
