@@ -3,7 +3,7 @@ title: "Paris en famille"
 date: 2018-10-31T14:20:39+02:00
 draft: false
 bottomButtons: true
-slug: "../ce-que-nous-faisons/paris-en-famille"
+slug: "../nos-services-de-planification-de-sejours/paris-en-famille"
 ---
 
 # Paris en famille

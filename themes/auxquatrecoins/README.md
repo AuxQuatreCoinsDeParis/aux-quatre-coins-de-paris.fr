@@ -44,10 +44,10 @@ There are two ways of using it : alone, it will occupy the width of the page, in
 ```
 {{< tiles-list >}}
   {{< image-button title="Paris en amoureux"
-      image="/what-we-do/Paris-in-love-1024x683.jpeg"
+      image="/our-travel-planning-services/Paris-in-love-1024x683.jpeg"
       link="#" >}}
   {{< image-button title="Paris en famille"
-      image="/what-we-do/Family-Paris-1024x683.jpeg"
+      image="/our-travel-planning-services/Family-Paris-1024x683.jpeg"
       link="#" >}}
 {{< /tiles-list >}}
 ```

@@ -7,7 +7,7 @@ image: "/images/home/localers-tips-paris-street-768x768.jpg"
 imageBig: "/images/home/localers-tips-paris-street-1024x1024.jpg"
 title: "Localer's tips & reservations"
 button: true
-buttonSlug: 'what-we-do/'
+buttonSlug: 'our-travel-planning-services/'
 ---
 
 *Aux quatre coins de Paris* creates for you a **bespoke travel plan** according to your wishes and expectations for your stay. We suggest you itineraries, activities and places to eat or to do shopping. We can also provide you hotel booking assistance if needed. If you wish, we can **book** restaurants and activities for you. **Skip the lines without making a single phone call!**
