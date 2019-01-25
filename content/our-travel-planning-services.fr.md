@@ -5,7 +5,7 @@ draft: false
 slug: "nos-services-de-planification-de-sejours"
 menu:
   header:
-    name: "Planifier"
+    name: "Planifier votre séjour"
     weight: 1
 ---
 

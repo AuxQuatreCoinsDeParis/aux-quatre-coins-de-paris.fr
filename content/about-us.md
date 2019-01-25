@@ -5,7 +5,7 @@ date: 2018-10-18T17:30:25+02:00
 draft: false
 menu:
   footer:
-    name: "About us"
+    name: "About Us"
     weight: 1
 ---
 

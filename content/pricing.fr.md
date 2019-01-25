@@ -1,11 +1,11 @@
 ---
-title: "Tarifs"
+title: "Nos tarifs"
 date: 2018-10-17T18:11:20+02:00
 draft: false
 slug: "tarifs"
 menu:
   header:
-    name: "Tarifs"
+    name: "Nos tarifs"
     weight: 3
 ---
 

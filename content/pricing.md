@@ -1,10 +1,10 @@
 ---
-title: "Pricing"
+title: "Our Prices"
 date: 2018-10-17T18:11:14+02:00
 draft: false
 menu:
   header:
-    name: "Pricing"
+    name: "Our Prices"
     weight: 3
 ---
 

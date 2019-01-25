@@ -1,5 +1,5 @@
 ---
-title: "Se promener"
+title: "Nos promenades privées"
 date: 2018-10-10T18:04:37+02:00
 draft: false
 slug: "se-promener"
@@ -9,7 +9,7 @@ menu:
     weight: 2
 ---
 
-# Se promener
+# Nos promenades privées
 En plus de ses services de travel planner, Aux quatre coins de Paris vous propose des promenades privées afin d’en savoir plus sur l’art de vivre à la française, et d’en profiter bien sûr !
 
 {{< tiles-list >}}

@@ -5,7 +5,7 @@ draft: false
 slug: "../nous-contacter"
 menu:
   header:
-    name: "Contact"
+    name: "Contactez-nous"
     weight: 4
   footer:
     name: "Contactez-nous"

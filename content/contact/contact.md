@@ -5,10 +5,10 @@ draft: false
 slug: "../contact"
 menu:
   header:
-    name: "Contact"
+    name: "Contact Us"
     weight: 4
   footer:
-    name: "Contact us"
+    name: "Contact Us"
     weight: 2
 ---
 

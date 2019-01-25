@@ -5,11 +5,11 @@ draft: false
 layout: "cgu"
 menu:
   footer:
-    name: "General terms and conditions"
+    name: "General Terms and Conditions"
     weight: 3
 ---
 
-# General terms and conditions
+# General Terms and Conditions
 
 ## Introduction
 
