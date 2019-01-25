@@ -8,51 +8,55 @@ menu:
     weight: 3
 ---
 
-# Prices
+# Our Prices
 
-## Packages
+## Our Packages
 
 {{< tiles-list >}}
   {{% product title="Planning" price="300" currency="€" %}}
 * {{< icon name="users" >}} Group up to 6 people
-* {{< icon name="calendar-alt" >}} Stay up to 8 days*
+* {{< icon name="calendar-alt" >}} Stay up to 8 days <a href="#footnote-1"><sup class="footnote">(1)</sup></a>
+* {{< icon name="calendar-alt" >}} Trip starting in 2+ months <a href="#footnote-2"><sup class="footnote">(2)</sup></a>
 * {{< icon name="handshake" >}} Welcome and assistance
   {{% /product %}}
 
-  {{% product title="Planning + 1 walking tour" price="450" currency="€" %}}
+  {{% product title="Planning + 1 walking tour" initial_price="480" price="450" currency="€" %}}
 * {{< icon name="users" >}} Group up to 6 people
-* {{< icon name="calendar-alt" >}} Stay up to 8 days*
+* {{< icon name="calendar-alt" >}} Stay up to 8 days <a href="#footnote-1"><sup class="footnote">(1)</sup></a>
+* {{< icon name="calendar-alt" >}} Trip starting in 2+ months <a href="#footnote-2"><sup class="footnote">(2)</sup></a>
 * {{< icon name="handshake" >}} Welcome and assistance
 * {{< icon name="map-signs" >}} 1 walking tour
   {{% /product %}}
 
-  {{% product title="Planning + 2 walking tours" price="550" currency="€" %}}
+  {{% product title="Planning + 2 walking tours" initial_price="660" price="550" currency="€" %}}
 * {{< icon name="users" >}} Group up to 6 people
-* {{< icon name="calendar-alt" >}} Stay up to 8 days*
+* {{< icon name="calendar-alt" >}} Stay up to 8 days <a href="#footnote-1"><sup class="footnote">(1)</sup></a>
+* {{< icon name="calendar-alt" >}} Trip starting in 2+ months <a href="#footnote-2"><sup class="footnote">(2)</sup></a>
 * {{< icon name="handshake" >}} Welcome and assistance
 * {{< icon name="map-signs" >}} 2 walking tours
   {{% /product %}}
 {{< /tiles-list >}}
 
-## Walking tours
+## Our Walking Tours
 
 {{< tiles-list spaceAround="true" >}}
   {{% product title="1 walking tour" price="180" currency="€" %}}
 * {{< icon name="users" >}} Group up to 6 people
-* {{< icon name="clock" >}} Duration : approximately 4h
+* {{< icon name="clock" >}} About 3h per tour
   {{% /product %}}
 
-  {{% product title="2 walking tours" price="315" currency="€" %}}
+  {{% product title="2 walking tours" initial_price="360" price="320" currency="€" %}}
 * {{< icon name="users" >}} Group up to 6 people
-* {{< icon name="clock" >}} Duration : approximately 4h
+* {{< icon name="clock" >}} About 3h per tour
   {{% /product %}}
 {{< /tiles-list >}}
 
-Prices only cover Aux quatre coins de Paris’ services. Additional services (private drivers, guided tours with an accredited guide, entrance tickets…) are charged in addition to those prices.
+Prices only cover Aux quatre coins de Paris’ services. Additional services (private drivers, guided tours with an accredited guide, entrance tickets…) are charged in addition to those prices. Prices include taxes.
 
-For early birds (if you are organising your stay minimum 2 months in advance), Aux quatre coins de Paris offers a **discount of 15%** on its own services. Prices include taxes.
+Footnotes:
 
-\* For stays of more than 8 days in Paris, each additional day costs 30 €. Services are designed for small groups of maximum 6 people. For larger groups, an extra fee of 30 € is asked per person.
+1. <a id="footnote-1" name="footnote-1"/>For stays of more than 8 days in Paris, each additional day costs 30 €. Services are designed for small groups of maximum 6 people. For larger groups, an extra fee of 30 € is asked per person.
+2. <a id="footnote-2" name="footnote-2"/>For trips starting earlier than 2 months, the package cost is increased by 15%.
 
 For any questions, please contact us at [contact@quatre-coins.paris](mailto:contact@quatre-coins.paris). We will reply as soon as possible!
 
