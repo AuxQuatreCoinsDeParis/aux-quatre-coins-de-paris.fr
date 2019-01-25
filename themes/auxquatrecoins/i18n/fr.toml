@@ -55,7 +55,7 @@
 [message]
   other = "Message"
 
-[Send]
+[send]
   other = "Envoyer"
 
 [meta-description]
