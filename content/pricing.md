@@ -50,9 +50,9 @@ menu:
 
 Prices only cover Aux quatre coins de Paris’ services. Additional services (private drivers, guided tours with an accredited guide, entrance tickets…) are charged in addition to those prices.
 
-\* For short stays (up to 5 days in Paris), Aux quatre coins de Paris offers a **discount of 15%** on its own services. Prices include taxes.
+For early birds (if you are organising your stay minimum 2 months in advance), Aux quatre coins de Paris offers a **discount of 15%** on its own services. Prices include taxes.
 
-For stays of more than 8 days in Paris, each additional day costs 30 €. Services are designed for small groups of maximum 6 people. For larger groups, an extra fee of 30 € is asked per person.
+\* For stays of more than 8 days in Paris, each additional day costs 30 €. Services are designed for small groups of maximum 6 people. For larger groups, an extra fee of 30 € is asked per person.
 
 For any questions, please contact us at [contact@quatre-coins.paris](mailto:contact@quatre-coins.paris). We will reply as soon as possible!
 

@@ -51,9 +51,9 @@ menu:
 
 Les tarifs indiqués concernent uniquement les prestations d’Aux quatre coins de Paris. Les prestations commandées sur place (VTC, visites guidées de Manuela, billets…) sont facturées en plus.
 
-\* Pour les courts séjours (c’est-à-dire jusqu’à 5 jours sur place), Aux quatre coins de Paris offre une **remise de 15%** sur ses prestations. Les prix indiqués sont TTC.
+Pour ceux qui s'y prennent tôt (minimum 2 mois à l'avance), Aux quatre coins de Paris offre une **remise de 15%** sur ses prestations. Les prix indiqués sont TTC.
 
-Pour un séjour d’une durée supérieure à 8 jours sur place, comptez un supplément de 30€ par jour planifié supplémentaire. Les prestations sont conçues pour de petits groupes de 6 personnes maximum. Il est toutefois possible d’élargir le groupe moyennant un supplément de 30€ par personne.
+\* Pour un séjour d’une durée supérieure à 8 jours sur place, comptez un supplément de 30€ par jour planifié supplémentaire. Les prestations sont conçues pour de petits groupes de 6 personnes maximum. Il est toutefois possible d’élargir le groupe moyennant un supplément de 30€ par personne.
 
 Pour toutes questions, n’hésitez pas à nous contacter : [contact@quatre-coins.paris](mailto:contact@quatre-coins.paris). Nous vous répondrons dans les plus brefs délais !
 
