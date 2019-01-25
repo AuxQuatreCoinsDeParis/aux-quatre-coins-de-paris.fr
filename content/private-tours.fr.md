@@ -27,6 +27,7 @@ Venez découvrir avec nous les marques françaises de vêtements, maroquinerie e
 
 {{< button-sky URL="/fr/nos-promenades-privees/shopping-mode-a-paris/" />}}
   {{% /article %}}
+<!--
   {{% article title="Aux quatre coins du Marais"
      image="/private-tours/hotel-herouet-le-marais-paris-600x400.jpg"
      image-title="Hotel Herouet, le marais, Paris" %}}
@@ -34,6 +35,7 @@ Le Marais est un quartier historique de Paris, le plus fréquenté de la capital
 
 {{< button-sky URL="/fr/nos-promenades-privees/aux-quatre-coins-du-marais/" />}}
   {{% /article %}}
+-->
   {{% article title="Le Paris de vos envies"
      image="/private-tours/french-letterbox-600x400.jpg"
      image-title="Boîte aux lettres française" %}}
