@@ -5,7 +5,7 @@ draft: false
 bottomButtons: true
 ---
 
-## Paris with friends
+# Paris with friends
 
 Let’s assume for example you are a group of four girlfriends coming to have good times in Paris.
 
