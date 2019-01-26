@@ -20,14 +20,14 @@ Chaque voyageur est unique. Vous ne ressemblez à personne d’autre, pas vrai ?
 {{< tiles-list >}}
   {{< image-button title="Paris en amoureux"
       image="/travel-planning/Paris-in-love-600x400.jpeg"
-      link="paris-en-amoureux/" >}}
+      link="/fr/planification-de-sejours/paris-en-amoureux/" >}}
   {{< image-button title="Paris en famille"
       image="/travel-planning/Family-Paris-600x400.jpeg"
-      link="paris-en-famille/" >}}
+      link="/fr/planification-de-sejours/paris-en-famille/" >}}
   {{< image-button title="Paris à son rythme"
       image="/travel-planning/Paris-for-seniors-600x400.jpeg"
-      link="paris-a-son-rythme/" >}}
+      link="/fr/planification-de-sejours/paris-a-son-rythme/" >}}
   {{< image-button title="Paris entre ami(e)s"
       image="/travel-planning/Paris-with-friends-600x400.jpeg"
-      link="paris-entre-amis/" >}}
+      link="/fr/planification-de-sejours/paris-entre-amis/" >}}
 {{< /tiles-list >}}
