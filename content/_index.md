@@ -1,7 +1,12 @@
 ---
 title: "Home"
+description: >
+  Enjoy a stay in Paris specifically tailored to your wishes! Let's talk
+  and see how we can organise it, based on what you love, your budget
+  and time in Paris.
 date: 2018-10-01T15:31:35+02:00
-draft: false
+sitemap:
+  priority: 0.9
 ---
 
 {{< big-blue-text align="center" >}}All the tips you need from a native parisian to make the most of your stay in Paris!{{< /big-blue-text >}}

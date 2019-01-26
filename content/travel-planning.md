@@ -1,27 +1,32 @@
 ---
-title: "What We Do"
+title: "Our Travel Planning Services"
+description: >
+  You tell us what you love, the time you have, the pace you prefer
+  and your budget. We provide you with a plan with activities and
+  restaurants to enjoy, and how to move in Paris.
 date: 2018-10-08T11:51:39+02:00
-draft: false
+sitemap:
+  priority: 0.8
 menu:
   header:
-    name: "Planning"
+    name: "Plan Your Trip"
     weight: 1
 ---
 
-# What we do
+# Our Travel Planning Services
 Every traveller is unique. You look like no one else, don’t you? That is why *Aux quatre coins de Paris* starts from you, from your profile and your wishes to create your perfect stay in Paris. Whether you are for example a couple in love, a family with children, happy seniors or a group of friends, we have suggestions for you!
 
 {{< tiles-list >}}
   {{< image-button title="Paris in love"
-      image="/what-we-do/Paris-in-love-1024x683.jpeg"
+      image="/travel-planning/Paris-in-love-1024x683.jpeg"
       link="paris-in-love/" >}}
   {{< image-button title="Paris with children"
-      image="/what-we-do/Family-Paris-1024x683.jpeg"
+      image="/travel-planning/Family-Paris-1024x683.jpeg"
       link="paris-with-children/" >}}
   {{< image-button title="Paris at your own pace"
-      image="/what-we-do/Paris-for-seniors-1024x683.jpeg"
+      image="/travel-planning/Paris-for-seniors-1024x683.jpeg"
       link="paris-at-your-own-pace/" >}}
   {{< image-button title="Paris with friends"
-      image="/what-we-do/Paris-with-friends-1024x683.jpeg"
+      image="/travel-planning/Paris-with-friends-1024x683.jpeg"
       link="paris-with-friends/" >}}
 {{< /tiles-list >}}

@@ -2,6 +2,12 @@
 {{- with .Get "title" -}}
   <h3 class="product-title" itemprop="name">{{ . }}</h3>
 {{- end -}}
+{{- with .Get "initial_price" -}}
+  <p class="product-price fSketch product-price-replaced">
+    {{- with $.Get "currency" }}<span class="currency">{{ . }}</span>{{ end -}}
+    {{- . -}}
+  </p>
+{{- end -}}
 {{- with .Get "price" -}}
   <p class="product-price fSketch" itemprop="price">
     {{- with $.Get "currency" }}<span class="currency">{{ . }}</span>{{ end -}}

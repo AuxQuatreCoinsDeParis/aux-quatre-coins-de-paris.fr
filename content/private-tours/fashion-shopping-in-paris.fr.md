@@ -3,7 +3,7 @@ title: "Shopping mode à Paris"
 date: 2018-10-15T16:37:47+02:00
 draft: false
 bottomButtons: true
-slug: "../se-promener/shopping-mode-a-paris"
+slug: "../promenades-privees/shopping-mode-a-paris"
 ---
 
 # Shopping mode à Paris

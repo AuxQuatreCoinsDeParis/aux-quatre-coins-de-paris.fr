@@ -1,15 +1,16 @@
 ---
 title: "General Terms and Conditions"
 date: 2018-10-18T18:09:35+02:00
-draft: false
+sitemap:
+  priority: 0.0
 layout: "cgu"
 menu:
   footer:
-    name: "General terms and conditions"
+    name: "General Terms and Conditions"
     weight: 3
 ---
 
-# General terms and conditions
+# General Terms and Conditions
 
 ## Introduction
 

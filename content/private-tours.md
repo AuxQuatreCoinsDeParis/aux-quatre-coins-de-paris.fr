@@ -1,14 +1,15 @@
 ---
-title: "Private Tours"
+title: "Our Private Walking Tours"
 date: 2018-10-10T18:04:42+02:00
-draft: false
+sitemap:
+  priority: 0.6
 menu:
   header:
-    name: "Private tours"
+    name: "Book a Private Tour"
     weight: 2
 ---
 
-# Private walking tours
+# Our Private Walking Tours
 Besides our travel planning services, *Aux quatre coins de Paris* offers private walking tours to know more about the French art de vivre, and enjoy it of course!
 
 {{< tiles-list >}}
@@ -31,7 +32,7 @@ Find out with us French brands for clothes, leather goods and shoes. We plan tog
      image-title="walking tour le Marais Paris" %}}
 Le Marais is a historical area of Paris, the most visited of the city. Come and discover the cultural heritage it holds and the atmosphere around. Let's have a walk together to discover the history of this area of Paris and the numerous original shops there!
 
-{{< button-sky URL="/fr/se-promener/aux-quatre-coins-du-marais/" />}}
+<!-- {{< button-sky URL="/fr/promenades-privees/aux-quatre-coins-du-marais/" />}} -->
   {{% /article %}}
   {{% article title="Paris as you like it"
      image="/private-tours/french-letterbox.jpg"

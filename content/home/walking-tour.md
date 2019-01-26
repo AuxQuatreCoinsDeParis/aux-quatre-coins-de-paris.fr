@@ -6,6 +6,7 @@ image1: "home/truck-farmer-auguste-blanqui-market-small.jpg"
 image2: "home/trendy-clothes-shopping-paris-small.jpg"
 image3: "home/metro-over-birhakeim-bridge.jpg"
 image4: "home/sun-reading-luxembourg-gardens-paris.jpg"
+sitemap_exclude: true
 ---
 
 ## Private walking tours

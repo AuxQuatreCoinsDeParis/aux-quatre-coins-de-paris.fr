@@ -19,7 +19,9 @@
     {{- else -}}
     {{- .Title }} &#8211; {{ .Site.Title -}}
   {{- end }}</title>
-  <meta name="description" content="{{ i18n `meta-description` }}" />
+  {{- if .Description }}
+  <meta name="description" content="{{ .Description }}" />
+  {{- end }}
   <link rel="canonical" href="https://aux-quatre-coins-de-paris.fr/" />
   <link rel="shortlink" href="https://aux-quatre-coins-de-paris.fr/" />
 

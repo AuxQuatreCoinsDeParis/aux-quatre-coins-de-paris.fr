@@ -18,7 +18,7 @@ This tour is not about browsing the major French luxury brands, they already glo
 
 This tour preferably takes place during the week (from Monday to Friday) to get a better shopping experience. For the same reason, we do not recommend more than three participants for this tour. That being said, accompanists are welcome!
 
-* Duration of the tour:  approximately 4h
+* Duration of the tour:  about 4h
 * Topic: women's fashion
 * 3 participants maximum
 * Price: 180€

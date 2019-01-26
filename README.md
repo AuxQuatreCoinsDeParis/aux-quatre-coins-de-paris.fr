@@ -18,13 +18,13 @@ create big blue text with Cabin Sketch font\
 
 ### yellow button
 ```
-{{< button-light URL="/fr/se-promener/" />}}
+{{< button-light URL="/fr/promenades-privees/" />}}
 ```
 **URL="{URL}"**: replace {URL} by the link to the target page
 
 ### blue button
 ```
-{{< button-sky URL="/fr/se-promener/" />}}
+{{< button-sky URL="/fr/promenades-privees/" />}}
 ```
 **URL="{URL}"**: @see yellow button
 
@@ -46,10 +46,10 @@ There are two ways of using it : alone, it will occupy the width of the page, in
 ```
 {{< tiles-list >}}
   {{< image-button title="Paris en amoureux"
-      image="/what-we-do/Paris-in-love-1024x683.jpeg"
+      image="/travel-planning/Paris-in-love-1024x683.jpeg"
       link="#" >}}
   {{< image-button title="Paris en famille"
-      image="/what-we-do/Family-Paris-1024x683.jpeg"
+      image="/travel-planning/Family-Paris-1024x683.jpeg"
       link="#" >}}
 {{< /tiles-list >}}
 ```

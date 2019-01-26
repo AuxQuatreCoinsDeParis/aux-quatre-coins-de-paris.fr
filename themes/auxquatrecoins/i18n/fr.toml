@@ -55,8 +55,5 @@
 [message]
   other = "Message"
 
-[Send]
+[send]
   other = "Envoyer"
-
-[meta-description]
-  other = "Tous les tuyaux dont vous avez besoin de la part d'une vraie parisienne pour tirer le meilleur de votre séjour à Paris !"
