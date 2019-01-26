@@ -2,7 +2,7 @@
 title: "Paris entre ami(e)s"
 date: 2018-10-31T14:20:39+02:00
 draft: false
-slug: "../nos-services-de-planification-de-sejours/paris-entre-amies"
+slug: "../planification-de-sejours/paris-entre-amies"
 bottomButtons: true
 ---
 
@@ -34,7 +34,7 @@ alt="dôme des galeries Lafayette" class="article-image-left" >}}
 
 S’il y a bien une activité que vous ne pouvez éviter entre copines à Paris, c’est bien le shopping !
 
-Venez lécher les vitrines des Grands Magasins parisiens ou des passages couverts, ou offrez vous une [sortie shopping](https://aux-quatre-coins-de-paris.fr/fr/nos-promenades-privees/shopping-mode-a-paris/) avec Aux quatre coins de Paris ! Découvrons ensemble ce qui fait le style si particulier des parisiennes !
+Venez lécher les vitrines des Grands Magasins parisiens ou des passages couverts, ou offrez vous une [sortie shopping](../../promenades-privees/shopping-mode-a-paris/) avec Aux quatre coins de Paris ! Découvrons ensemble ce qui fait le style si particulier des parisiennes !
 
 {{< reset-float >}}
 {{< figure src="/images/paris-with-friends/night-club-paris-600x400.jpg"

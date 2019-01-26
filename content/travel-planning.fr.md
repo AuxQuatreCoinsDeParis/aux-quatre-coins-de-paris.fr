@@ -7,7 +7,7 @@ description: >
 date: 2018-10-08T11:51:48+02:00
 sitemap:
   priority: 0.8
-slug: "nos-services-de-planification-de-sejours"
+slug: "planification-de-sejours"
 menu:
   header:
     name: "Planifier votre séjour"
@@ -19,15 +19,15 @@ Chaque voyageur est unique. Vous ne ressemblez à personne d’autre, pas vrai ?
 
 {{< tiles-list >}}
   {{< image-button title="Paris en amoureux"
-      image="/our-travel-planning-services/Paris-in-love-600x400.jpeg"
+      image="/travel-planning/Paris-in-love-600x400.jpeg"
       link="paris-en-amoureux/" >}}
   {{< image-button title="Paris en famille"
-      image="/our-travel-planning-services/Family-Paris-600x400.jpeg"
+      image="/travel-planning/Family-Paris-600x400.jpeg"
       link="paris-en-famille/" >}}
   {{< image-button title="Paris à son rythme"
-      image="/our-travel-planning-services/Paris-for-seniors-600x400.jpeg"
+      image="/travel-planning/Paris-for-seniors-600x400.jpeg"
       link="paris-a-son-rythme/" >}}
   {{< image-button title="Paris entre ami(e)s"
-      image="/our-travel-planning-services/Paris-with-friends-600x400.jpeg"
+      image="/travel-planning/Paris-with-friends-600x400.jpeg"
       link="paris-entre-amies/" >}}
 {{< /tiles-list >}}

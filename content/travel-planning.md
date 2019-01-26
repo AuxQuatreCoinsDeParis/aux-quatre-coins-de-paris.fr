@@ -18,15 +18,15 @@ Every traveller is unique. You look like no one else, don’t you? That is why *
 
 {{< tiles-list >}}
   {{< image-button title="Paris in love"
-      image="/our-travel-planning-services/Paris-in-love-1024x683.jpeg"
+      image="/travel-planning/Paris-in-love-1024x683.jpeg"
       link="paris-in-love/" >}}
   {{< image-button title="Paris with children"
-      image="/our-travel-planning-services/Family-Paris-1024x683.jpeg"
+      image="/travel-planning/Family-Paris-1024x683.jpeg"
       link="paris-with-children/" >}}
   {{< image-button title="Paris at your own pace"
-      image="/our-travel-planning-services/Paris-for-seniors-1024x683.jpeg"
+      image="/travel-planning/Paris-for-seniors-1024x683.jpeg"
       link="paris-at-your-own-pace/" >}}
   {{< image-button title="Paris with friends"
-      image="/our-travel-planning-services/Paris-with-friends-1024x683.jpeg"
+      image="/travel-planning/Paris-with-friends-1024x683.jpeg"
       link="paris-with-friends/" >}}
 {{< /tiles-list >}}

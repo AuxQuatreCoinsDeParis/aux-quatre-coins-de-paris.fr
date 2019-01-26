@@ -3,7 +3,7 @@ title: "Paris en famille"
 date: 2018-10-31T14:20:39+02:00
 draft: false
 bottomButtons: true
-slug: "../nos-services-de-planification-de-sejours/paris-en-famille"
+slug: "../planification-de-sejours/paris-en-famille"
 ---
 
 # Paris en famille
@@ -32,7 +32,7 @@ alt="girafes du zoo de Vincennes" class="article-image-left" >}}
 
 Explorez de nouveaux horizons en allant au zoo de Vincennes ou en découvrant les Catacombes de Paris ! La Grande Galerie de l’évolution et les squelettes de dinosaures du musée d’Histoire Naturelle raviront également vos enfants !
 
-Pour les gourmands, réservez une [visite du marché](https://aux-quatre-coins-de-paris.fr/fr/nos-promenades-privees/en-france-mangeons-comme-les-francais/) suivie d’un pique-nique (si le temps le permet) avec Aux quatre coins de Paris. Ce sera l’occasion de parler de charcuterie, fromages et autres spécialités régionales !
+Pour les gourmands, réservez une [visite du marché](../../promenades-privees/en-france-mangeons-comme-les-francais/) suivie d’un pique-nique (si le temps le permet) avec Aux quatre coins de Paris. Ce sera l’occasion de parler de charcuterie, fromages et autres spécialités régionales !
 
 {{< reset-float >}}
 {{< figure src="/images/paris-with-children/parc-asterix-600x400.jpg"
