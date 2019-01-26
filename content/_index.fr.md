@@ -7,6 +7,7 @@ description: >
 date: 2018-10-01T15:31:35+02:00
 sitemap:
   priority: 0.9
+canonical_link: "/fr/"
 ---
 
 {{< big-blue-text align="center" >}}Tous les tuyaux dont vous avez besoin de la part d'une vraie parisienne pour tirer le meilleur de votre séjour à&nbsp;Paris&nbsp;!{{< /big-blue-text >}}

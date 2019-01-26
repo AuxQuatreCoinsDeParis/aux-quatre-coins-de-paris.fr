@@ -1,4 +1,4 @@
-baseURL = "https://aux-quatre-coins-de-paris.fr"
+baseURL = "https://aux-quatre-coins-de-paris.fr/"
 defaultContentLanguage = "en"
 title = "Aux quatre coins de Paris"
 theme = "auxquatrecoins"
