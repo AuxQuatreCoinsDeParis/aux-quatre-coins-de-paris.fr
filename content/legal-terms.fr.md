@@ -20,6 +20,6 @@ N° de TVA intracommunautaire : FR 58 823739503
 
 Responsable de la publication : Audrey Pizzolato
 
-Le site est hébergé par la société Online SAS ([www.online.net/fr](https://www.online.net/fr)), BP 438, 75366 Paris Cedex 8 – Tél. : 01 84 13 00 00
+Le site est hébergé par la société Netlify ([https://www.netlify.com/](https://www.netlify.com/)), 2325 3rd St, Suite 215, San Francisco, CA 94107, États-Unis – Tél. : +1 415-691-1573
 
 La marque Aux quatre coins de Paris est une marque déposée. Toute reproduction totale ou partielle, modification ou utilisation de cette marque et de son logo, pour quelque motif et sur quelque support que ce soit, sans l’accord exprès et préalable de la Société, est interdite.
