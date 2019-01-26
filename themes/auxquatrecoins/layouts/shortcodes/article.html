@@ -1,5 +1,5 @@
 <article class="article-classic flex-col">
-  {{- with .Get "title"}}<h1 class="fSketch h2">{{ . }}</h1>{{ end }}
+  {{- with .Get "title"}}<h2 class="fSketch h2">{{ . }}</h2>{{ end }}
   {{ .Inner }}
   <img src="\images{{ .Get `image` }}" alt="{{ .Get `image-title` }}">
 </article>
