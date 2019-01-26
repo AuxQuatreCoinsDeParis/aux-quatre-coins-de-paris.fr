@@ -1,6 +1,6 @@
 <head>
 {{- if .Params.canonical_link }}
-  <link rel="canonical" href="{{ path.Join .Site.BaseURL }}{{ .Params.canonical_link }}" />
+  <link rel="canonical" href="{{ trim .Site.BaseURL "/" }}{{ .Params.canonical_link }}" />
 {{- end }}
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
