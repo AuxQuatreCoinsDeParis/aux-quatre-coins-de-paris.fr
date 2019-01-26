@@ -2,7 +2,7 @@
 title: "Paris entre ami(e)s"
 date: 2018-10-31T14:20:39+02:00
 draft: false
-slug: "../planification-de-sejours/paris-entre-amies"
+slug: "../planification-de-sejours/paris-entre-amis"
 bottomButtons: true
 ---
 

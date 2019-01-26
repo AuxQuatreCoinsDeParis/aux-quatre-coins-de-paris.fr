@@ -29,5 +29,5 @@ Chaque voyageur est unique. Vous ne ressemblez à personne d’autre, pas vrai ?
       link="paris-a-son-rythme/" >}}
   {{< image-button title="Paris entre ami(e)s"
       image="/travel-planning/Paris-with-friends-600x400.jpeg"
-      link="paris-entre-amies/" >}}
+      link="paris-entre-amis/" >}}
 {{< /tiles-list >}}
