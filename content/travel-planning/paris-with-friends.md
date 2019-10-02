@@ -5,7 +5,7 @@ draft: false
 bottomButtons: true
 ---
 
-## Paris with friends
+# Paris with friends
 
 Let’s assume for example you are a group of four girlfriends coming to have good times in Paris.
 
@@ -33,7 +33,7 @@ alt="under the rounded roof of the galeries Lafayette" class="article-image-left
 
 If there is one activity you cannot miss when coming to Paris with girlfriends, it definitely is shopping!
 
-Go window shopping at the Grands Magasins on the Haussmann boulevard or at the glass-roofed passageways, or enjoy a [shopping tour](https://aux-quatre-coins-de-paris.fr/private-tours/fashion-shopping-in-paris/) with *Aux quatre coins de Paris!* Together we’ll discover what makes the so special style of the parisian women!
+Go window shopping at the Grands Magasins on the Haussmann boulevard or at the glass-roofed passageways, or enjoy a [shopping tour](../../private-tours/fashion-shopping-in-paris/) with *Aux quatre coins de Paris!* Together we’ll discover what makes the so special style of the parisian women!
 
 {{< reset-float >}}
 {{< figure src="/images/paris-with-friends/night-club-paris-600x400.jpg"

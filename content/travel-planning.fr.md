@@ -1,8 +1,13 @@
 ---
 title: "Nos services de planification de séjours"
+description: >
+  Vous nous dites ce que vous aimez, le temps que vous avez, votre
+  rythme et votre budget. Nous vous fournissons un planning avec les
+  lieux et restaurants où aller, et comment vous déplacer dans Paris.
 date: 2018-10-08T11:51:48+02:00
-draft: false
-slug: "nos-services-de-planification-de-sejours"
+sitemap:
+  priority: 0.8
+slug: "planification-de-sejours"
 menu:
   header:
     name: "Planifier votre séjour"
@@ -14,15 +19,15 @@ Chaque voyageur est unique. Vous ne ressemblez à personne d’autre, pas vrai ?
 
 {{< tiles-list >}}
   {{< image-button title="Paris en amoureux"
-      image="/our-travel-planning-services/Paris-in-love-600x400.jpeg"
-      link="paris-en-amoureux/" >}}
+      image="/travel-planning/Paris-in-love-600x400.jpeg"
+      link="/fr/planification-de-sejours/paris-en-amoureux/" >}}
   {{< image-button title="Paris en famille"
-      image="/our-travel-planning-services/Family-Paris-600x400.jpeg"
-      link="paris-en-famille/" >}}
+      image="/travel-planning/Family-Paris-600x400.jpeg"
+      link="/fr/planification-de-sejours/paris-en-famille/" >}}
   {{< image-button title="Paris à son rythme"
-      image="/our-travel-planning-services/Paris-for-seniors-600x400.jpeg"
-      link="paris-a-son-rythme/" >}}
+      image="/travel-planning/Paris-for-seniors-600x400.jpeg"
+      link="/fr/planification-de-sejours/paris-a-son-rythme/" >}}
   {{< image-button title="Paris entre ami(e)s"
-      image="/our-travel-planning-services/Paris-with-friends-600x400.jpeg"
-      link="paris-entre-amies/" >}}
+      image="/travel-planning/Paris-with-friends-600x400.jpeg"
+      link="/fr/planification-de-sejours/paris-entre-amis/" >}}
 {{< /tiles-list >}}

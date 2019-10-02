@@ -1,7 +1,9 @@
 ---
 title: "Conditions générales de service"
 date: 2018-10-18T18:09:41+02:00
-draft: false
+slug: "conditions-generales-de-service"
+sitemap:
+  priority: 0.0
 layout: "cgu"
 menu:
   footer:

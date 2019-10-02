@@ -7,7 +7,7 @@ image: "/images/home/localers-tips-paris-street-536x536.jpg"
 imageBig: "/images/home/localers-tips-paris-street-768x768.jpg"
 title: "Conseils et réservations"
 button: true
-buttonSlug: '/fr/nos-services-de-planification-de-sejours/'
+buttonSlug: '/fr/planification-de-sejours/'
 sitemap_exclude: true
 ---
 

@@ -1,7 +1,8 @@
 ---
 title: "Contact"
 date: 2018-10-16T11:07:49+02:00
-draft: false
+sitemap:
+  priority: 0.6
 slug: "../contact"
 menu:
   header:

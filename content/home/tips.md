@@ -7,7 +7,7 @@ image: "/images/home/localers-tips-paris-street-768x768.jpg"
 imageBig: "/images/home/localers-tips-paris-street-1024x1024.jpg"
 title: "Localer's tips & reservations"
 button: true
-buttonSlug: 'our-travel-planning-services/'
+buttonSlug: 'travel-planning/'
 sitemap_exclude: true
 ---
 
